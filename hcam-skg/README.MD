@@ -419,12 +419,12 @@ HCAM-KG™ custom context may be used for JSON-LD export when needed.
 ### Recommended Custom Context
 
 
-https://ai.gurukulonroad.com/
+https://ai.gurukulonroad.com/p/hcam-atomic-knowledge-unit.html
 
 
 ### Recommended Namespace
 
-https://ai.gurukulonroad.com
+https://ai.gurukulonroad.com/p/hcam-atomic-knowledge-unit.html
 
 ---
 
