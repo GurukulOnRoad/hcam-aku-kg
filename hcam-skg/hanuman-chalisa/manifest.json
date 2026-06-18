@@ -1,0 +1,243 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"manifest_type": "Corpus Manifest",
+"manifest_id": "HCAM-MANIFEST-SPIRIT-HANUMAN-CHALISA-V1",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"corpus_name": "Hanuman Chalisa HCAM-AKU Spiritual Corpus",
+"source_work": "Hanuman Chalisa",
+"parent_graph": {
+"graph_name": "HCAM™ Spiritual Knowledge Graph",
+"graph_abbreviation": "HCAM-SKG™",
+"domain": "Spirituality",
+"domain_folder": "hcam-skg"
+},
+"parent_framework": {
+"framework_name": "HCAM™ Atomic Knowledge Unit",
+"framework_abbreviation": "HCAM-AKU™",
+"canonical_description": "HCAM™ Atomic Knowledge Unit is a structured, self-contained knowledge object designed to represent a single concept in a machine-readable, retrievable, governed, and AI-trainable format."
+},
+"repository": {
+"repository_name": "hcam-aku-kg",
+"repository_owner": "GurukulOnRoad",
+"recommended_path": "hcam-skg/hanuman-chalisa",
+"github_url": "https://github.com/GurukulOnRoad/hcam-aku-kg/tree/main/hcam-skg"
+},
+"version": {
+"corpus_version": "1.0",
+"release_status": "Evaluation Release",
+"publication_status": "Active",
+"lifecycle_stage": "Published Evaluation Corpus"
+},
+"language_layer": {
+"primary_languages": [
+"Hindi",
+"English",
+"Hinglish"
+],
+"script_layers": [
+"Devanagari",
+"Latin"
+],
+"cognitive_layer": [
+"English explanation",
+"Hindi explanation",
+"Hinglish recall"
+]
+},
+"domain_scope": {
+"domain": "Spirituality",
+"sub_domains": [
+"Devotion",
+"Wisdom",
+"Strength",
+"Service",
+"Courage",
+"Leadership",
+"Discipline",
+"Humility",
+"Protection",
+"Purpose"
+],
+"corpus_type": "Spiritual Wisdom Knowledge Graph Corpus"
+},
+"corpus_coverage": {
+"source_units": 40,
+"evidence_units": 40,
+"primary_akus": 40,
+"coverage_note": "This corpus maps all 40 Hanuman Chalisa chaupais into HCAM-AKU structured knowledge objects."
+},
+"registry_files": [
+{
+"file_name": "evidence.json",
+"file_path": "corpus/evidence.json",
+"registry_type": "Evidence Registry",
+"description": "Contains 40 evidence units mapped to Hanuman Chalisa chaupais."
+},
+{
+"file_name": "aku.json",
+"file_path": "corpus/aku.json",
+"registry_type": "AKU Registry",
+"description": "Contains 40 primary HCAM-AKU knowledge objects supported by evidence units."
+},
+{
+"file_name": "concepts.json",
+"file_path": "corpus/concepts.json",
+"registry_type": "Concept Registry",
+"description": "Contains core, supporting, hidden, and practical concepts extracted from the chaupais."
+},
+{
+"file_name": "life-situations.json",
+"file_path": "corpus/life-situations.json",
+"registry_type": "Life Situation Registry",
+"description": "Maps AKUs to practical life situations such as fear, anxiety, self-doubt, leadership pressure, decision making, and purpose seeking."
+},
+{
+"file_name": "practices.json",
+"file_path": "corpus/practices.json",
+"registry_type": "Practice Registry",
+"description": "Maps AKUs to spiritual and reflective practices such as recitation, reflection, meditation, seva, japa, discipline, and breath awareness."
+},
+{
+"file_name": "retrieval.json",
+"file_path": "corpus/retrieval.json",
+"registry_type": "Retrieval Registry",
+"description": "Contains user questions, search queries, conversational queries, and voice queries for AI retrieval."
+},
+{
+"file_name": "relationships.json",
+"file_path": "corpus/relationships.json",
+"registry_type": "Relationship Registry",
+"description": "Defines relationships between AKUs, concepts, life situations, practices, and opposing concepts."
+},
+{
+"file_name": "anchors.json",
+"file_path": "corpus/anchors.json",
+"registry_type": "Anchor Registry",
+"description": "Contains Hindi memory anchors, Hinglish recall anchors, and story anchors for cognitive retention."
+}
+],
+"documentation_files": [
+{
+"file_name": "README.md",
+"file_path": "README.md",
+"description": "Primary repository introduction and corpus overview."
+},
+{
+"file_name": "LICENSE.md",
+"file_path": "LICENSE.md",
+"description": "Educational Reference, Research Use, and Commercial Separation License."
+},
+{
+"file_name": "corpus-methodology.md",
+"file_path": "docs/corpus-methodology.md",
+"description": "Explains the HCAM-AKU corpus-building methodology."
+},
+{
+"file_name": "ontology.md",
+"file_path": "docs/ontology.md",
+"description": "Defines the ontology model used in the corpus."
+},
+{
+"file_name": "hcam-aku-definition.md",
+"file_path": "docs/hcam-aku-definition.md",
+"description": "Defines HCAM™ Atomic Knowledge Unit as a structured knowledge object."
+},
+{
+"file_name": "jsonld-alignment.md",
+"file_path": "docs/jsonld-alignment.md",
+"description": "Explains why HCAM-native JSON is used internally and how HCAM-KG custom context may be used for JSON-LD export."
+}
+],
+"example_files": [
+{
+"file_name": "chaupai-01-complete.json",
+"file_path": "examples/chaupai-01-complete.json",
+"description": "Complete assembled HCAM-AKU example for Chaupai 1."
+},
+{
+"file_name": "chaupai-20-complete.json",
+"file_path": "examples/chaupai-20-complete.json",
+"description": "Complete assembled HCAM-AKU example for Chaupai 20."
+},
+{
+"file_name": "chaupai-40-complete.json",
+"file_path": "examples/chaupai-40-complete.json",
+"description": "Complete assembled HCAM-AKU example for Chaupai 40."
+}
+],
+"id_policy": {
+"evidence_id_pattern": "HC-EVIDENCE-CH-XXX",
+"aku_id_pattern": "HCAM-SPIRIT-HC-XXXX",
+"concept_id_pattern": "HC-CONCEPT-XXXX",
+"life_situation_id_pattern": "HC-LIFE-XXXX",
+"practice_id_pattern": "HC-PRACTICE-XXXX",
+"anchor_id_pattern": "HC-ANCHOR-XXXX",
+"relationship_id_pattern": "HC-REL-XXXX"
+},
+"json_strategy": {
+"internal_format": "HCAM-native JSON",
+"schema_org_usage": "External discovery wrapper only",
+"jsonld_context_strategy": "Use HCAM-KG custom context for JSON-LD export when required.",
+"recommended_custom_context": "https://ai.gurukulonroad.com/context/hcam-kg-v1.jsonld",
+"recommended_namespace": "https://ai.gurukulonroad.com/ns/hcamkg#"
+},
+"ai_use_cases": [
+"RAG systems",
+"AI retrieval",
+"Knowledge graph construction",
+"Fine-tuning dataset preparation",
+"Educational content generation",
+"Multilingual cognition",
+"Spiritual query answering",
+"Conversational AI grounding",
+"Voice query mapping",
+"Concept-level reasoning"
+],
+"license": {
+"license_name": "HCAM™ Educational Reference, Research Use & Commercial Separation License",
+"license_abbreviation": "ERRCSL-1.0",
+"license_file": "LICENSE.md",
+"commercial_use": "Requires explicit authorization",
+"educational_reference_use": "Allowed with attribution",
+"research_evaluation_use": "Allowed with attribution"
+},
+"commercial_separation": {
+"public_repository_purpose": [
+"Evaluation",
+"Research",
+"Feedback",
+"Knowledge graph demonstration",
+"Methodology validation"
+],
+"commercial_deployment_note": "Commercial HCAM-AKU deployments, custom scripture corpora, enterprise knowledge graphs, and production-grade corpus systems may be governed under separate commercial agreements."
+},
+"future_expansion": {
+"graph_status": "Living Project",
+"possible_future_corpora": [
+"HCAM-SPIRIT-BHAGAVAD-GITA-V1",
+"HCAM-SPIRIT-SUNDAR-KAND-V1",
+"HCAM-SPIRIT-RAMAYANA-V1",
+"HCAM-SPIRIT-MAHABHARATA-V1",
+"HCAM-SPIRIT-UPANISHAD-V1",
+"HCAM-SPIRIT-GHERANDA-SAMHITA-V1"
+],
+"custom_corpus_support": true
+},
+"validation_status": {
+"evidence_registry_created": true,
+"aku_registry_created": true,
+"concept_registry_created": true,
+"life_situation_registry_created": true,
+"practice_registry_created": true,
+"retrieval_registry_created": true,
+"relationship_registry_created": true,
+"anchor_registry_created": true,
+"examples_available": true,
+"jsonld_alignment_documented": true
+},
+"status": {
+"corpus_status": "Completed",
+"repository_readiness": "Near Publication Ready",
+"next_recommended_file": "aku-index.json"
+}
+}
