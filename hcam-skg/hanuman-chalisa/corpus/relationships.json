@@ -1,0 +1,369 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"registry_type": "Relationship Registry",
+"source_work": "Hanuman Chalisa",
+"total_relationship_units": 40,
+"relationship_units": [
+{
+"relationship_id": "HC-REL-0001",
+"source_aku": "HCAM-SPIRIT-HC-0001",
+"source_evidence": "HC-EVIDENCE-CH-001",
+"related_concepts": ["Wisdom", "Virtue", "Devotion", "Leadership", "Divine Recognition"],
+"dependent_concepts": ["Clarity", "Humility", "Ethical Awareness"],
+"supporting_concepts": ["Knowledge", "Good Qualities", "Spiritual Intelligence", "Recognition"],
+"opposing_concepts": ["Ignorance", "Confusion", "Arrogance", "Vice"]
+},
+{
+"relationship_id": "HC-REL-0002",
+"source_aku": "HCAM-SPIRIT-HC-0002",
+"source_evidence": "HC-EVIDENCE-CH-002",
+"related_concepts": ["Strength", "Service", "Duty", "Purpose", "Mission Alignment"],
+"dependent_concepts": ["Loyalty", "Responsibility", "Courage"],
+"supporting_concepts": ["Discipline", "Devotion", "Readiness", "Selfless Action"],
+"opposing_concepts": ["Weakness", "Aimlessness", "Selfishness", "Irresponsibility"]
+},
+{
+"relationship_id": "HC-REL-0003",
+"source_aku": "HCAM-SPIRIT-HC-0003",
+"source_evidence": "HC-EVIDENCE-CH-003",
+"related_concepts": ["Courage", "Right Intellect", "Mental Strength", "Discernment"],
+"dependent_concepts": ["Awareness", "Self-Control", "Clarity"],
+"supporting_concepts": ["Positive Thinking", "Virtuous Guidance", "Inner Strength", "Wisdom"],
+"opposing_concepts": ["Wrong Thinking", "Confusion", "Fear", "Self-Sabotage"]
+},
+{
+"relationship_id": "HC-REL-0004",
+"source_aku": "HCAM-SPIRIT-HC-0004",
+"source_evidence": "HC-EVIDENCE-CH-004",
+"related_concepts": ["Inner Excellence", "Radiant Presence", "Dignity", "Authenticity"],
+"dependent_concepts": ["Character", "Self-Awareness", "Integrity"],
+"supporting_concepts": ["Confidence", "Composure", "Noble Conduct", "Personal Presentation"],
+"opposing_concepts": ["Inauthenticity", "Low Self-Worth", "Disorder", "Inner-Outer Misalignment"]
+},
+{
+"relationship_id": "HC-REL-0005",
+"source_aku": "HCAM-SPIRIT-HC-0005",
+"source_evidence": "HC-EVIDENCE-CH-005",
+"related_concepts": ["Disciplined Strength", "Duty", "Commitment", "Responsibility"],
+"dependent_concepts": ["Accountability", "Restraint", "Purpose"],
+"supporting_concepts": ["Sacred Duty", "Symbolic Leadership", "Discipline", "Courage"],
+"opposing_concepts": ["Carelessness", "Undisciplined Power", "Negligence", "Irresponsibility"]
+},
+{
+"relationship_id": "HC-REL-0006",
+"source_aku": "HCAM-SPIRIT-HC-0006",
+"source_evidence": "HC-EVIDENCE-CH-006",
+"related_concepts": ["Radiance", "Noble Reputation", "Influence", "Character"],
+"dependent_concepts": ["Integrity", "Virtue", "Consistency"],
+"supporting_concepts": ["Lineage Responsibility", "Service", "Respect", "Inner Power"],
+"opposing_concepts": ["Dishonor", "Ego", "False Reputation", "Character Weakness"]
+},
+{
+"relationship_id": "HC-REL-0007",
+"source_aku": "HCAM-SPIRIT-HC-0007",
+"source_evidence": "HC-EVIDENCE-CH-007",
+"related_concepts": ["Knowledge", "Virtuous Competence", "Purposeful Execution", "Mission Readiness"],
+"dependent_concepts": ["Skill", "Discipline", "Clarity"],
+"supporting_concepts": ["Intelligence", "Readiness", "Service", "Action Orientation"],
+"opposing_concepts": ["Procrastination", "Unused Knowledge", "Directionlessness", "Incompetence"]
+},
+{
+"relationship_id": "HC-REL-0008",
+"source_aku": "HCAM-SPIRIT-HC-0008",
+"source_evidence": "HC-EVIDENCE-CH-008",
+"related_concepts": ["Noble Attention", "Character Learning", "Internalized Values", "Identity Anchoring"],
+"dependent_concepts": ["Focus", "Devotion", "Reflection"],
+"supporting_concepts": ["Positive Influence", "Role Model Learning", "Value Contemplation", "Mind Discipline"],
+"opposing_concepts": ["Distraction", "Negative Influence", "Value Confusion", "Identity Drift"]
+},
+{
+"relationship_id": "HC-REL-0009",
+"source_aku": "HCAM-SPIRIT-HC-0009",
+"source_evidence": "HC-EVIDENCE-CH-009",
+"related_concepts": ["Adaptability", "Situational Intelligence", "Strategic Flexibility", "Purpose Alignment"],
+"dependent_concepts": ["Discernment", "Context Awareness", "Mission Clarity"],
+"supporting_concepts": ["Flexible Response", "Courage", "Communication", "Problem Solving"],
+"opposing_concepts": ["Rigidity", "Misjudgment", "Overreaction", "Mission Drift"]
+},
+{
+"relationship_id": "HC-REL-0010",
+"source_aku": "HCAM-SPIRIT-HC-0010",
+"source_evidence": "HC-EVIDENCE-CH-010",
+"related_concepts": ["Courage", "Strength", "Mission Alignment", "Execution", "Leadership", "Responsibility"],
+"dependent_concepts": ["Purpose", "Commitment", "Discipline"],
+"supporting_concepts": ["Resilience", "Protective Courage", "Action Orientation", "Problem Solving"],
+"opposing_concepts": ["Fear", "Avoidance", "Indecision", "Passivity"]
+},
+{
+"relationship_id": "HC-REL-0011",
+"source_aku": "HCAM-SPIRIT-HC-0011",
+"source_evidence": "HC-EVIDENCE-CH-011",
+"related_concepts": ["Service", "Responsibility", "Leadership", "Healing", "Recovery", "Mission Fulfillment"],
+"dependent_concepts": ["Commitment", "Action", "Courage"],
+"supporting_concepts": ["Urgency", "Initiative", "Problem Solving", "Reliability"],
+"opposing_concepts": ["Neglect", "Delay", "Panic", "Avoidance"]
+},
+{
+"relationship_id": "HC-REL-0012",
+"source_aku": "HCAM-SPIRIT-HC-0012",
+"source_evidence": "HC-EVIDENCE-CH-012",
+"related_concepts": ["Trust", "Loyalty", "Service", "Contribution", "Leadership", "Reliability"],
+"dependent_concepts": ["Integrity", "Consistency", "Responsibility"],
+"supporting_concepts": ["Humility", "Commitment", "Mission Alignment", "Respect"],
+"opposing_concepts": ["Betrayal", "Selfishness", "Inconsistency", "Opportunism"]
+},
+{
+"relationship_id": "HC-REL-0013",
+"source_aku": "HCAM-SPIRIT-HC-0013",
+"source_evidence": "HC-EVIDENCE-CH-013",
+"related_concepts": ["Contribution", "Trust", "Service", "Legacy", "Purpose", "Excellence"],
+"dependent_concepts": ["Integrity", "Commitment", "Consistency"],
+"supporting_concepts": ["Humility", "Intrinsic Motivation", "Mission Alignment", "Enduring Impact"],
+"opposing_concepts": ["Vanity", "Recognition Addiction", "Self Promotion", "External Validation Dependence"]
+},
+{
+"relationship_id": "HC-REL-0014",
+"source_aku": "HCAM-SPIRIT-HC-0014",
+"source_evidence": "HC-EVIDENCE-CH-014",
+"related_concepts": ["Excellence", "Credibility", "Wisdom", "Contribution", "Mastery", "Trust"],
+"dependent_concepts": ["Integrity", "Consistency", "Competence"],
+"supporting_concepts": ["Humility", "Service", "Knowledge", "Discernment"],
+"opposing_concepts": ["Pretension", "False Authority", "Superficial Recognition", "Incompetence"]
+},
+{
+"relationship_id": "HC-REL-0015",
+"source_aku": "HCAM-SPIRIT-HC-0015",
+"source_evidence": "HC-EVIDENCE-CH-015",
+"related_concepts": ["Humility", "Wisdom", "Learning", "Excellence", "Curiosity", "Discernment"],
+"dependent_concepts": ["Self Awareness", "Reflection", "Perspective"],
+"supporting_concepts": ["Respect", "Inquiry", "Growth Mindset", "Intellectual Honesty"],
+"opposing_concepts": ["Arrogance", "Ego", "Dogmatism", "Overconfidence"]
+},
+{
+"relationship_id": "HC-REL-0016",
+"source_aku": "HCAM-SPIRIT-HC-0016",
+"source_evidence": "HC-EVIDENCE-CH-016",
+"related_concepts": ["Trust", "Mentorship", "Leadership", "Collaboration", "Opportunity", "Service"],
+"dependent_concepts": ["Credibility", "Integrity", "Communication"],
+"supporting_concepts": ["Bridge Building", "Guidance", "Support", "Facilitation"],
+"opposing_concepts": ["Isolation", "Manipulation", "Selfishness", "Distrust"]
+},
+{
+"relationship_id": "HC-REL-0017",
+"source_aku": "HCAM-SPIRIT-HC-0017",
+"source_evidence": "HC-EVIDENCE-CH-017",
+"related_concepts": ["Wisdom", "Mentorship", "Decision Making", "Leadership", "Learning", "Transformation"],
+"dependent_concepts": ["Humility", "Trust", "Action"],
+"supporting_concepts": ["Discernment", "Guidance", "Perspective", "Experience"],
+"opposing_concepts": ["Stubbornness", "Arrogance", "Impulsiveness", "Advice Rejection"]
+},
+{
+"relationship_id": "HC-REL-0018",
+"source_aku": "HCAM-SPIRIT-HC-0018",
+"source_evidence": "HC-EVIDENCE-CH-018",
+"related_concepts": ["Courage", "Vision", "Growth", "Potential", "Curiosity", "Ambition"],
+"dependent_concepts": ["Confidence", "Action", "Exploration"],
+"supporting_concepts": ["Innovation", "Optimism", "Possibility Thinking", "Resilience"],
+"opposing_concepts": ["Fear", "Self-Doubt", "Limiting Beliefs", "Resignation"]
+},
+{
+"relationship_id": "HC-REL-0019",
+"source_aku": "HCAM-SPIRIT-HC-0019",
+"source_evidence": "HC-EVIDENCE-CH-019",
+"related_concepts": ["Trust", "Responsibility", "Leadership", "Purpose", "Commitment", "Achievement"],
+"dependent_concepts": ["Integrity", "Reliability", "Discipline"],
+"supporting_concepts": ["Confidence", "Mission Authority", "Service", "Perseverance"],
+"opposing_concepts": ["Negligence", "Distrust", "Avoidance", "Purposelessness"]
+},
+{
+"relationship_id": "HC-REL-0020",
+"source_aku": "HCAM-SPIRIT-HC-0020",
+"source_evidence": "HC-EVIDENCE-CH-020",
+"related_concepts": ["Support", "Wisdom", "Guidance", "Resilience", "Problem Solving", "Growth"],
+"dependent_concepts": ["Trust", "Action", "Learning"],
+"supporting_concepts": ["Mentorship", "Confidence", "Discipline", "Collaboration"],
+"opposing_concepts": ["Isolation", "Hopelessness", "Defeatism", "Resistance To Help"]
+},
+{
+"relationship_id": "HC-REL-0021",
+"source_aku": "HCAM-SPIRIT-HC-0021",
+"source_evidence": "HC-EVIDENCE-CH-021",
+"related_concepts": ["Trust", "Responsibility", "Leadership", "Integrity", "Qualification", "Stewardship"],
+"dependent_concepts": ["Discipline", "Character", "Readiness"],
+"supporting_concepts": ["Accountability", "Governance", "Protection", "Standards"],
+"opposing_concepts": ["Entitlement", "Negligence", "Carelessness", "Unqualified Access"]
+},
+{
+"relationship_id": "HC-REL-0022",
+"source_aku": "HCAM-SPIRIT-HC-0022",
+"source_evidence": "HC-EVIDENCE-CH-022",
+"related_concepts": ["Trust", "Protection", "Confidence", "Wellbeing", "Resilience", "Security"],
+"dependent_concepts": ["Faith", "Support", "Preparedness"],
+"supporting_concepts": ["Courage", "Emotional Stability", "Guidance", "Inner Strength"],
+"opposing_concepts": ["Fear", "Anxiety", "Insecurity", "Hopelessness"]
+},
+{
+"relationship_id": "HC-REL-0023",
+"source_aku": "HCAM-SPIRIT-HC-0023",
+"source_evidence": "HC-EVIDENCE-CH-023",
+"related_concepts": ["Discipline", "Strength", "Leadership", "Wisdom", "Responsibility", "Influence"],
+"dependent_concepts": ["Awareness", "Self Control", "Integrity"],
+"supporting_concepts": ["Patience", "Restraint", "Maturity", "Emotional Intelligence"],
+"opposing_concepts": ["Impulsiveness", "Arrogance", "Abuse Of Power", "Reactivity"]
+},
+{
+"relationship_id": "HC-REL-0024",
+"source_aku": "HCAM-SPIRIT-HC-0024",
+"source_evidence": "HC-EVIDENCE-CH-024",
+"related_concepts": ["Courage", "Resilience", "Confidence", "Mental Strength", "Protection", "Awareness"],
+"dependent_concepts": ["Self Control", "Discipline", "Focus"],
+"supporting_concepts": ["Emotional Stability", "Fear Reduction", "Preparedness", "Inner Strength"],
+"opposing_concepts": ["Fear", "Anxiety", "Negativity", "Psychological Vulnerability"]
+},
+{
+"relationship_id": "HC-REL-0025",
+"source_aku": "HCAM-SPIRIT-HC-0025",
+"source_evidence": "HC-EVIDENCE-CH-025",
+"related_concepts": ["Resilience", "Healing", "Discipline", "Recovery", "Wellbeing", "Consistency"],
+"dependent_concepts": ["Commitment", "Patience", "Practice"],
+"supporting_concepts": ["Hope", "Focus", "Emotional Stability", "Self-Care"],
+"opposing_concepts": ["Neglect", "Despair", "Inconsistency", "Hopelessness"]
+},
+{
+"relationship_id": "HC-REL-0026",
+"source_aku": "HCAM-SPIRIT-HC-0026",
+"source_evidence": "HC-EVIDENCE-CH-026",
+"related_concepts": ["Focus", "Integrity", "Discipline", "Consistency", "Resilience", "Purpose"],
+"dependent_concepts": ["Self Awareness", "Commitment", "Attention"],
+"supporting_concepts": ["Clarity", "Alignment", "Execution", "Self Control"],
+"opposing_concepts": ["Confusion", "Distraction", "Internal Conflict", "Contradiction"]
+},
+{
+"relationship_id": "HC-REL-0027",
+"source_aku": "HCAM-SPIRIT-HC-0027",
+"source_evidence": "HC-EVIDENCE-CH-027",
+"related_concepts": ["Discipline", "Execution", "Purpose", "Leadership", "Reliability", "Achievement"],
+"dependent_concepts": ["Focus", "Commitment", "Responsibility"],
+"supporting_concepts": ["Consistency", "Service", "Accountability", "Performance"],
+"opposing_concepts": ["Procrastination", "Distraction", "Unreliability", "Incomplete Execution"]
+},
+{
+"relationship_id": "HC-REL-0028",
+"source_aku": "HCAM-SPIRIT-HC-0028",
+"source_evidence": "HC-EVIDENCE-CH-028",
+"related_concepts": ["Purpose", "Meaning", "Achievement", "Aspiration", "Growth", "Fulfillment"],
+"dependent_concepts": ["Clarity", "Commitment", "Values"],
+"supporting_concepts": ["Vision", "Goal Setting", "Self Awareness", "Intentional Living"],
+"opposing_concepts": ["Aimlessness", "Confusion", "Meaninglessness", "Impulsive Pursuit"]
+},
+{
+"relationship_id": "HC-REL-0029",
+"source_aku": "HCAM-SPIRIT-HC-0029",
+"source_evidence": "HC-EVIDENCE-CH-029",
+"related_concepts": ["Legacy", "Purpose", "Service", "Contribution", "Impact", "Influence"],
+"dependent_concepts": ["Consistency", "Value Creation", "Commitment"],
+"supporting_concepts": ["Wisdom", "Seva", "Leadership", "Stewardship"],
+"opposing_concepts": ["Short-Term Thinking", "Vanity", "Temporary Recognition", "Self-Centered Achievement"]
+},
+{
+"relationship_id": "HC-REL-0030",
+"source_aku": "HCAM-SPIRIT-HC-0030",
+"source_evidence": "HC-EVIDENCE-CH-030",
+"related_concepts": ["Integrity", "Protection", "Leadership", "Service", "Courage", "Responsibility"],
+"dependent_concepts": ["Awareness", "Discernment", "Commitment"],
+"supporting_concepts": ["Justice", "Ethics", "Boundaries", "Stewardship"],
+"opposing_concepts": ["Corruption", "Neglect", "Cowardice", "Destructive Influence"]
+},
+{
+"relationship_id": "HC-REL-0031",
+"source_aku": "HCAM-SPIRIT-HC-0031",
+"source_evidence": "HC-EVIDENCE-CH-031",
+"related_concepts": ["Abundance", "Leadership", "Empowerment", "Service", "Generosity", "Stewardship"],
+"dependent_concepts": ["Wisdom", "Responsibility", "Integrity"],
+"supporting_concepts": ["Contribution", "Resource Management", "Mentorship", "Opportunity Creation"],
+"opposing_concepts": ["Greed", "Selfishness", "Waste", "Misuse Of Resources"]
+},
+{
+"relationship_id": "HC-REL-0032",
+"source_aku": "HCAM-SPIRIT-HC-0032",
+"source_evidence": "HC-EVIDENCE-CH-032",
+"related_concepts": ["Wisdom", "Humility", "Service", "Leadership", "Mastery", "Contribution"],
+"dependent_concepts": ["Self Awareness", "Integrity", "Purpose"],
+"supporting_concepts": ["Devotion", "Learning", "Stewardship", "Responsibility"],
+"opposing_concepts": ["Arrogance", "Vanity", "Ego", "Self Importance"]
+},
+{
+"relationship_id": "HC-REL-0033",
+"source_aku": "HCAM-SPIRIT-HC-0033",
+"source_evidence": "HC-EVIDENCE-CH-033",
+"related_concepts": ["Purpose", "Values", "Growth", "Healing", "Wisdom", "Transformation"],
+"dependent_concepts": ["Commitment", "Self Awareness", "Consistency"],
+"supporting_concepts": ["Reflection", "Devotion", "Integrity", "Character"],
+"opposing_concepts": ["Stagnation", "Value Conflict", "Negative Patterns", "Self-Sabotage"]
+},
+{
+"relationship_id": "HC-REL-0034",
+"source_aku": "HCAM-SPIRIT-HC-0034",
+"source_evidence": "HC-EVIDENCE-CH-034",
+"related_concepts": ["Identity", "Purpose", "Legacy", "Character", "Values", "Transformation"],
+"dependent_concepts": ["Consistency", "Integrity", "Commitment"],
+"supporting_concepts": ["Reflection", "Self Awareness", "Responsibility", "Growth"],
+"opposing_concepts": ["Inconsistency", "Identity Drift", "Meaninglessness", "Value Conflict"]
+},
+{
+"relationship_id": "HC-REL-0035",
+"source_aku": "HCAM-SPIRIT-HC-0035",
+"source_evidence": "HC-EVIDENCE-CH-035",
+"related_concepts": ["Focus", "Clarity", "Discipline", "Commitment", "Purpose", "Attention"],
+"dependent_concepts": ["Self Control", "Consistency", "Awareness"],
+"supporting_concepts": ["Concentration", "Productivity", "Simplicity", "Goal Achievement"],
+"opposing_concepts": ["Distraction", "Fragmentation", "Indecision", "Mental Overload"]
+},
+{
+"relationship_id": "HC-REL-0036",
+"source_aku": "HCAM-SPIRIT-HC-0036",
+"source_evidence": "HC-EVIDENCE-CH-036",
+"related_concepts": ["Courage", "Strength", "Resilience", "Recovery", "Perseverance", "Confidence"],
+"dependent_concepts": ["Self Belief", "Determination", "Awareness"],
+"supporting_concepts": ["Hope", "Adaptability", "Emotional Stability", "Problem Solving"],
+"opposing_concepts": ["Fear", "Hopelessness", "Helplessness", "Avoidance"]
+},
+{
+"relationship_id": "HC-REL-0037",
+"source_aku": "HCAM-SPIRIT-HC-0037",
+"source_evidence": "HC-EVIDENCE-CH-037",
+"related_concepts": ["Learning", "Wisdom", "Mentorship", "Growth", "Humility", "Development"],
+"dependent_concepts": ["Curiosity", "Teachability", "Self Awareness"],
+"supporting_concepts": ["Feedback", "Experience", "Reflection", "Guidance"],
+"opposing_concepts": ["Arrogance", "Ignorance", "Resistance To Learning", "Intellectual Rigidity"]
+},
+{
+"relationship_id": "HC-REL-0038",
+"source_aku": "HCAM-SPIRIT-HC-0038",
+"source_evidence": "HC-EVIDENCE-CH-038",
+"related_concepts": ["Discipline", "Consistency", "Habit", "Persistence", "Growth", "Mastery"],
+"dependent_concepts": ["Commitment", "Patience", "Self Control"],
+"supporting_concepts": ["Routine", "Practice", "Focus", "Perseverance"],
+"opposing_concepts": ["Inconsistency", "Procrastination", "Abandonment", "Instant Gratification"]
+},
+{
+"relationship_id": "HC-REL-0039",
+"source_aku": "HCAM-SPIRIT-HC-0039",
+"source_evidence": "HC-EVIDENCE-CH-039",
+"related_concepts": ["Wisdom", "Learning", "Mastery", "Practice", "Transformation", "Growth"],
+"dependent_concepts": ["Discipline", "Consistency", "Reflection"],
+"supporting_concepts": ["Application", "Experience", "Understanding", "Capability"],
+"opposing_concepts": ["Inaction", "Passive Consumption", "Theoretical Knowledge Only", "Implementation Failure"]
+},
+{
+"relationship_id": "HC-REL-0040",
+"source_aku": "HCAM-SPIRIT-HC-0040",
+"source_evidence": "HC-EVIDENCE-CH-040",
+"related_concepts": ["Service", "Humility", "Identity", "Purpose", "Contribution", "Legacy"],
+"dependent_concepts": ["Self Awareness", "Integrity", "Commitment"],
+"supporting_concepts": ["Reflection", "Devotion", "Values", "Inner Anchoring"],
+"opposing_concepts": ["Ego", "Vanity", "Self Importance", "Identity Confusion"]
+}
+]
+}
