@@ -233,7 +233,7 @@ Each corpus contains:
 
 
 
-# Registry Files
+# Registry Files (corpus/)
 
 ## evidence.json
 
