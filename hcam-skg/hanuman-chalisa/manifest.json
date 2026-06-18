@@ -236,7 +236,7 @@
 "jsonld_alignment_documented": true
 },
 "status": {
-"corpus_status": "Completed",
+"corpus_status": "Proof of Concept",
 "repository_readiness": "Near Publication Ready",
 "next_recommended_file": "aku-index.json"
 }
