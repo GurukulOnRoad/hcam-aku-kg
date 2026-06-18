@@ -150,16 +150,13 @@ Knowledge Graph Demonstration
 
 # Current Folder Structure
 
-Recommended structure:
+# Current Folder Structure
 
 
 hcam-skg/
-│
 ├── README.md
 ├── future-corpora.md
-│
 └── hanuman-chalisa/
-    │
     ├── README.md
     ├── LICENSE.md
     ├── manifest.json
