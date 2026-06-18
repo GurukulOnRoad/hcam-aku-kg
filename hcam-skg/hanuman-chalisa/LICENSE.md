@@ -45,11 +45,7 @@ The HCAM™ framework and related methodologies are maintained through official 
 
 https://ai.gurukulonroad.com/p/hcam-atomic-knowledge-unit.html
 
-## HCAM™ Knowledge Graph (HCAM-KG™)
-
-https://ai.gurukulonroad.com/p/hcam-knowledge-graph.html
-
-## Hinglish Cognitive Anchoring Model (HCAM™)
+## HCAM™ Knowledge Graph (HCAM-KG™) & Hinglish Cognitive Anchoring Model (HCAM™)
 
 https://ai.gurukulonroad.com/p/hinglish-cognitive-anchoring-model.html
 
