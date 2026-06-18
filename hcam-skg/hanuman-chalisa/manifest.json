@@ -164,11 +164,6 @@
 "file_name": "chaupai-20-complete.json",
 "file_path": "examples/chaupai-20-complete.json",
 "description": "Complete assembled HCAM-AKU example for Chaupai 20."
-},
-{
-"file_name": "chaupai-40-complete.json",
-"file_path": "examples/chaupai-40-complete.json",
-"description": "Complete assembled HCAM-AKU example for Chaupai 40."
 }
 ],
 "id_policy": {
