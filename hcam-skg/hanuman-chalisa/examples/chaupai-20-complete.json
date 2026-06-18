@@ -1,0 +1,255 @@
+{
+  "schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+  "corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+  "record_type": "HCAM-AKU Spiritual Knowledge Unit",
+  "record_version": "1.0",
+  "source_work": "Hanuman Chalisa",
+  "chaupai_number": 20,
+  "evidence_unit": {
+    "evidence_id": "HC-EVIDENCE-CH-020",
+    "source_work": "Hanuman Chalisa",
+    "chaupai_number": 20,
+    "text": "दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥",
+    "english_description": "This chaupai states that difficult tasks and seemingly impossible challenges become easier through Hanuman's grace, symbolizing the transformation of obstacles through strength, wisdom, support, and right guidance.",
+    "hindi_description": "यह चौपाई बताती है कि संसार के कठिन से कठिन कार्य भी हनुमान जी की कृपा से सुगम हो जाते हैं। यह कठिनाइयों को सामर्थ्य, मार्गदर्शन और सहयोग से पार करने का प्रतीक है।",
+    "hinglish_description": "Yeh chaupai batati hai ki jo kaam impossible lagte hain, woh right support, wisdom, discipline aur guidance ke saath manageable ban sakte hain."
+  },
+  "primary_aku": {
+    "aku_id": "HCAM-SPIRIT-HC-0020",
+    "aku_name": "Obstacle Transformation Through Empowered Support",
+    "domain": "Spirituality",
+    "definition": "Obstacle Transformation Through Empowered Support is the principle that challenges become manageable when individuals gain access to strength, wisdom, guidance, resources, and supportive forces that enhance their ability to act effectively.",
+    "supported_by": [
+      "HC-EVIDENCE-CH-020"
+    ]
+  },
+  "supporting_concepts": [
+    {
+      "concept_id": "HC-CONCEPT-0077",
+      "concept_name": "Obstacle Transformation",
+      "concept_type": "Core Concept",
+      "definition": "The process through which a challenge changes from overwhelming to manageable through capability, support, and insight."
+    },
+    {
+      "concept_id": "HC-CONCEPT-0078",
+      "concept_name": "Empowered Support",
+      "concept_type": "Supporting Concept",
+      "definition": "Access to guidance, encouragement, knowledge, resources, or assistance that increases effectiveness."
+    },
+    {
+      "concept_id": "HC-CONCEPT-0079",
+      "concept_name": "Capability Amplification",
+      "concept_type": "Hidden Concept",
+      "definition": "The expansion of personal effectiveness through support systems, mentorship, wisdom, and disciplined effort."
+    },
+    {
+      "concept_id": "HC-CONCEPT-0080",
+      "concept_name": "Challenge Navigation",
+      "concept_type": "Practical Concept",
+      "definition": "The ability to successfully move through difficult situations using the right tools, mindset, and support."
+    }
+  ],
+  "retrieval_layer": {
+    "retrieval_id": "HC-RETRIEVAL-0020",
+    "user_questions": [
+      "How can difficult tasks become easier?",
+      "What does Hanuman's grace symbolize in this chaupai?",
+      "How can support systems improve success?",
+      "How do I overcome overwhelming challenges?"
+    ],
+    "search_queries": [
+      "Durgam Kaj Jagat Ke Jete meaning",
+      "Sugam Anugrah Tumhare Tete meaning",
+      "Hanuman obstacle removal lesson",
+      "spiritual meaning of overcoming difficulties"
+    ],
+    "conversational_queries": [
+      "I am facing a challenge that feels impossible.",
+      "How can I make a difficult task manageable?",
+      "How important is support during adversity?",
+      "How can I increase my ability to handle challenges?"
+    ],
+    "voice_queries": [
+      "Meaning of Durgam Kaj Jagat Ke Jete",
+      "Hanuman ji teaching on overcoming difficulties",
+      "Prayer for strength and guidance",
+      "Hanuman Chalisa verse for difficult situations"
+    ]
+  },
+  "context_layer": {
+    "context_id": "HC-CONTEXT-0020",
+    "personal_growth": "Supports resilience, confidence, perseverance, and effective problem solving.",
+    "career": "Useful when facing difficult projects, complex responsibilities, or professional obstacles.",
+    "leadership": "Encourages leaders to create support structures that help teams overcome challenges.",
+    "education": "Promotes seeking guidance and resources when learning difficult subjects.",
+    "emotional_wellbeing": "Reduces helplessness by focusing on support, capability, and actionable solutions.",
+    "relationships": "Highlights the value of support networks during challenging periods.",
+    "decision_making": "Encourages identifying resources and support before concluding that something is impossible.",
+    "spiritual_practice": "Supports reflection on seeking strength, wisdom, and guidance during adversity.",
+    "life_situation_mapping": [
+      {
+        "life_situation_id": "HC-LIFE-0096",
+        "name": "Difficult Challenge"
+      },
+      {
+        "life_situation_id": "HC-LIFE-0097",
+        "name": "Overwhelm"
+      },
+      {
+        "life_situation_id": "HC-LIFE-0098",
+        "name": "Complex Project"
+      },
+      {
+        "life_situation_id": "HC-LIFE-0099",
+        "name": "Need For Support"
+      },
+      {
+        "life_situation_id": "HC-LIFE-0100",
+        "name": "Problem Solving"
+      }
+    ],
+    "practice_mapping": [
+      {
+        "practice_id": "HC-PRACTICE-0002",
+        "name": "Reflection"
+      },
+      {
+        "practice_id": "HC-PRACTICE-0022",
+        "name": "Purpose Driven Action"
+      },
+      {
+        "practice_id": "HC-PRACTICE-0036",
+        "name": "Wisdom Seeking"
+      },
+      {
+        "practice_id": "HC-PRACTICE-0041",
+        "name": "Support Network Development"
+      }
+    ]
+  },
+  "reasoning_layer": {
+    "reasoning_id": "HC-REASONING-0020",
+    "logic_units": [
+      {
+        "if": "Capability increases through guidance and support",
+        "then": "Difficult tasks become more manageable."
+      },
+      {
+        "if": "A person attempts every challenge alone",
+        "then": "Progress may become slower and more difficult."
+      },
+      {
+        "if": "Wisdom, discipline, and support are combined",
+        "then": "The probability of success increases."
+      }
+    ],
+    "decision_logic": [
+      "Seek support before assuming failure.",
+      "Break large challenges into manageable steps.",
+      "Use guidance and resources strategically."
+    ],
+    "application_logic": "Apply this AKU when facing major challenges, difficult goals, complex projects, or situations requiring external support and guidance."
+  },
+  "evaluation_layer": {
+    "evaluation_id": "HC-EVAL-0020",
+    "assessment_questions": [
+      {
+        "question": "Does this chaupai suggest that challenges disappear automatically?",
+        "answer": "No. It suggests that support, wisdom, and capability make challenges more manageable."
+      },
+      {
+        "question": "What is the deeper meaning of difficult tasks becoming easy?",
+        "answer": "Transformation through guidance, support, strength, and effective action."
+      },
+      {
+        "question": "What is the primary HCAM-AKU concept in Chaupai 20?",
+        "answer": "Obstacle Transformation Through Empowered Support."
+      }
+    ],
+    "common_misunderstandings": [
+      "Assuming success requires no effort.",
+      "Ignoring the role of preparation and support.",
+      "Believing difficult situations cannot improve."
+    ],
+    "error_patterns": [
+      "Trying to solve every problem alone.",
+      "Rejecting guidance and assistance.",
+      "Becoming overwhelmed before exploring solutions."
+    ]
+  },
+  "boundary_layer": {
+    "boundary_id": "HC-BOUNDARY-0020",
+    "includes": [
+      "Support",
+      "Guidance",
+      "Resilience",
+      "Problem Solving",
+      "Capability Growth",
+      "Obstacle Navigation"
+    ],
+    "excludes": [
+      "Helplessness",
+      "Isolation",
+      "Defeatism",
+      "Passive Dependence",
+      "Avoidance"
+    ]
+  },
+  "relationship_layer": {
+    "relationship_id": "HC-REL-0020",
+    "related_concepts": [
+      "Support",
+      "Wisdom",
+      "Guidance",
+      "Resilience",
+      "Problem Solving",
+      "Growth"
+    ],
+    "dependent_concepts": [
+      "Trust",
+      "Action",
+      "Learning"
+    ],
+    "supporting_concepts": [
+      "Mentorship",
+      "Confidence",
+      "Discipline",
+      "Collaboration"
+    ],
+    "opposing_concepts": [
+      "Isolation",
+      "Hopelessness",
+      "Defeatism",
+      "Resistance To Help"
+    ]
+  },
+  "anchor_layer": {
+    "anchor_id": "HC-ANCHOR-0020",
+    "hindi_memory_anchor": "सही सहारा मिले, तो कठिनाई भी सरल बने।",
+    "hinglish_recall_anchor": "Impossible lagne wala kaam bhi right support se possible ho sakta hai.",
+    "story_anchor": "Hanuman symbolizes the force that transforms overwhelming challenges into manageable missions through strength, wisdom, and supportive guidance."
+  },
+  "delivery_layer": {
+    "delivery_id": "HC-DELIVERY-0020",
+    "english_summary": "This chaupai teaches that challenges become manageable when supported by wisdom, guidance, capability, and the right assistance.",
+    "hindi_summary": "यह चौपाई सिखाती है कि उचित मार्गदर्शन, सामर्थ्य और सहयोग से कठिन कार्य भी सुगम बन सकते हैं।",
+    "hinglish_summary": "Yeh chaupai batati hai ki right guidance aur support ke saath difficult challenges ko successfully handle kiya ja sakta hai.",
+    "voice_explanation": "Remember that obstacles often seem larger than they are. With the right support, wisdom, and action, even difficult tasks can become achievable."
+  },
+  "packaging_layer": {
+    "package_id": "HC-PACKAGE-0020",
+    "rag_chunk": "Hanuman Chalisa Chaupai 20 teaches that difficult tasks become manageable through empowered support, guidance, wisdom, and strengthened capability. This AKU supports retrieval for resilience, problem solving, mentorship, support systems, overcoming challenges, and effective action.",
+    "training_pair": {
+      "question": "What is the primary HCAM-AKU concept in Hanuman Chalisa Chaupai 20?",
+      "answer": "The primary AKU is Obstacle Transformation Through Empowered Support."
+    },
+    "fine_tuning_pair": {
+      "input": "Explain दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥ using the HCAM-AKU framework.",
+      "output": "It represents Obstacle Transformation Through Empowered Support, where guidance, wisdom, support, and capability transform difficult challenges into manageable tasks."
+    },
+    "qa_pair": {
+      "question": "How can Chaupai 20 help in modern life?",
+      "answer": "It teaches individuals to seek support, build capability, use guidance wisely, and avoid facing major challenges entirely alone."
+    }
+  }
+}
