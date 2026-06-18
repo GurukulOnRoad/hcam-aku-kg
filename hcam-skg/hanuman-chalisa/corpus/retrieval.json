@@ -1,0 +1,1169 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"registry_type": "Retrieval Registry",
+"source_work": "Hanuman Chalisa",
+"total_retrieval_units": 40,
+"retrieval_units": [
+{
+"retrieval_id": "HC-RETRIEVAL-0001",
+"source_aku": "HCAM-SPIRIT-HC-0001",
+"source_evidence": "HC-EVIDENCE-CH-001",
+"user_questions": [
+"How can I gain wisdom?",
+"What does Hanuman teach about knowledge and virtue?",
+"How can wisdom improve leadership?",
+"What quality is highlighted in the first chaupai?"
+],
+"search_queries": [
+"Jai Hanuman Gyan Gun Sagar meaning",
+"Hanuman Chalisa chaupai 1 wisdom virtue",
+"Hanuman knowledge and virtues",
+"spiritual meaning of Gyan Gun Sagar"
+],
+"conversational_queries": [
+"I want more clarity and wisdom in life.",
+"How can I develop good qualities?",
+"How can I become wiser and more grounded?",
+"What does Hanuman represent in terms of wisdom?"
+],
+"voice_queries": [
+"Meaning of Jai Hanuman Gyan Gun Sagar",
+"Hanuman ji teaching on wisdom",
+"Prayer for wisdom and clarity",
+"Hanuman Chalisa verse for knowledge"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0002",
+"source_aku": "HCAM-SPIRIT-HC-0002",
+"source_evidence": "HC-EVIDENCE-CH-002",
+"user_questions": [
+"How can strength be used in service?",
+"What does Ram Doot mean?",
+"What does Hanuman teach about duty and strength?",
+"How can I align my strength with purpose?"
+],
+"search_queries": [
+"Ram Doot Atulit Bal Dhama meaning",
+"Anjani Putra Pavansut Nama meaning",
+"Hanuman strength and service",
+"spiritual meaning of Ram Doot"
+],
+"conversational_queries": [
+"How can I use my abilities for a meaningful purpose?",
+"I have strength but need direction.",
+"How can service make strength meaningful?",
+"What does Hanuman teach about responsibility?"
+],
+"voice_queries": [
+"Meaning of Ram Doot Atulit Bal Dhama",
+"Hanuman ji teaching on strength",
+"Prayer for strength and purpose",
+"Hanuman Chalisa verse for courage and duty"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0003",
+"source_aku": "HCAM-SPIRIT-HC-0003",
+"source_evidence": "HC-EVIDENCE-CH-003",
+"user_questions": [
+"How can I remove negative thinking?",
+"What does Kumati Nivar Sumati Ke Sangi mean?",
+"How can courage support right thinking?",
+"How can Hanuman help with mental confusion?"
+],
+"search_queries": [
+"Mahabir Bikram Bajrangi meaning",
+"Kumati Nivar Sumati Ke Sangi meaning",
+"Hanuman removes wrong thinking",
+"Hanuman Chalisa mental strength lesson"
+],
+"conversational_queries": [
+"I keep having negative thoughts.",
+"How can I improve my thinking?",
+"How do I replace confusion with clarity?",
+"How can courage help decision making?"
+],
+"voice_queries": [
+"Meaning of Kumati Nivar Sumati Ke Sangi",
+"Hanuman ji teaching on right thinking",
+"Prayer for positive thinking",
+"Hanuman Chalisa verse for mental clarity"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0004",
+"source_aku": "HCAM-SPIRIT-HC-0004",
+"source_evidence": "HC-EVIDENCE-CH-004",
+"user_questions": [
+"What does Hanuman's golden form symbolize?",
+"How does inner excellence reflect outwardly?",
+"How can I build authentic presence?",
+"What does this chaupai teach about dignity?"
+],
+"search_queries": [
+"Kanchan Baran Biraj Subesa meaning",
+"Kanan Kundal Kunchit Kesa meaning",
+"Hanuman radiant form symbolism",
+"inner excellence outer presence spiritual meaning"
+],
+"conversational_queries": [
+"How can I improve my personal presence?",
+"How do values reflect in appearance and conduct?",
+"What creates authentic confidence?",
+"How can inner qualities become visible?"
+],
+"voice_queries": [
+"Meaning of Kanchan Baran Biraj Subesa",
+"Hanuman ji teaching on inner excellence",
+"Prayer for confidence and dignity",
+"Hanuman Chalisa verse on radiant presence"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0005",
+"source_aku": "HCAM-SPIRIT-HC-0005",
+"source_evidence": "HC-EVIDENCE-CH-005",
+"user_questions": [
+"What do Hanuman's vajra and flag symbolize?",
+"How can strength be disciplined?",
+"What does this chaupai teach about responsibility?",
+"How can I become more accountable?"
+],
+"search_queries": [
+"Hath Vajra Aur Dhwaja Biraje meaning",
+"Kandhe Moonj Janeu Sajai meaning",
+"Hanuman vajra flag sacred thread symbolism",
+"disciplined strength Hanuman Chalisa"
+],
+"conversational_queries": [
+"How can I become more disciplined?",
+"How do I handle responsibility better?",
+"How can strength be used with restraint?",
+"What does sacred duty mean in daily life?"
+],
+"voice_queries": [
+"Meaning of Hath Vajra Aur Dhwaja Biraje",
+"Hanuman ji teaching on discipline",
+"Prayer for responsibility and strength",
+"Hanuman Chalisa verse for accountability"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0006",
+"source_aku": "HCAM-SPIRIT-HC-0006",
+"source_evidence": "HC-EVIDENCE-CH-006",
+"user_questions": [
+"How does Hanuman gain universal respect?",
+"What creates lasting influence?",
+"What does Tej Pratap mean in Hanuman Chalisa?",
+"How can character create reputation?"
+],
+"search_queries": [
+"Shankar Suvan Kesari Nandan meaning",
+"Tej Pratap Maha Jag Vandan meaning",
+"Hanuman radiance and influence",
+"character and reputation in Hanuman Chalisa"
+],
+"conversational_queries": [
+"How can I earn respect naturally?",
+"How can I create influence without seeking attention?",
+"What makes a person admired across different groups?",
+"How does inner character become visible?"
+],
+"voice_queries": [
+"Meaning of Tej Pratap Maha Jag Vandan",
+"Hanuman ji teaching on reputation",
+"Prayer for respect and character",
+"Hanuman Chalisa verse for influence"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0007",
+"source_aku": "HCAM-SPIRIT-HC-0007",
+"source_evidence": "HC-EVIDENCE-CH-007",
+"user_questions": [
+"How can I use my knowledge more effectively?",
+"What does Vidyavan Guni Ati Chatur mean?",
+"How can I become more purpose driven?",
+"How can intelligence be aligned with service?"
+],
+"search_queries": [
+"Vidyavan Guni Ati Chatur meaning",
+"Ram Kaj Karibe Ko Atur meaning",
+"knowledge with purpose Hanuman Chalisa",
+"spiritual lesson on meaningful action"
+],
+"conversational_queries": [
+"I have knowledge but struggle to take action.",
+"How can I become more productive and purposeful?",
+"How can I align my talents with a mission?",
+"How does Hanuman represent intelligent action?"
+],
+"voice_queries": [
+"Meaning of Vidyavan Guni Ati Chatur",
+"Hanuman Chalisa verse for purpose",
+"Prayer for meaningful work",
+"Hanuman ji teaching on action"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0008",
+"source_aku": "HCAM-SPIRIT-HC-0008",
+"source_evidence": "HC-EVIDENCE-CH-008",
+"user_questions": [
+"How can I stay focused on positive influences?",
+"What does Prabhu Charitra Sunibe Ko Rasiya mean?",
+"How do values shape personality?",
+"How can I build a strong inner foundation?"
+],
+"search_queries": [
+"Prabhu Charitra Sunibe Ko Rasiya meaning",
+"Ram Lakhan Sita Man Basiya meaning",
+"Hanuman and value centered living",
+"spiritual lesson on attention and character"
+],
+"conversational_queries": [
+"I am distracted by negativity and noise.",
+"How can I keep my mind focused on good influences?",
+"How do role models shape our character?",
+"How can I strengthen my inner values?"
+],
+"voice_queries": [
+"Meaning of Prabhu Charitra Sunibe Ko Rasiya",
+"Hanuman ji teaching on values",
+"Prayer for focus and positive thinking",
+"Hanuman Chalisa verse for character development"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0009",
+"source_aku": "HCAM-SPIRIT-HC-0009",
+"source_evidence": "HC-EVIDENCE-CH-009",
+"user_questions": [
+"How can I become more adaptable?",
+"What does Sukshma Roop and Bikat Roop symbolize?",
+"How can I handle different situations effectively?",
+"What does Hanuman teach about flexibility?"
+],
+"search_queries": [
+"Sukshma Roop Dhari Siyahi Dikhava meaning",
+"Bikat Roop Dhari Lanka Jarava meaning",
+"Hanuman adaptability lesson",
+"situational intelligence Hanuman Chalisa"
+],
+"conversational_queries": [
+"I struggle to adjust to changing situations.",
+"How can I respond differently without losing my values?",
+"When should I be gentle and when should I be firm?",
+"How can I improve my decision making in different contexts?"
+],
+"voice_queries": [
+"Meaning of Sukshma Roop Dhari Siyahi Dikhava",
+"Hanuman ji teaching on adaptability",
+"Prayer for flexibility and wisdom",
+"Hanuman Chalisa verse for decision making"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0010",
+"source_aku": "HCAM-SPIRIT-HC-0010",
+"source_evidence": "HC-EVIDENCE-CH-010",
+"user_questions": [
+"How can I overcome obstacles in my mission?",
+"What does Bhim Roop symbolize?",
+"How can I become more decisive?",
+"How do I handle resistance while pursuing goals?"
+],
+"search_queries": [
+"Bhim Roop Dhari Asur Sanhare meaning",
+"Ramchandra Ke Kaj Sanvare meaning",
+"Hanuman obstacle removal lesson",
+"Hanuman Chalisa verse for decisive action"
+],
+"conversational_queries": [
+"I keep facing obstacles while pursuing my goals.",
+"How can I become more action oriented?",
+"How do I deal with people or situations blocking progress?",
+"How can I complete important responsibilities successfully?"
+],
+"voice_queries": [
+"Meaning of Bhim Roop Dhari Asur Sanhare",
+"Hanuman ji teaching on courage and action",
+"Prayer for overcoming obstacles",
+"Hanuman Chalisa verse for mission success"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0011",
+"source_aku": "HCAM-SPIRIT-HC-0011",
+"source_evidence": "HC-EVIDENCE-CH-011",
+"user_questions": [
+"What does Sanjeevani symbolize in Hanuman Chalisa?",
+"How can I perform effectively during a crisis?",
+"What does this chaupai teach about responsibility?",
+"How can service save a difficult situation?"
+],
+"search_queries": [
+"Laye Sanjeevan Lakhan Jiyaye meaning",
+"Sanjeevani lesson from Hanuman Chalisa",
+"Hanuman crisis leadership",
+"service under pressure spiritual meaning"
+],
+"conversational_queries": [
+"I am facing a high-pressure situation.",
+"How can I help others during a crisis?",
+"How do I stay effective when time is running out?",
+"What can Hanuman teach about emergency action?"
+],
+"voice_queries": [
+"Meaning of Laye Sanjeevan Lakhan Jiyaye",
+"Hanuman ji teaching on crisis management",
+"Prayer for strength in difficult situations",
+"Hanuman Chalisa verse for helping others"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0012",
+"source_aku": "HCAM-SPIRIT-HC-0012",
+"source_evidence": "HC-EVIDENCE-CH-012",
+"user_questions": [
+"How can I earn trust naturally?",
+"What creates lasting respect in relationships?",
+"Why did Shri Ram praise Hanuman so highly?",
+"How does contribution lead to recognition?"
+],
+"search_queries": [
+"Raghupati Kinhi Bahut Badai meaning",
+"Tum Mam Priya Bharatahi Sam Bhai meaning",
+"Hanuman trust and loyalty lesson",
+"recognition through service Hanuman Chalisa"
+],
+"conversational_queries": [
+"How can I build trust with others?",
+"How can I become more reliable?",
+"Why do some people earn deep respect?",
+"How can service strengthen relationships?"
+],
+"voice_queries": [
+"Meaning of Raghupati Kinhi Bahut Badai",
+"Hanuman ji teaching on trust",
+"Prayer for loyalty and respect",
+"Hanuman Chalisa verse for relationship building"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0013",
+"source_aku": "HCAM-SPIRIT-HC-0013",
+"source_evidence": "HC-EVIDENCE-CH-013",
+"user_questions": [
+"How can I create lasting impact?",
+"Why is Hanuman's glory considered immeasurable?",
+"What matters more: contribution or recognition?",
+"How can service create a legacy?"
+],
+"search_queries": [
+"Sahas Badan Tumharo Jas Gave meaning",
+"As Kahi Shripati Kanth Lagave meaning",
+"Hanuman legacy and contribution",
+"service beyond recognition spiritual meaning"
+],
+"conversational_queries": [
+"I feel my efforts are not recognized.",
+"How can I focus on contribution instead of praise?",
+"What creates a lasting legacy?",
+"How do I measure meaningful impact?"
+],
+"voice_queries": [
+"Meaning of Sahas Badan Tumharo Jas Gave",
+"Hanuman ji teaching on recognition",
+"Prayer for meaningful contribution",
+"Hanuman Chalisa verse for legacy"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0014",
+"source_aku": "HCAM-SPIRIT-HC-0014",
+"source_evidence": "HC-EVIDENCE-CH-014",
+"user_questions": [
+"How can excellence earn universal respect?",
+"What creates credibility across different groups?",
+"Why do sages praise Hanuman?",
+"How can I build authentic reputation?"
+],
+"search_queries": [
+"Sanakadik Brahmadi Munisa meaning",
+"Narad Sarad Sahit Ahisa meaning",
+"Hanuman universal recognition lesson",
+"authentic excellence and credibility"
+],
+"conversational_queries": [
+"How do I earn respect from knowledgeable people?",
+"How can I build credibility across different audiences?",
+"What makes excellence universally recognized?",
+"How can contribution become widely respected?"
+],
+"voice_queries": [
+"Meaning of Sanakadik Brahmadi Munisa",
+"Hanuman ji teaching on credibility",
+"Prayer for wisdom and respect",
+"Hanuman Chalisa verse on excellence"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0015",
+"source_aku": "HCAM-SPIRIT-HC-0015",
+"source_evidence": "HC-EVIDENCE-CH-015",
+"user_questions": [
+"Why is humility important in learning?",
+"Can everything be measured or explained?",
+"What does this Hanuman Chalisa verse teach about knowledge?",
+"How can I avoid intellectual arrogance?"
+],
+"search_queries": [
+"Yam Kuber Digpal Jahan Te meaning",
+"Kavi Kovid Kahi Sake Kahan Te meaning",
+"Hanuman Chalisa lesson on humility",
+"intellectual humility spiritual meaning"
+],
+"conversational_queries": [
+"How do I stay humble despite success?",
+"Can expertise have limits?",
+"How can I remain open to learning?",
+"Why do some things seem impossible to fully explain?"
+],
+"voice_queries": [
+"Meaning of Yam Kuber Digpal Jahan Te",
+"Hanuman ji teaching on humility",
+"Prayer for wisdom and humility",
+"Hanuman Chalisa verse about knowledge"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0016",
+"source_aku": "HCAM-SPIRIT-HC-0016",
+"source_evidence": "HC-EVIDENCE-CH-016",
+"user_questions": [
+"How can the right connections change a person's life?",
+"What does Hanuman's help to Sugriva symbolize?",
+"How can I create value through relationships?",
+"What is the spiritual meaning of connecting people?"
+],
+"search_queries": [
+"Tum Upkar Sugrivahi Kinha meaning",
+"Ram Milay Raj Pad Dinha meaning",
+"Hanuman and Sugriva lesson",
+"power of meaningful connections spiritual meaning"
+],
+"conversational_queries": [
+"How can I help others through my network?",
+"Can one relationship change my future?",
+"How can I become a valuable connector?",
+"What role does trust play in creating opportunities?"
+],
+"voice_queries": [
+"Meaning of Tum Upkar Sugrivahi Kinha",
+"Hanuman ji teaching on relationships",
+"Prayer for right guidance and opportunities",
+"Hanuman Chalisa verse on meaningful connections"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0017",
+"source_aku": "HCAM-SPIRIT-HC-0017",
+"source_evidence": "HC-EVIDENCE-CH-017",
+"user_questions": [
+"How can good advice change a person's life?",
+"What does Vibhishana's story teach about guidance?",
+"How do I identify trustworthy mentors?",
+"Why is accepting wisdom important?"
+],
+"search_queries": [
+"Tumharo Mantra Vibhishan Mana meaning",
+"Lankeshwar Bhaye Sab Jag Jana meaning",
+"Hanuman and Vibhishana lesson",
+"importance of wise counsel spiritual meaning"
+],
+"conversational_queries": [
+"How do I know whose advice to follow?",
+"Can mentorship improve life outcomes?",
+"Why do people ignore good guidance?",
+"How can I make better decisions using wisdom?"
+],
+"voice_queries": [
+"Meaning of Tumharo Mantra Vibhishan Mana",
+"Hanuman ji teaching on guidance",
+"Prayer for wise decision making",
+"Hanuman Chalisa verse on mentorship"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0018",
+"source_aku": "HCAM-SPIRIT-HC-0018",
+"source_evidence": "HC-EVIDENCE-CH-018",
+"user_questions": [
+"How can I overcome self-imposed limits?",
+"What does Hanuman chasing the sun symbolize?",
+"How can I think bigger about my goals?",
+"What is the spiritual meaning of fearless aspiration?"
+],
+"search_queries": [
+"Yug Sahasra Yojan Par Bhanu meaning",
+"Leelyo Tahi Madhur Phal Janu meaning",
+"Hanuman sun story symbolism",
+"fearless aspiration Hanuman Chalisa"
+],
+"conversational_queries": [
+"I feel my goals are too big.",
+"How can I develop a growth mindset?",
+"How do I stop limiting myself?",
+"What can Hanuman teach about ambition and courage?"
+],
+"voice_queries": [
+"Meaning of Yug Sahasra Yojan Par Bhanu",
+"Hanuman ji teaching on big goals",
+"Prayer for courage and confidence",
+"Hanuman Chalisa verse for ambition"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0019",
+"source_aku": "HCAM-SPIRIT-HC-0019",
+"source_evidence": "HC-EVIDENCE-CH-019",
+"user_questions": [
+"How does trust increase performance?",
+"What does Hanuman carrying Ram's ring symbolize?",
+"How can purpose help overcome obstacles?",
+"What is the connection between responsibility and achievement?"
+],
+"search_queries": [
+"Prabhu Mudrika Meli Mukh Mahi meaning",
+"Jaladhi Langhi Gaye Acharaj Nahi meaning",
+"Hanuman crossing ocean symbolism",
+"trust and mission alignment spiritual meaning"
+],
+"conversational_queries": [
+"How can I become worthy of greater responsibility?",
+"Why do people perform better when trusted?",
+"How can purpose help me overcome challenges?",
+"What makes impossible goals achievable?"
+],
+"voice_queries": [
+"Meaning of Prabhu Mudrika Meli Mukh Mahi",
+"Hanuman ji teaching on trust and responsibility",
+"Prayer for mission success",
+"Hanuman Chalisa verse on overcoming obstacles"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0020",
+"source_aku": "HCAM-SPIRIT-HC-0020",
+"source_evidence": "HC-EVIDENCE-CH-020",
+"user_questions": [
+"How can difficult tasks become easier?",
+"What does Hanuman's grace symbolize in this chaupai?",
+"How can support systems improve success?",
+"How do I overcome overwhelming challenges?"
+],
+"search_queries": [
+"Durgam Kaj Jagat Ke Jete meaning",
+"Sugam Anugrah Tumhare Tete meaning",
+"Hanuman obstacle removal lesson",
+"spiritual meaning of overcoming difficulties"
+],
+"conversational_queries": [
+"I am facing a challenge that feels impossible.",
+"How can I make a difficult task manageable?",
+"How important is support during adversity?",
+"How can I increase my ability to handle challenges?"
+],
+"voice_queries": [
+"Meaning of Durgam Kaj Jagat Ke Jete",
+"Hanuman ji teaching on overcoming difficulties",
+"Prayer for strength and guidance",
+"Hanuman Chalisa verse for difficult situations"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0021",
+"source_aku": "HCAM-SPIRIT-HC-0021",
+"source_evidence": "HC-EVIDENCE-CH-021",
+"user_questions": [
+"Why are qualifications important before receiving opportunities?",
+"What does Hanuman as gatekeeper symbolize?",
+"How does trust affect access and responsibility?",
+"Why can't valuable opportunities be unrestricted?"
+],
+"search_queries": [
+"Ram Duare Tum Rakhvare meaning",
+"Hot Na Aagya Binu Paisare meaning",
+"Hanuman gatekeeper symbolism",
+"stewardship and responsibility spiritual meaning"
+],
+"conversational_queries": [
+"Why do some opportunities require trust first?",
+"How can I become worthy of greater responsibility?",
+"What is the role of gatekeepers in leadership?",
+"How do I prepare myself for bigger opportunities?"
+],
+"voice_queries": [
+"Meaning of Ram Duare Tum Rakhvare",
+"Hanuman ji teaching on responsibility",
+"Prayer for readiness and trustworthiness",
+"Hanuman Chalisa verse on qualification and access"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0022",
+"source_aku": "HCAM-SPIRIT-HC-0022",
+"source_evidence": "HC-EVIDENCE-CH-022",
+"user_questions": [
+"How can I reduce fear and anxiety?",
+"What does Hanuman's protection symbolize?",
+"How does trust improve wellbeing?",
+"How can I develop inner confidence?"
+],
+"search_queries": [
+"Sab Sukh Lahai Tumhari Sarna meaning",
+"Tum Rakshak Kahu Ko Dar Na meaning",
+"Hanuman protection meaning",
+"fearlessness and wellbeing spiritual meaning"
+],
+"conversational_queries": [
+"I feel afraid about the future.",
+"How can I build confidence during uncertainty?",
+"Why does support reduce fear?",
+"How can I feel more secure in difficult times?"
+],
+"voice_queries": [
+"Meaning of Sab Sukh Lahai Tumhari Sarna",
+"Hanuman ji teaching on fearlessness",
+"Prayer for protection and confidence",
+"Hanuman Chalisa verse for overcoming fear"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0023",
+"source_aku": "HCAM-SPIRIT-HC-0023",
+"source_evidence": "HC-EVIDENCE-CH-023",
+"user_questions": [
+"What is the highest form of strength?",
+"Why is self-control important?",
+"What does Hanuman controlling his power symbolize?",
+"How can I develop self-mastery?"
+],
+"search_queries": [
+"Aapan Tej Samharo Aapai meaning",
+"Tino Lok Hank Te Kanpai meaning",
+"Hanuman self control lesson",
+"self mastery spiritual meaning"
+],
+"conversational_queries": [
+"How can I control my emotions better?",
+"What is the difference between power and self-mastery?",
+"How do strong leaders avoid abusing power?",
+"How can discipline improve my life?"
+],
+"voice_queries": [
+"Meaning of Aapan Tej Samharo Aapai",
+"Hanuman ji teaching on self-control",
+"Prayer for discipline and restraint",
+"Hanuman Chalisa verse on self mastery"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0024",
+"source_aku": "HCAM-SPIRIT-HC-0024",
+"source_evidence": "HC-EVIDENCE-CH-024",
+"user_questions": [
+"How can I protect myself from negative influences?",
+"What does this Hanuman Chalisa verse teach about fear?",
+"How can courage reduce anxiety?",
+"What is the psychological meaning of Bhut Pishach?"
+],
+"search_queries": [
+"Bhut Pishach Nikat Nahi Aavai meaning",
+"Mahavir Jab Naam Sunavai meaning",
+"Hanuman protection from negativity",
+"fear and courage spiritual meaning"
+],
+"conversational_queries": [
+"How do I stop negative thoughts from controlling me?",
+"How can I become mentally stronger?",
+"Why does fear seem so powerful sometimes?",
+"How can I maintain confidence during difficult situations?"
+],
+"voice_queries": [
+"Meaning of Bhut Pishach Nikat Nahi Aavai",
+"Hanuman ji teaching on fearlessness",
+"Prayer for protection from negativity",
+"Hanuman Chalisa verse for mental strength"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0025",
+"source_aku": "HCAM-SPIRIT-HC-0025",
+"source_evidence": "HC-EVIDENCE-CH-025",
+"user_questions": [
+"How can consistent practice improve wellbeing?",
+"What does Hanuman Chalisa teach about overcoming suffering?",
+"Why is repetition important in spiritual practice?",
+"How can resilience reduce pain and stress?"
+],
+"search_queries": [
+"Nasai Rog Harai Sab Peera meaning",
+"Japat Nirantar Hanumat Beera meaning",
+"Hanuman wellbeing lesson",
+"consistent spiritual practice and resilience"
+],
+"conversational_queries": [
+"How can I recover from emotional stress?",
+"Why do positive habits matter?",
+"Can disciplined practice improve mental wellbeing?",
+"How do I stay resilient during difficult times?"
+],
+"voice_queries": [
+"Meaning of Nasai Rog Harai Sab Peera",
+"Hanuman ji teaching on wellbeing",
+"Prayer for strength and healing",
+"Hanuman Chalisa verse on resilience"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0026",
+"source_aku": "HCAM-SPIRIT-HC-0026",
+"source_evidence": "HC-EVIDENCE-CH-026",
+"user_questions": [
+"How can I overcome difficult situations?",
+"What does mind, action, and speech alignment mean?",
+"Why do people struggle despite good intentions?",
+"How can focus help solve problems?"
+],
+"search_queries": [
+"Sankat Te Hanuman Chhudavai meaning",
+"Man Kram Bachan Dhyan Jo Lavai meaning",
+"Hanuman crisis management lesson",
+"alignment of thought speech and action"
+],
+"conversational_queries": [
+"I feel conflicted between what I think and what I do.",
+"How can I become more consistent?",
+"Why do my efforts feel scattered?",
+"How can I stay focused during a crisis?"
+],
+"voice_queries": [
+"Meaning of Sankat Te Hanuman Chhudavai",
+"Hanuman ji teaching on overcoming crisis",
+"Prayer for focus and clarity",
+"Hanuman Chalisa verse on alignment"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0027",
+"source_aku": "HCAM-SPIRIT-HC-0027",
+"source_evidence": "HC-EVIDENCE-CH-027",
+"user_questions": [
+"How can I improve execution and productivity?",
+"What does Hanuman teach about completing responsibilities?",
+"Why do some people have goals but no results?",
+"How can purpose improve performance?"
+],
+"search_queries": [
+"Sab Par Ram Tapasvi Raja meaning",
+"Tin Ke Kaj Sakal Tum Saja meaning",
+"Hanuman lesson on execution",
+"purpose driven execution spiritual meaning"
+],
+"conversational_queries": [
+"How can I become more reliable?",
+"Why do projects fail despite good intentions?",
+"How do I stay committed to long-term goals?",
+"What converts vision into achievement?"
+],
+"voice_queries": [
+"Meaning of Sab Par Ram Tapasvi Raja",
+"Hanuman ji teaching on mission execution",
+"Prayer for discipline and success",
+"Hanuman Chalisa verse on completing tasks"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0028",
+"source_aku": "HCAM-SPIRIT-HC-0028",
+"source_evidence": "HC-EVIDENCE-CH-028",
+"user_questions": [
+"How can I achieve meaningful goals?",
+"What does Hanuman Chalisa teach about aspirations?",
+"How do I align my goals with purpose?",
+"What creates lasting fulfillment in life?"
+],
+"search_queries": [
+"Aur Manorath Jo Koi Lavai meaning",
+"Soi Amit Jeevan Phal Pavai meaning",
+"Hanuman aspiration and fulfillment lesson",
+"purpose aligned goals spiritual meaning"
+],
+"conversational_queries": [
+"How do I know if my goals are meaningful?",
+"Why do some achievements feel empty?",
+"How can I create long-term fulfillment?",
+"How should I choose my life goals?"
+],
+"voice_queries": [
+"Meaning of Aur Manorath Jo Koi Lavai",
+"Hanuman ji teaching on aspirations",
+"Prayer for life purpose and success",
+"Hanuman Chalisa verse on fulfillment"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0029",
+"source_aku": "HCAM-SPIRIT-HC-0029",
+"source_evidence": "HC-EVIDENCE-CH-029",
+"user_questions": [
+"How can I create a lasting legacy?",
+"What makes influence timeless?",
+"How does Hanuman symbolize enduring impact?",
+"What creates long-term recognition?"
+],
+"search_queries": [
+"Charon Yug Pratap Tumhara meaning",
+"Hai Parsiddh Jagat Ujiyara meaning",
+"Hanuman timeless influence lesson",
+"enduring contribution spiritual meaning"
+],
+"conversational_queries": [
+"How can my work remain valuable after many years?",
+"Why do some people remain influential across generations?",
+"How do I build meaningful long-term impact?",
+"What is more important, popularity or contribution?"
+],
+"voice_queries": [
+"Meaning of Charon Yug Pratap Tumhara",
+"Hanuman ji teaching on legacy",
+"Prayer for meaningful contribution",
+"Hanuman Chalisa verse on timeless influence"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0030",
+"source_aku": "HCAM-SPIRIT-HC-0030",
+"source_evidence": "HC-EVIDENCE-CH-030",
+"user_questions": [
+"How can I protect positive values in difficult environments?",
+"What does Hanuman protecting saints symbolize?",
+"Why is defending goodness important?",
+"How should harmful influences be addressed?"
+],
+"search_queries": [
+"Sadhu Sant Ke Tum Rakhvare meaning",
+"Asur Nikandan Ram Dulare meaning",
+"Hanuman protector symbolism",
+"defending ethical values spiritual meaning"
+],
+"conversational_queries": [
+"How do I stand up for what is right?",
+"What should I do when I see harmful behavior?",
+"How can leaders protect positive culture?",
+"Why is courage needed to defend values?"
+],
+"voice_queries": [
+"Meaning of Sadhu Sant Ke Tum Rakhvare",
+"Hanuman ji teaching on protecting goodness",
+"Prayer for courage and integrity",
+"Hanuman Chalisa verse on ethical protection"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0031",
+"source_aku": "HCAM-SPIRIT-HC-0031",
+"source_evidence": "HC-EVIDENCE-CH-031",
+"user_questions": [
+"How should power and resources be used responsibly?",
+"What do Ashta Siddhi and Nava Nidhi symbolize?",
+"How can abundance create positive impact?",
+"What is the responsibility that comes with capability?"
+],
+"search_queries": [
+"Ashta Siddhi Nava Nidhi Ke Data meaning",
+"As Bar Din Janaki Mata meaning",
+"Hanuman abundance and capability lesson",
+"responsible stewardship spiritual meaning"
+],
+"conversational_queries": [
+"How can I use my talents to help others?",
+"What should I do with success and resources?",
+"How can leaders manage abundance responsibly?",
+"What creates meaningful impact beyond personal success?"
+],
+"voice_queries": [
+"Meaning of Ashta Siddhi Nava Nidhi Ke Data",
+"Hanuman ji teaching on abundance",
+"Prayer for responsible success",
+"Hanuman Chalisa verse on capability and resources"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0032",
+"source_aku": "HCAM-SPIRIT-HC-0032",
+"source_evidence": "HC-EVIDENCE-CH-032",
+"user_questions": [
+"How can I remain humble despite success?",
+"What does Ram Rasayan symbolize?",
+"How can expertise be combined with humility?",
+"Why is service important after achieving mastery?"
+],
+"search_queries": [
+"Ram Rasayan Tumhare Pasa meaning",
+"Sada Raho Raghupati Ke Dasa meaning",
+"Hanuman humility and mastery lesson",
+"wisdom with humility spiritual meaning"
+],
+"conversational_queries": [
+"How do successful people avoid arrogance?",
+"Can humility and excellence coexist?",
+"How can I use my knowledge to help others?",
+"What is the purpose of mastery?"
+],
+"voice_queries": [
+"Meaning of Ram Rasayan Tumhare Pasa",
+"Hanuman ji teaching on humility",
+"Prayer for wisdom and service",
+"Hanuman Chalisa verse on mastery and devotion"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0033",
+"source_aku": "HCAM-SPIRIT-HC-0033",
+"source_evidence": "HC-EVIDENCE-CH-033",
+"user_questions": [
+"How can higher values transform my life?",
+"What does this chaupai teach about suffering?",
+"How does devotion create personal transformation?",
+"How can I break recurring negative patterns?"
+],
+"search_queries": [
+"Tumhare Bhajan Ram Ko Pavai meaning",
+"Janam Janam Ke Dukh Bisaravai meaning",
+"Hanuman transformation lesson",
+"value alignment and suffering reduction"
+],
+"conversational_queries": [
+"Why do I keep repeating the same mistakes?",
+"How can I live according to my values?",
+"What creates lasting inner transformation?",
+"How do I move beyond emotional baggage?"
+],
+"voice_queries": [
+"Meaning of Tumhare Bhajan Ram Ko Pavai",
+"Hanuman ji teaching on transformation",
+"Prayer for inner growth",
+"Hanuman Chalisa verse on overcoming suffering"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0034",
+"source_aku": "HCAM-SPIRIT-HC-0034",
+"source_evidence": "HC-EVIDENCE-CH-034",
+"user_questions": [
+"How is personal legacy created?",
+"What determines long-term identity?",
+"How do values shape destiny?",
+"What does this Hanuman Chalisa verse teach about life purpose?"
+],
+"search_queries": [
+"Ant Kaal Raghubar Pur Jai meaning",
+"Jahan Janma Hari Bhakta Kahai meaning",
+"Hanuman legacy and identity lesson",
+"lifelong value alignment meaning"
+],
+"conversational_queries": [
+"What kind of person am I becoming?",
+"How do daily choices shape identity?",
+"What creates a meaningful legacy?",
+"How can I live according to my highest values?"
+],
+"voice_queries": [
+"Meaning of Ant Kaal Raghubar Pur Jai",
+"Hanuman ji teaching on life legacy",
+"Prayer for meaningful life purpose",
+"Hanuman Chalisa verse on identity and values"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0035",
+"source_aku": "HCAM-SPIRIT-HC-0035",
+"source_evidence": "HC-EVIDENCE-CH-035",
+"user_questions": [
+"How can I improve focus in life?",
+"Why is attention management important?",
+"What does Hanuman Chalisa teach about concentration?",
+"How can I reduce distractions and confusion?"
+],
+"search_queries": [
+"Aur Devata Chitt Na Dharai meaning",
+"Hanumat Sei Sarva Sukh Karai meaning",
+"Hanuman lesson on focus",
+"priority alignment spiritual meaning"
+],
+"conversational_queries": [
+"Why do I feel mentally scattered?",
+"How can I stay committed to one goal?",
+"What happens when attention is divided?",
+"How can I improve clarity and focus?"
+],
+"voice_queries": [
+"Meaning of Aur Devata Chitt Na Dharai",
+"Hanuman ji teaching on focus",
+"Prayer for concentration and clarity",
+"Hanuman Chalisa verse on priority alignment"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0036",
+"source_aku": "HCAM-SPIRIT-HC-0036",
+"source_evidence": "HC-EVIDENCE-CH-036",
+"user_questions": [
+"How can I become more resilient during difficult times?",
+"What does Hanuman teach about overcoming adversity?",
+"How can courage reduce suffering?",
+"What is strength-based recovery?"
+],
+"search_queries": [
+"Sankat Katai Mitai Sab Peera meaning",
+"Jo Sumirai Hanumat Balbeera meaning",
+"Hanuman resilience lesson",
+"strength anchoring spiritual meaning"
+],
+"conversational_queries": [
+"How do I recover after a major setback?",
+"What helps people stay strong during crises?",
+"How can I stop feeling helpless?",
+"How do I develop mental resilience?"
+],
+"voice_queries": [
+"Meaning of Sankat Katai Mitai Sab Peera",
+"Hanuman ji teaching on resilience",
+"Prayer for strength during adversity",
+"Hanuman Chalisa verse on overcoming difficulties"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0037",
+"source_aku": "HCAM-SPIRIT-HC-0037",
+"source_evidence": "HC-EVIDENCE-CH-037",
+"user_questions": [
+"Why is mentorship important for growth?",
+"What does Hanuman as Guru symbolize?",
+"How can guidance accelerate learning?",
+"Why should successful people remain teachable?"
+],
+"search_queries": [
+"Jai Jai Jai Hanuman Gosai meaning",
+"Kripa Karahu Gurudev Ki Nai meaning",
+"Hanuman teacher symbolism",
+"guided learning spiritual meaning"
+],
+"conversational_queries": [
+"How do I find the right mentor?",
+"Why do some people learn faster than others?",
+"How can I become more teachable?",
+"What role does guidance play in personal growth?"
+],
+"voice_queries": [
+"Meaning of Jai Jai Jai Hanuman Gosai",
+"Hanuman ji teaching on mentorship",
+"Prayer for wisdom and guidance",
+"Hanuman Chalisa verse on learning and growth"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0038",
+"source_aku": "HCAM-SPIRIT-HC-0038",
+"source_evidence": "HC-EVIDENCE-CH-038",
+"user_questions": [
+"Why is consistency more important than intensity?",
+"How does repetition create transformation?",
+"What does Hanuman Chalisa teach about discipline?",
+"How can habits improve life outcomes?"
+],
+"search_queries": [
+"Jo Sat Bar Path Kar Koi meaning",
+"Chhutahi Bandi Maha Sukh Hoi meaning",
+"Hanuman discipline lesson",
+"power of repetition spiritual meaning"
+],
+"conversational_queries": [
+"Why do small daily actions matter?",
+"How can I build better habits?",
+"What creates lasting change?",
+"How do I stay consistent with my goals?"
+],
+"voice_queries": [
+"Meaning of Jo Sat Bar Path Kar Koi",
+"Hanuman ji teaching on discipline",
+"Prayer for consistency and focus",
+"Hanuman Chalisa verse on practice and repetition"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0039",
+"source_aku": "HCAM-SPIRIT-HC-0039",
+"source_evidence": "HC-EVIDENCE-CH-039",
+"user_questions": [
+"How can knowledge create real transformation?",
+"Why is application more important than memorization?",
+"What does Hanuman Chalisa teach about learning?",
+"How can wisdom become practical?"
+],
+"search_queries": [
+"Jo Yah Padhai Hanuman Chalisa meaning",
+"Hoy Siddhi Sakhi Gaurisa meaning",
+"Hanuman Chalisa learning lesson",
+"applied wisdom spiritual meaning"
+],
+"conversational_queries": [
+"Why do some people know a lot but achieve little?",
+"How do I convert knowledge into results?",
+"What creates mastery?",
+"How can learning change behavior?"
+],
+"voice_queries": [
+"Meaning of Jo Yah Padhai Hanuman Chalisa",
+"Hanuman ji teaching on wisdom",
+"Prayer for knowledge and success",
+"Hanuman Chalisa verse on learning and mastery"
+]
+},
+{
+"retrieval_id": "HC-RETRIEVAL-0040",
+"source_aku": "HCAM-SPIRIT-HC-0040",
+"source_evidence": "HC-EVIDENCE-CH-040",
+"user_questions": [
+"How can I build a meaningful identity?",
+"What does Tulsidas teach about humility?",
+"How can service create fulfillment?",
+"What does it mean to be anchored in higher values?"
+],
+"search_queries": [
+"Tulsidas Sada Hari Chera meaning",
+"Kijai Nath Hriday Mah Dera meaning",
+"Hanuman Chalisa final chaupai meaning",
+"service based identity spiritual meaning"
+],
+"conversational_queries": [
+"What should be the foundation of my identity?",
+"How can I stay grounded despite success?",
+"Why does service create deeper fulfillment?",
+"How can I stay connected to my values?"
+],
+"voice_queries": [
+"Meaning of Tulsidas Sada Hari Chera",
+"Hanuman ji teaching on humility and service",
+"Prayer for inner stability",
+"Hanuman Chalisa final verse meaning"
+]
+}
+]
+}
