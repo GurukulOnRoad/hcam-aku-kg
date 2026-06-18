@@ -98,7 +98,7 @@ HCAM-SKG™ provides this structure.
 
 # HCAM-SKG™ Design Principle
 
-> Do not merely digitize scripture.
+> NOT merely digitize scripture.
 
 Structure spiritual knowledge into machine-readable wisdom units.
 
