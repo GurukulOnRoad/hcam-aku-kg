@@ -1,0 +1,290 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"registry_type": "AKU Registry",
+"source_work": "Hanuman Chalisa",
+"domain": "Spirituality",
+"total_akus": 40,
+"akus": [
+{
+"aku_id": "HCAM-SPIRIT-HC-0001",
+"aku_name": "Wisdom And Virtue As Foundational Excellence",
+"domain": "Spirituality",
+"definition": "Wisdom And Virtue As Foundational Excellence is the principle that true greatness begins with deep understanding, noble qualities, ethical clarity, and character-based influence.",
+"supported_by": ["HC-EVIDENCE-CH-001"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0002",
+"aku_name": "Strength Through Service And Mission Alignment",
+"domain": "Spirituality",
+"definition": "Strength Through Service And Mission Alignment is the principle that power becomes meaningful when directed toward a higher purpose, responsible duty, and selfless service.",
+"supported_by": ["HC-EVIDENCE-CH-002"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0003",
+"aku_name": "Courageous Clarity Against Wrong Thinking",
+"domain": "Spirituality",
+"definition": "Courageous Clarity Against Wrong Thinking is the principle that inner strength and right intellect help remove confusion, negativity, and harmful mental patterns.",
+"supported_by": ["HC-EVIDENCE-CH-003"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0004",
+"aku_name": "Inner Excellence Reflected Through Presence",
+"domain": "Spirituality",
+"definition": "Inner Excellence Reflected Through Presence is the principle that noble character, discipline, and inner radiance naturally become visible through dignity, conduct, and authentic presence.",
+"supported_by": ["HC-EVIDENCE-CH-004"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0005",
+"aku_name": "Disciplined Strength With Sacred Responsibility",
+"domain": "Spirituality",
+"definition": "Disciplined Strength With Sacred Responsibility is the principle that power must be governed by restraint, accountability, commitment, and duty-centered conduct.",
+"supported_by": ["HC-EVIDENCE-CH-005"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0006",
+"aku_name": "Influence Through Character And Radiance",
+"domain": "Spirituality",
+"definition": "Influence Through Character And Radiance is the principle that lasting respect and noble reputation arise from integrity, virtue, inherited responsibility, and meaningful contribution.",
+"supported_by": ["HC-EVIDENCE-CH-006"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0007",
+"aku_name": "Knowledge Activated By Purposeful Action",
+"domain": "Spirituality",
+"definition": "Knowledge Activated By Purposeful Action is the principle that intelligence, virtue, and skill create value when converted into timely, mission-aligned, service-oriented action.",
+"supported_by": ["HC-EVIDENCE-CH-007"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0008",
+"aku_name": "Noble Attention As Identity Formation",
+"domain": "Spirituality",
+"definition": "Noble Attention As Identity Formation is the principle that sustained attention toward noble ideals, role models, and values gradually shapes inner identity and character.",
+"supported_by": ["HC-EVIDENCE-CH-008"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0009",
+"aku_name": "Adaptive Intelligence In Mission Execution",
+"domain": "Spirituality",
+"definition": "Adaptive Intelligence In Mission Execution is the principle that effective action requires changing methods according to context while preserving purpose, values, and mission clarity.",
+"supported_by": ["HC-EVIDENCE-CH-009"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0010",
+"aku_name": "Decisive Courage For Obstacle Removal",
+"domain": "Spirituality",
+"definition": "Decisive Courage For Obstacle Removal is the principle that firm, timely, and courageous action removes harmful barriers and enables mission completion.",
+"supported_by": ["HC-EVIDENCE-CH-010"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0011",
+"aku_name": "Life Restoring Service In Crisis",
+"domain": "Spirituality",
+"definition": "Life Restoring Service In Crisis is the principle that urgent, selfless, and responsible action can restore wellbeing and transform critical situations.",
+"supported_by": ["HC-EVIDENCE-CH-011"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0012",
+"aku_name": "Earned Trust Through Loyal Contribution",
+"domain": "Spirituality",
+"definition": "Earned Trust Through Loyal Contribution is the principle that deep trust, recognition, and relational strength arise from sincere service, loyalty, reliability, and meaningful contribution.",
+"supported_by": ["HC-EVIDENCE-CH-012"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0013",
+"aku_name": "Enduring Contribution Beyond Recognition",
+"domain": "Spirituality",
+"definition": "Enduring Contribution Beyond Recognition is the principle that the highest forms of service and excellence may exceed measurement, praise, or external validation.",
+"supported_by": ["HC-EVIDENCE-CH-013"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0014",
+"aku_name": "Authentic Excellence Recognized Across Wisdom Systems",
+"domain": "Spirituality",
+"definition": "Authentic Excellence Recognized Across Wisdom Systems is the principle that genuine wisdom, virtue, and contribution earn respect from knowledgeable communities across domains and levels of understanding.",
+"supported_by": ["HC-EVIDENCE-CH-014"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0015",
+"aku_name": "Intellectual Humility Before Vast Greatness",
+"domain": "Spirituality",
+"definition": "Intellectual Humility Before Vast Greatness is the principle that true wisdom recognizes the limits of language, analysis, and expertise when facing profound excellence.",
+"supported_by": ["HC-EVIDENCE-CH-015"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0016",
+"aku_name": "Transformational Opportunity Through Meaningful Connection",
+"domain": "Spirituality",
+"definition": "Transformational Opportunity Through Meaningful Connection is the principle that the right relationship, guidance, or introduction can unlock restoration, growth, and life-changing opportunity.",
+"supported_by": ["HC-EVIDENCE-CH-016"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0017",
+"aku_name": "Wise Counsel Accepted For Transformation",
+"domain": "Spirituality",
+"definition": "Wise Counsel Accepted For Transformation is the principle that life-changing outcomes emerge when credible guidance is recognized, trusted, and converted into action.",
+"supported_by": ["HC-EVIDENCE-CH-017"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0018",
+"aku_name": "Fearless Aspiration Beyond Perceived Limits",
+"domain": "Spirituality",
+"definition": "Fearless Aspiration Beyond Perceived Limits is the principle that extraordinary growth begins when curiosity, courage, and possibility-thinking overcome self-imposed boundaries.",
+"supported_by": ["HC-EVIDENCE-CH-018"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0019",
+"aku_name": "Trusted Responsibility Enables Extraordinary Achievement",
+"domain": "Spirituality",
+"definition": "Trusted Responsibility Enables Extraordinary Achievement is the principle that mission authority, trust, and purpose alignment amplify capability and make difficult achievements possible.",
+"supported_by": ["HC-EVIDENCE-CH-019"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0020",
+"aku_name": "Obstacle Transformation Through Support And Grace",
+"domain": "Spirituality",
+"definition": "Obstacle Transformation Through Support And Grace is the principle that difficult challenges become manageable through strength, guidance, disciplined effort, support, and aligned confidence.",
+"supported_by": ["HC-EVIDENCE-CH-020"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0021",
+"aku_name": "Responsible Gatekeeping For Higher Access",
+"domain": "Spirituality",
+"definition": "Responsible Gatekeeping For Higher Access is the principle that valuable opportunities, responsibilities, and higher purposes require readiness, trust, qualification, and accountable access.",
+"supported_by": ["HC-EVIDENCE-CH-021"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0022",
+"aku_name": "Fearless Wellbeing Through Trusted Protection",
+"domain": "Spirituality",
+"definition": "Fearless Wellbeing Through Trusted Protection is the principle that trusted support and inner security reduce fear, increase confidence, and create emotional stability.",
+"supported_by": ["HC-EVIDENCE-CH-022"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0023",
+"aku_name": "Self Mastery As The Highest Strength",
+"domain": "Spirituality",
+"definition": "Self Mastery As The Highest Strength is the principle that true power lies not merely in possessing strength, but in governing it with restraint, awareness, and responsibility.",
+"supported_by": ["HC-EVIDENCE-CH-023"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0024",
+"aku_name": "Psychological Protection Through Courageous Awareness",
+"domain": "Spirituality",
+"definition": "Psychological Protection Through Courageous Awareness is the principle that courage, focus, and positive conviction reduce the influence of fear, negativity, and destructive mental patterns.",
+"supported_by": ["HC-EVIDENCE-CH-024"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0025",
+"aku_name": "Restorative Wellbeing Through Consistent Practice",
+"domain": "Spirituality",
+"definition": "Restorative Wellbeing Through Consistent Practice is the principle that disciplined, repeated, positive practice strengthens resilience, reduces suffering, and supports holistic wellbeing.",
+"supported_by": ["HC-EVIDENCE-CH-025"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0026",
+"aku_name": "Crisis Resolution Through Total Alignment",
+"domain": "Spirituality",
+"definition": "Crisis Resolution Through Total Alignment is the principle that alignment of thought, speech, action, and attention increases effectiveness during difficult situations.",
+"supported_by": ["HC-EVIDENCE-CH-026"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0027",
+"aku_name": "Purpose Driven Execution Of Higher Work",
+"domain": "Spirituality",
+"definition": "Purpose Driven Execution Of Higher Work is the principle that vision becomes reality through reliable execution, disciplined service, mission loyalty, and outcome-focused action.",
+"supported_by": ["HC-EVIDENCE-CH-027"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0028",
+"aku_name": "Purpose Aligned Aspiration For Meaningful Fulfillment",
+"domain": "Spirituality",
+"definition": "Purpose Aligned Aspiration For Meaningful Fulfillment is the principle that sincere goals produce lasting value when aligned with deeper purpose, values, and constructive intention.",
+"supported_by": ["HC-EVIDENCE-CH-028"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0029",
+"aku_name": "Timeless Influence Through Enduring Contribution",
+"domain": "Spirituality",
+"definition": "Timeless Influence Through Enduring Contribution is the principle that lasting recognition arises from sustained service, meaningful value creation, and impact that remains relevant across time.",
+"supported_by": ["HC-EVIDENCE-CH-029"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0030",
+"aku_name": "Protective Stewardship Of Goodness",
+"domain": "Spirituality",
+"definition": "Protective Stewardship Of Goodness is the principle that true strength protects constructive values, supports virtuous people, and actively resists destructive influences.",
+"supported_by": ["HC-EVIDENCE-CH-030"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0031",
+"aku_name": "Responsible Stewardship Of Capability And Abundance",
+"domain": "Spirituality",
+"definition": "Responsible Stewardship Of Capability And Abundance is the principle that power, talent, resources, opportunities, and abundance create the highest value when managed responsibly and used to empower, uplift, and benefit others.",
+"supported_by": ["HC-EVIDENCE-CH-031"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0032",
+"aku_name": "Mastery Anchored In Humble Service",
+"domain": "Spirituality",
+"definition": "Mastery Anchored In Humble Service is the principle that true excellence combines deep knowledge, capability, and achievement with humility, service orientation, and freedom from ego-driven identity.",
+"supported_by": ["HC-EVIDENCE-CH-032"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0033",
+"aku_name": "Transformational Alignment With Higher Values",
+"domain": "Spirituality",
+"definition": "Transformational Alignment With Higher Values is the principle that consistent alignment with noble values, constructive ideals, and purposeful living gradually reduces suffering, transforms behavior, and creates deeper fulfillment.",
+"supported_by": ["HC-EVIDENCE-CH-033"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0034",
+"aku_name": "Enduring Identity Through Lifelong Value Alignment",
+"domain": "Spirituality",
+"definition": "Enduring Identity Through Lifelong Value Alignment is the principle that a person's long-term identity, legacy, and destination are shaped by sustained alignment with meaningful values, purpose, and constructive actions throughout life.",
+"supported_by": ["HC-EVIDENCE-CH-034"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0035",
+"aku_name": "Focused Commitment Through Priority Alignment",
+"domain": "Spirituality",
+"definition": "Focused Commitment Through Priority Alignment is the principle that sustained attention toward a meaningful priority reduces fragmentation, strengthens effectiveness, and increases the likelihood of fulfillment and wellbeing.",
+"supported_by": ["HC-EVIDENCE-CH-035"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0036",
+"aku_name": "Resilient Recovery Through Strength Anchoring",
+"domain": "Spirituality",
+"definition": "Resilient Recovery Through Strength Anchoring is the principle that individuals overcome adversity more effectively when they consciously anchor themselves in courage, resilience, determination, and inner strength rather than fear, helplessness, or despair.",
+"supported_by": ["HC-EVIDENCE-CH-036"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0037",
+"aku_name": "Transformational Growth Through Guided Learning",
+"domain": "Spirituality",
+"definition": "Transformational Growth Through Guided Learning is the principle that wisdom, growth, and capability develop more effectively when individuals remain open to guidance, mentorship, constructive feedback, and compassionate instruction.",
+"supported_by": ["HC-EVIDENCE-CH-037"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0038",
+"aku_name": "Liberation Through Disciplined Repetition",
+"domain": "Spirituality",
+"definition": "Liberation Through Disciplined Repetition is the principle that consistent practice, repeated effort, and disciplined habits gradually remove limitations, strengthen capability, and create sustainable transformation over time.",
+"supported_by": ["HC-EVIDENCE-CH-038"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0039",
+"aku_name": "Applied Wisdom Creates Realization",
+"domain": "Spirituality",
+"definition": "Applied Wisdom Creates Realization is the principle that meaningful transformation, achievement, and mastery emerge when knowledge is consistently understood, practiced, embodied, and translated into action rather than remaining theoretical information.",
+"supported_by": ["HC-EVIDENCE-CH-039"]
+},
+{
+"aku_id": "HCAM-SPIRIT-HC-0040",
+"aku_name": "Identity Anchored In Humble Service",
+"domain": "Spirituality",
+"definition": "Identity Anchored In Humble Service is the principle that lasting fulfillment, stability, and meaning emerge when personal identity is rooted in humility, service, higher values, and continuous alignment with a purpose greater than oneself.",
+"supported_by": ["HC-EVIDENCE-CH-040"]
+}
+]
+}
