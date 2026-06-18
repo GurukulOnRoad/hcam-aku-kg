@@ -1,0 +1,253 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"record_type": "HCAM-AKU Spiritual Knowledge Unit",
+"record_version": "1.0",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 1,
+"evidence_unit": {
+"evidence_id": "HC-EVIDENCE-CH-001",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 1,
+"text": "जय हनुमान ज्ञान गुण सागर। जय कपीस तिहुँ लोक उजागर॥",
+"english_description": "This chaupai praises Lord Hanuman as the ocean of wisdom and virtue, whose divine presence and excellence are known across all three worlds.",
+"hindi_description": "यह चौपाई हनुमान जी को ज्ञान और गुणों का सागर बताती है और उनकी महिमा तीनों लोकों में प्रकाशित मानी जाती है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko wisdom aur virtues ka ocean batati hai, jinki mahima teenon lokon mein known aur visible hai."
+},
+"primary_aku": {
+"aku_id": "HCAM-SPIRIT-HC-0001",
+"aku_name": "Wisdom With Virtue",
+"domain": "Spirituality",
+"definition": "Wisdom With Virtue is the integrated spiritual quality where knowledge is guided by noble character, ethical clarity, humility, and right action.",
+"supported_by": [
+"HC-EVIDENCE-CH-001"
+]
+},
+"supporting_concepts": [
+{
+"concept_id": "HC-CONCEPT-0001",
+"concept_name": "Wisdom",
+"concept_type": "Core Concept",
+"definition": "Applied spiritual intelligence that supports right understanding, clarity, and ethical action."
+},
+{
+"concept_id": "HC-CONCEPT-0002",
+"concept_name": "Virtue",
+"concept_type": "Supporting Concept",
+"definition": "Noble qualities such as humility, discipline, devotion, truthfulness, courage, and selfless conduct."
+},
+{
+"concept_id": "HC-CONCEPT-0003",
+"concept_name": "Divine Recognition",
+"concept_type": "Hidden Concept",
+"definition": "Recognition of spiritual excellence across wider realms of awareness, respect, and sacred memory."
+},
+{
+"concept_id": "HC-CONCEPT-0004",
+"concept_name": "Devotional Leadership",
+"concept_type": "Practical Concept",
+"definition": "Leadership rooted in wisdom, service, humility, and alignment with a higher purpose."
+}
+],
+"retrieval_layer": {
+"retrieval_id": "HC-RETRIEVAL-0001",
+"user_questions": [
+"Which Hanuman Chalisa chaupai is for wisdom?",
+"How can I gain spiritual clarity?",
+"What does Hanuman Chalisa say about knowledge and virtue?",
+"How can wisdom help in decision making?"
+],
+"search_queries": [
+"Hanuman Chalisa chaupai for wisdom",
+"Jai Hanuman Gyan Gun Sagar meaning",
+"Hanuman ji wisdom and virtue",
+"spiritual wisdom through Hanuman Chalisa"
+],
+"conversational_queries": [
+"I feel confused and need clarity.",
+"How can Hanuman ji help me make better decisions?",
+"What does ज्ञान गुण सागर mean in daily life?",
+"How do I combine knowledge with good character?"
+],
+"voice_queries": [
+"Hanuman Chalisa verse for wisdom",
+"Meaning of Jai Hanuman Gyan Gun Sagar",
+"Prayer for clarity and good qualities",
+"Hanuman ji wisdom teaching"
+]
+},
+"context_layer": {
+"context_id": "HC-CONTEXT-0001",
+"personal_growth": "Use this AKU when a person wants to grow from information-seeking toward mature wisdom and ethical clarity.",
+"leadership": "Applicable when leaders need humility, clarity, and virtue before making decisions.",
+"education": "Useful for learners who want knowledge to become understanding rather than memorization.",
+"emotional_wellbeing": "Supports inner steadiness when confusion, self-doubt, or mental fog reduce confidence.",
+"decision_making": "Helps frame decisions through wisdom, virtue, and long-term clarity.",
+"spiritual_practice": "Supports recitation, reflection, and meditation on Hanuman as the embodiment of knowledge and noble qualities.",
+"life_situation_mapping": [
+{
+"life_situation_id": "HC-LIFE-0001",
+"name": "Self-Doubt"
+},
+{
+"life_situation_id": "HC-LIFE-0002",
+"name": "Learning Confusion"
+},
+{
+"life_situation_id": "HC-LIFE-0003",
+"name": "Moral Clarity"
+},
+{
+"life_situation_id": "HC-LIFE-0004",
+"name": "Leadership Pressure"
+},
+{
+"life_situation_id": "HC-LIFE-0005",
+"name": "Decision Making"
+}
+],
+"practice_mapping": [
+{
+"practice_id": "HC-PRACTICE-0001",
+"name": "Recitation"
+},
+{
+"practice_id": "HC-PRACTICE-0002",
+"name": "Reflection"
+},
+{
+"practice_id": "HC-PRACTICE-0003",
+"name": "Meditation"
+},
+{
+"practice_id": "HC-PRACTICE-0004",
+"name": "Discipline"
+}
+]
+},
+"reasoning_layer": {
+"reasoning_id": "HC-REASONING-0001",
+"logic_units": [
+{
+"if": "Knowledge is joined with virtue",
+"then": "Action becomes clearer, humbler, and more trustworthy."
+},
+{
+"if": "Wisdom increases",
+"then": "Confusion and impulsive decision making decrease."
+},
+{
+"if": "A person remembers Hanuman as ज्ञान गुण सागर",
+"then": "The mind is guided toward clarity and noble conduct."
+}
+],
+"decision_logic": [
+"Choose wisdom over ego-based reaction.",
+"Choose virtue before visible success.",
+"Use knowledge only when it supports right action."
+],
+"application_logic": "Apply this AKU when a person has information but lacks clarity, emotional steadiness, or ethical direction."
+},
+"evaluation_layer": {
+"evaluation_id": "HC-EVAL-0001",
+"assessment_questions": [
+{
+"question": "Does wisdom mean only collecting information?",
+"answer": "No. Wisdom means applying knowledge with ethical clarity and right understanding."
+},
+{
+"question": "Why are wisdom and virtue paired in this chaupai?",
+"answer": "Because knowledge without noble qualities can become pride, while virtue gives knowledge the right direction."
+},
+{
+"question": "Which quality is central to Chaupai 1?",
+"answer": "Wisdom With Virtue."
+}
+],
+"common_misunderstandings": [
+"Thinking wisdom means memorization.",
+"Separating knowledge from character.",
+"Treating divine praise as only poetic exaggeration."
+],
+"error_patterns": [
+"Confusing information with wisdom.",
+"Using knowledge for ego rather than service.",
+"Ignoring virtue while seeking intelligence."
+]
+},
+"boundary_layer": {
+"boundary_id": "HC-BOUNDARY-0001",
+"includes": [
+"Discernment",
+"Ethical clarity",
+"Applied knowledge",
+"Virtue-led action",
+"Humility in learning",
+"Devotional intelligence"
+],
+"excludes": [
+"Blind memorization",
+"Intellectual arrogance",
+"Information overload",
+"Knowledge without ethics",
+"Ego-driven superiority"
+]
+},
+"relationship_layer": {
+"relationship_id": "HC-REL-0001",
+"related_concepts": [
+"Wisdom",
+"Virtue",
+"Devotion",
+"Clarity",
+"Humility",
+"Leadership"
+],
+"dependent_concepts": [
+"Right Understanding",
+"Ethical Action",
+"Inner Clarity"
+],
+"supporting_concepts": [
+"Discernment",
+"Self-Control",
+"Reverence",
+"Moral Strength"
+],
+"opposing_concepts": [
+"Ignorance",
+"Confusion",
+"Pride",
+"Misuse of Knowledge"
+]
+},
+"anchor_layer": {
+"anchor_id": "HC-ANCHOR-0001",
+"hindi_memory_anchor": "ज्ञान का सागर, गुणों का आधार।",
+"hinglish_recall_anchor": "Information yaad reh sakti hai, wisdom direction deta hai.",
+"story_anchor": "Hanuman is praised first for wisdom and virtue before strength, showing that true power begins with clear understanding and noble character."
+},
+"delivery_layer": {
+"delivery_id": "HC-DELIVERY-0001",
+"english_summary": "This chaupai presents Hanuman as the ocean of wisdom and virtue, guiding seekers toward clarity, humility, and right action.",
+"hindi_summary": "यह चौपाई हनुमान जी को ज्ञान और गुणों का सागर बताकर स्पष्टता, विनम्रता और सही कर्म की प्रेरणा देती है।",
+"hinglish_summary": "Yeh chaupai Hanuman ji ko wisdom aur virtues ka ocean batati hai, jo clarity, humility aur right action ka anchor hai.",
+"voice_explanation": "When the mind feels unclear, remember Hanuman as ज्ञान गुण सागर. True wisdom is not only knowing more, but acting with virtue."
+},
+"packaging_layer": {
+"package_id": "HC-PACKAGE-0001",
+"rag_chunk": "Hanuman Chalisa Chaupai 1 praises Lord Hanuman as ज्ञान गुण सागर, the ocean of wisdom and virtue. This AKU supports retrieval for wisdom, clarity, ethical decision making, self-doubt, learning confusion, and leadership preparation.",
+"training_pair": {
+"question": "What is the primary HCAM-AKU concept in Hanuman Chalisa Chaupai 1?",
+"answer": "The primary AKU is Wisdom With Virtue, supported by the phrase ज्ञान गुण सागर."
+},
+"fine_tuning_pair": {
+"input": "Explain the meaning of जय हनुमान ज्ञान गुण सागर in an HCAM-AKU format.",
+"output": "It represents Wisdom With Virtue: knowledge guided by noble qualities, ethical clarity, humility, and right action."
+},
+"qa_pair": {
+"question": "How can Chaupai 1 help in daily life?",
+"answer": "It can help a person seek clarity, combine knowledge with character, and make decisions with humility and wisdom."
+}
+}
+}
