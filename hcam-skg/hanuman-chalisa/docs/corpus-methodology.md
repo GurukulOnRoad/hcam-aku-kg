@@ -656,6 +656,6 @@ This enables spiritual wisdom to become searchable, teachable, retrievable, expl
 | Version | 1.0 |
 | Corpus | HCAM-SPIRIT-HANUMAN-CHALISA-V1 |
 | Status | Proof of Concept |
-| Repository | hanuman-chalisa-hcam-aku |
+| Repository | hcam-aku-kg/hcam-skg/hanuman-chalisa |
 
 ---
