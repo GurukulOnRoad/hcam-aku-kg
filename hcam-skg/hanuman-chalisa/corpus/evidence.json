@@ -1,0 +1,489 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"registry_type": "Evidence Registry",
+"source_work": "Hanuman Chalisa",
+"total_evidence_units": 40,
+"evidence_units": [
+{
+"evidence_id": "HC-EVIDENCE-CH-001",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 1,
+"text": "जय हनुमान ज्ञान गुण सागर। जय कपीस तिहुँ लोक उजागर॥",
+"english_description": "This chaupai praises Lord Hanuman as the ocean of wisdom and virtue, whose divine presence and excellence are known across all three worlds.",
+"hindi_description": "यह चौपाई हनुमान जी को ज्ञान और गुणों का सागर बताती है और उनकी महिमा तीनों लोकों में प्रकाशित मानी जाती है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko wisdom aur virtues ka ocean batati hai, jinki mahima teenon lokon mein known aur visible hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0001"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-002",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 2,
+"text": "राम दूत अतुलित बल धामा। अंजनि पुत्र पवनसुत नामा॥",
+"english_description": "This chaupai introduces Lord Hanuman as the messenger of Shri Ram, the abode of incomparable strength, and the divine son of Anjani and Vayu.",
+"hindi_description": "यह चौपाई हनुमान जी को श्रीराम के दूत, अतुलनीय बल के धाम तथा अंजनी और पवनदेव के पुत्र के रूप में प्रस्तुत करती है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko Shri Ram ke messenger, unmatched strength ke source aur Anjani-Pavan putra ke roop mein darshati hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0002"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-003",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 3,
+"text": "महाबीर बिक्रम बजरंगी। कुमति निवार सुमति के संगी॥",
+"english_description": "This chaupai presents Lord Hanuman as a great heroic force of courage and firmness who removes wrong thinking and supports noble intelligence.",
+"hindi_description": "यह चौपाई हनुमान जी को महान वीर, पराक्रमी और दृढ़ शक्ति के रूप में प्रस्तुत करती है, जो कुमति को दूर कर सुमति का साथ देते हैं।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko courage, strength aur right-thinking ke protector ke roop mein dikhati hai, jo wrong thinking ko remove karke good wisdom ka support karte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0003"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-004",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 4,
+"text": "कंचन बरन बिराज सुबेसा। कानन कुण्डल कुंचित केसा॥",
+"english_description": "This chaupai describes the radiant appearance of Lord Hanuman, highlighting his golden complexion, noble attire, forest earrings, and curly hair as symbols of inner excellence reflected through outer presence.",
+"hindi_description": "यह चौपाई हनुमान जी के दिव्य स्वरूप का वर्णन करती है, जिसमें उनका कंचन समान तेजस्वी वर्ण, सुंदर वेशभूषा, कुण्डल और कुंचित केश उनके आंतरिक तेज का प्रतीक हैं।",
+"hinglish_description": "Yeh chaupai Hanuman ji ke divine appearance ka varnan karti hai, jahan unka radiant form unke inner excellence aur spiritual brilliance ko reflect karta hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0004"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-005",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 5,
+"text": "हाथ वज्र औ ध्वजा बिराजै। काँधे मूँज जनेऊ साजै॥",
+"english_description": "This chaupai describes Lord Hanuman holding the vajra and flag while wearing the sacred thread, symbolizing strength, commitment, responsibility, discipline, and sacred duty.",
+"hindi_description": "यह चौपाई हनुमान जी के हाथ में वज्र और ध्वजा तथा कंधे पर मूँज का जनेऊ दर्शाती है, जो शक्ति, उत्तरदायित्व, अनुशासन और धर्मनिष्ठ कर्तव्य का प्रतीक है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko vajra, dhwaja aur janeu ke saath darshati hai, jo strength, responsibility, discipline aur sacred duty ko represent karte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0005"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-006",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 6,
+"text": "शंकर सुवन केसरी नंदन। तेज प्रताप महा जग वंदन॥",
+"english_description": "This chaupai describes Lord Hanuman as the son of Kesari and the manifestation of Lord Shiva's divine qualities, whose radiance, influence, and noble achievements are respected throughout the world.",
+"hindi_description": "यह चौपाई हनुमान जी को केसरी के पुत्र और शिवतत्त्व के तेजस्वी स्वरूप के रूप में प्रस्तुत करती है, जिनका तेज, प्रताप और महान कार्य समस्त जगत द्वारा वंदनीय हैं।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko Kesari Nandan aur Shiv-tatva ke prakash roop mein darshati hai, jinka tej aur prabhav poore jagat mein respected hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0006"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-007",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 7,
+"text": "विद्यावान गुनी अति चातुर। राम काज करिबे को आतुर॥",
+"english_description": "This chaupai praises Lord Hanuman as highly knowledgeable, virtuous, intelligent, and ever eager to perform the work of Shri Ram.",
+"hindi_description": "यह चौपाई हनुमान जी को अत्यंत विद्वान, गुणवान, बुद्धिमान और श्रीराम के कार्य को करने के लिए सदैव तत्पर बताती है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko knowledgeable, virtuous, intelligent aur purpose-driven action ke liye hamesha ready darshati hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0007"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-008",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 8,
+"text": "प्रभु चरित्र सुनिबे को रसिया। राम लखन सीता मन बसिया॥",
+"english_description": "This chaupai describes Lord Hanuman as one who delights in listening to the noble deeds and character of Shri Ram, while keeping Ram, Lakshman, and Sita constantly established within his heart and mind.",
+"hindi_description": "यह चौपाई हनुमान जी को प्रभु के चरित्र और आदर्शों को सुनने में आनंद लेने वाला तथा राम, लक्ष्मण और सीता को अपने मन में सदैव स्थापित रखने वाला बताती है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ko noble ideals aur divine character ke seeker ke roop mein dikhati hai, jinke mann mein Ram, Lakshman aur Sita sadaiv baste hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0008"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-009",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 9,
+"text": "सूक्ष्म रूप धरि सियहिं दिखावा। बिकट रूप धरि लंक जरावा॥",
+"english_description": "This chaupai describes Lord Hanuman's ability to assume a subtle form to reassure Sita and a formidable form to burn Lanka, demonstrating adaptability according to purpose and circumstance.",
+"hindi_description": "यह चौपाई हनुमान जी की परिस्थिति के अनुसार रूप धारण करने की क्षमता को दर्शाती है, जहाँ वे सीता जी के समक्ष सूक्ष्म रूप और लंका दहन के समय विकट रूप धारण करते हैं।",
+"hinglish_description": "Yeh chaupai Hanuman ji ki adaptability aur situational intelligence ko darshati hai, jahan woh mission ke hisaab se apna approach badalte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0009"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-010",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 10,
+"text": "भीम रूप धरि असुर सँहारे। रामचन्द्र के काज सँवारे॥",
+"english_description": "This chaupai describes Lord Hanuman assuming a formidable form to defeat destructive forces and successfully accomplish the mission of Shri Ram.",
+"hindi_description": "यह चौपाई हनुमान जी के उस स्वरूप का वर्णन करती है जिसमें वे भीम रूप धारण कर आसुरी शक्तियों का विनाश करते हैं और श्रीराम के कार्यों को सफल बनाते हैं।",
+"hinglish_description": "Yeh chaupai Hanuman ji ki decisive action, protective courage aur mission execution ki capability ko darshati hai, jahan ve obstacles ko remove karke objective complete karte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0010"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-011",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 11,
+"text": "लाय सजीवन लखन जियाये। श्रीरघुबीर हरषि उर लाये॥",
+"english_description": "This chaupai describes Lord Hanuman bringing the Sanjeevani herb to restore Lakshman's life, fulfilling a critical mission and bringing immense joy to Shri Ram.",
+"hindi_description": "यह चौपाई हनुमान जी द्वारा संजीवनी लाकर लक्ष्मण जी को पुनर्जीवित करने और श्रीराम को अत्यंत प्रसन्न करने की घटना का वर्णन करती है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ki life-saving action, urgency handling aur mission commitment ko darshati hai, jahan ve impossible lagne wali situation ko solution mein badal dete hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0011"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-012",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 12,
+"text": "रघुपति कीन्ही बहुत बड़ाई। तुम मम प्रिय भरतहि सम भाई॥",
+"english_description": "This chaupai describes Shri Ram expressing deep appreciation for Hanuman's service and declaring him as dear as his beloved brother Bharat.",
+"hindi_description": "यह चौपाई उस प्रसंग का वर्णन करती है जहाँ श्रीराम हनुमान जी की अत्यंत प्रशंसा करते हुए उन्हें अपने प्रिय भाई भरत के समान बताते हैं।",
+"hinglish_description": "Yeh chaupai batati hai ki sincere seva, loyalty aur contribution ko highest level par recognition aur trust milta hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0012"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-013",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 13,
+"text": "सहस बदन तुम्हरो जस गावैं। अस कहि श्रीपति कण्ठ लगावैं॥",
+"english_description": "This chaupai describes how even thousands of mouths continuously sing the glory of Hanuman, and how Shri Ram embraces him with affection and appreciation.",
+"hindi_description": "यह चौपाई बताती है कि सहस्र मुख भी हनुमान जी के यश का पूर्ण वर्णन नहीं कर सकते, और श्रीराम उन्हें स्नेहपूर्वक अपने हृदय से लगाते हैं।",
+"hinglish_description": "Yeh chaupai batati hai ki true excellence aur seva itni gehri ho sakti hai ki uski mahima ko poori tarah vyakt karna mushkil ho jata hai, aur genuine contribution highest appreciation earn karta hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0013"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-014",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 14,
+"text": "सनकादिक ब्रह्मादि मुनीसा। नारद सारद सहित अहीसा॥",
+"english_description": "This chaupai states that great sages, divine beings, wisdom teachers, and celestial intelligences continuously praise and recognize the greatness of Hanuman.",
+"hindi_description": "यह चौपाई बताती है कि सनकादिक ऋषि, ब्रह्मा, नारद, सरस्वती तथा अन्य महान दिव्य ज्ञानी भी हनुमान जी की महिमा का गुणगान करते हैं।",
+"hinglish_description": "Yeh chaupai dikhati hai ki true excellence aur wisdom ko sirf common log hi nahi, balki highest knowledge holders bhi recognize karte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0014"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-015",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 15,
+"text": "यम कुबेर दिगपाल जहाँ ते। कवि कोविद कहि सके कहाँ ते॥",
+"english_description": "This chaupai states that even Yama, Kubera, the guardians of the directions, learned scholars, and great poets cannot fully describe the greatness and qualities of Hanuman.",
+"hindi_description": "यह चौपाई बताती है कि यमराज, कुबेर, दिग्पाल, विद्वान और महान कवि भी हनुमान जी की महिमा का पूर्ण वर्णन करने में समर्थ नहीं हैं।",
+"hinglish_description": "Yeh chaupai dikhati hai ki kuch qualities aur contributions itne vast ho sakte hain ki even experts aur scholars bhi unhe poori tarah define nahi kar paate.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0015"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-016",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 16,
+"text": "तुम उपकार सुग्रीवहिं कीन्हा। राम मिलाय राज पद दीन्हा॥",
+"english_description": "This chaupai describes how Hanuman helped Sugriva by connecting him with Shri Ram, which ultimately led to the restoration of Sugriva's kingdom and rightful position.",
+"hindi_description": "यह चौपाई बताती है कि हनुमान जी ने सुग्रीव की सहायता कर उनका श्रीराम से मिलन कराया, जिसके परिणामस्वरूप उन्हें अपना राज्य और उचित पद पुनः प्राप्त हुआ।",
+"hinglish_description": "Yeh chaupai Hanuman ji ki connector, facilitator aur opportunity-enabler ki role ko darshati hai, jahan sahi sambandh ek vyakti ka poora bhavishya badal dete hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0016"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-017",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 17,
+"text": "तुम्हरो मंत्र विभीषण माना। लंकेश्वर भए सब जग जाना॥",
+"english_description": "This chaupai describes how Vibhishana accepted Hanuman's counsel and guidance, which eventually led him to become the ruler of Lanka, a fact known throughout the world.",
+"hindi_description": "यह चौपाई बताती है कि विभीषण ने हनुमान जी की सलाह को स्वीकार किया, जिसके परिणामस्वरूप वे लंका के राजा बने और यह बात समस्त जगत में प्रसिद्ध हुई।",
+"hinglish_description": "Yeh chaupai dikhati hai ki wise guidance ko accept karna aur sahi advice par action lena life-changing outcomes create kar sakta hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0017"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-018",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 18,
+"text": "युग सहस्र योजन पर भानू। लील्यो ताहि मधुर फल जानू॥",
+"english_description": "This chaupai recalls Hanuman's childhood feat of leaping toward the sun, perceiving it as a sweet fruit. It symbolizes extraordinary aspiration, fearless exploration, and the willingness to pursue seemingly impossible goals.",
+"hindi_description": "यह चौपाई हनुमान जी के बाल्यकाल की उस घटना का वर्णन करती है जब उन्होंने सूर्य को मधुर फल समझकर उसकी ओर छलांग लगाई। यह असाधारण साहस, जिज्ञासा और ऊँचे लक्ष्य की ओर बढ़ने का प्रतीक है।",
+"hinglish_description": "Yeh chaupai Hanuman ji ki limitless aspiration aur fearless action ko darshati hai, jahan impossible lagne wali cheez bhi unke liye explore karne layak opportunity ban jaati hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0018"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-019",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 19,
+"text": "प्रभु मुद्रिका मेलि मुख माहीं। जलधि लांघि गए अचरज नाहीं॥",
+"english_description": "This chaupai describes Hanuman carrying Shri Ram's ring in his mouth and crossing the vast ocean. The ring symbolizes divine trust, mission authority, and purpose alignment, making extraordinary achievement possible.",
+"hindi_description": "यह चौपाई हनुमान जी द्वारा श्रीराम की मुद्रिका लेकर समुद्र पार करने की घटना का वर्णन करती है। मुद्रिका विश्वास, अधिकार और उद्देश्य से जुड़ी जिम्मेदारी का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki jab kisi vyakti ke paas trust, mission clarity aur authority hoti hai, toh bade se bade obstacles bhi manageable ho jaate hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0019"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-020",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 20,
+"text": "दुर्गम काज जगत के जेते। सुगम अनुग्रह तुम्हरे तेते॥",
+"english_description": "This chaupai states that difficult tasks and seemingly impossible challenges become easier through Hanuman's grace, symbolizing the transformation of obstacles through strength, wisdom, support, and right guidance.",
+"hindi_description": "यह चौपाई बताती है कि संसार के कठिन से कठिन कार्य भी हनुमान जी की कृपा से सुगम हो जाते हैं। यह कठिनाइयों को सामर्थ्य, मार्गदर्शन और सहयोग से पार करने का प्रतीक है।",
+"hinglish_description": "Yeh chaupai batati hai ki jo kaam impossible lagte hain, woh right support, wisdom, discipline aur guidance ke saath manageable ban sakte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0020"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-021",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 21,
+"text": "राम दुआरे तुम रखवारे। होत न आज्ञा बिनु पैसारे॥",
+"english_description": "This chaupai describes Hanuman as the guardian at the gateway of Shri Ram, symbolizing stewardship, gatekeeping, trust, qualification, and responsible access to higher opportunities and values.",
+"hindi_description": "यह चौपाई हनुमान जी को श्रीराम के द्वार के रक्षक के रूप में प्रस्तुत करती है, जो पात्रता, विश्वास, संरक्षण और उत्तरदायी प्रवेश के सिद्धांत का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki har valuable opportunity, system ya higher purpose ke saath gatekeeping, qualification aur trust ka mechanism juda hota hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0021"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-022",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 22,
+"text": "सब सुख लहै तुम्हारी सरना। तुम रक्षक काहू को डर ना॥",
+"english_description": "This chaupai states that those who seek Hanuman's refuge attain wellbeing and peace, and those protected by him need not live in fear. It emphasizes security, trust, protection, and inner confidence.",
+"hindi_description": "यह चौपाई बताती है कि जो हनुमान जी की शरण ग्रहण करते हैं उन्हें सुख, सुरक्षा और शांति प्राप्त होती है। जिनकी रक्षा हनुमान जी करते हैं उन्हें किसी प्रकार का भय नहीं रहता।",
+"hinglish_description": "Yeh chaupai dikhati hai ki jab vyakti ko trusted protection, support aur inner confidence milta hai, toh fear ki jagah stability aur wellbeing develop hoti hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0022"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-023",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 23,
+"text": "आपन तेज सम्हारो आपै। तीनों लोक हाँक ते काँपै॥",
+"english_description": "This chaupai describes Hanuman's immense power and influence, emphasizing that he alone controls and restrains his own strength. Even the three worlds tremble at his command, yet he remains self-governed.",
+"hindi_description": "यह चौपाई हनुमान जी की अपार शक्ति का वर्णन करती है, साथ ही यह भी बताती है कि वे स्वयं अपनी शक्ति को नियंत्रित और संयमित रखते हैं। तीनों लोक उनकी गर्जना से काँपते हैं, फिर भी वे आत्मसंयमित हैं।",
+"hinglish_description": "Yeh chaupai batati hai ki asli greatness power rakhne mein nahi, balki us power ko control karne mein hai. Self-mastery hi highest strength hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0023"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-024",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 24,
+"text": "भूत पिशाच निकट नहिं आवै। महाबीर जब नाम सुनावै॥",
+"english_description": "This chaupai states that negative forces, harmful influences, and fear-inducing entities cannot approach where the name of Mahabir Hanuman is invoked. It symbolizes psychological resilience, protective awareness, and the power of focused mental alignment.",
+"hindi_description": "यह चौपाई बताती है कि महावीर हनुमान का नाम स्मरण करने पर भूत, पिशाच और नकारात्मक शक्तियाँ निकट नहीं आतीं। यह मानसिक दृढ़ता, सुरक्षा और सकारात्मक चेतना का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki jab mind courage, focus aur positive conviction se bhar jata hai, toh fear, negativity aur destructive influences ka impact kam ho jata hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0024"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-025",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 25,
+"text": "नासै रोग हरै सब पीरा। जपत निरंतर हनुमत बीरा॥",
+"english_description": "This chaupai states that continuous remembrance of Hanuman helps remove suffering, pain, and afflictions. It symbolizes the transformative effect of disciplined focus, resilience, hope, and restorative practices on human wellbeing.",
+"hindi_description": "यह चौपाई बताती है कि हनुमान जी का निरंतर स्मरण रोग, पीड़ा और कष्टों को दूर करने में सहायक होता है। यह मानसिक, भावनात्मक और आध्यात्मिक पुनर्स्थापन का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki consistent positive focus, disciplined remembrance aur inner resilience suffering ko reduce karne aur wellbeing ko improve karne mein madad kar sakte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0025"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-026",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 26,
+"text": "संकट तें हनुमान छुड़ावै। मन क्रम बचन ध्यान जो लावै॥",
+"english_description": "This chaupai teaches that Hanuman helps individuals overcome difficulties and crises when they align their mind, actions, speech, and attention with focused discipline and sincere commitment.",
+"hindi_description": "यह चौपाई बताती है कि जो व्यक्ति मन, कर्म और वचन से एकाग्र होकर हनुमान जी का ध्यान करता है, उसे संकटों से मुक्ति प्राप्त होती है।",
+"hinglish_description": "Yeh chaupai batati hai ki jab mind, actions aur words ek hi direction mein aligned ho jaate hain, tab insaan difficult situations ko zyada effectively overcome kar pata hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0026"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-027",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 27,
+"text": "सब पर राम तपस्वी राजा। तिन के काज सकल तुम साजा॥",
+"english_description": "This chaupai states that Shri Ram, the ascetic king, is supreme among all, and Hanuman successfully accomplishes all of his works. It highlights mission execution, service excellence, loyalty to purpose, and effective implementation.",
+"hindi_description": "यह चौपाई बताती है कि श्रीराम सर्वोच्च तपस्वी राजा हैं और हनुमान जी उनके सभी कार्यों को सफलतापूर्वक पूर्ण करते हैं। यह उद्देश्यनिष्ठ सेवा और कार्यसिद्धि का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki clear purpose ke prati loyalty aur flawless execution extraordinary results create karte hain. Vision ko reality mein convert karna hi asli seva hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0027"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-028",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 28,
+"text": "और मनोरथ जो कोई लावै। सोइ अमित जीवन फल पावै॥",
+"english_description": "This chaupai states that those who bring their sincere aspirations and intentions receive abundant results and meaningful outcomes. It highlights aspiration, intention alignment, and the relationship between purpose-driven effort and fulfillment.",
+"hindi_description": "यह चौपाई बताती है कि जो व्यक्ति अपने सच्चे मनोरथ और उद्देश्य लेकर आते हैं, वे जीवन में व्यापक और मूल्यवान फल प्राप्त करते हैं।",
+"hinglish_description": "Yeh chaupai batati hai ki clear intention, meaningful aspiration aur committed effort milkar long-term fulfillment aur valuable outcomes create karte hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0028"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-029",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 29,
+"text": "चारों जुग परताप तुम्हारा। है परसिद्ध जगत उजियारा॥",
+"english_description": "This chaupai states that Hanuman's glory and influence extend across all four ages (Yugas) and are renowned throughout the world. It symbolizes timeless relevance, enduring impact, and universal recognition earned through sustained contribution.",
+"hindi_description": "यह चौपाई बताती है कि हनुमान जी का प्रताप चारों युगों में विद्यमान है और उनकी कीर्ति सम्पूर्ण जगत में प्रसिद्ध है। यह कालातीत प्रभाव और स्थायी योगदान का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki asli greatness temporary popularity se nahi, balki timeless contribution aur long-term impact se banti hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0029"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-030",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 30,
+"text": "साधु संत के तुम रखवारे। असुर निकंदन राम दुलारे॥",
+"english_description": "This chaupai describes Hanuman as the protector of saints and virtuous individuals, and the destroyer of harmful forces. It symbolizes the protection of constructive values, defense of goodness, and active resistance against destructive influences.",
+"hindi_description": "यह चौपाई हनुमान जी को साधु-संतों के रक्षक और असुरों के विनाशक के रूप में वर्णित करती है। यह सद्गुणों की रक्षा और दुष्प्रभावों के प्रतिरोध का प्रतीक है।",
+"hinglish_description": "Yeh chaupai batati hai ki true strength sirf protection nahi karti, balki harmful influences aur destructive systems ka bhi samna karti hai taaki goodness survive aur grow kar sake.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0030"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-031",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 31,
+"text": "अष्ट सिद्धि नव निधि के दाता। अस बर दीन जानकी माता॥",
+"english_description": "This chaupai states that Mother Janaki (Sita) granted Hanuman the blessing of being able to bestow the eight siddhis and nine treasures. It symbolizes capability stewardship, abundance management, empowerment, and the responsible distribution of resources and potential.",
+"hindi_description": "यह चौपाई बताती है कि माता जानकी ने हनुमान जी को अष्ट सिद्धियों और नव निधियों के दाता होने का वरदान दिया। यह क्षमता, समृद्धि और संसाधनों के उत्तरदायी उपयोग का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki real abundance sirf wealth rakhne mein nahi, balki capability aur resources ko dusron ke upliftment ke liye responsibly use karne mein hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0031"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-032",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 32,
+"text": "राम रसायन तुम्हरे पासा। सदा रहो रघुपति के दासा॥",
+"english_description": "This chaupai states that Hanuman possesses the essence of Ram's wisdom and virtues, while remaining eternally devoted as the servant of Shri Ram. It symbolizes mastery without ego, wisdom with humility, and service-centered excellence.",
+"hindi_description": "यह चौपाई बताती है कि हनुमान जी के पास श्रीराम के गुणों और आदर्शों का अमृत स्वरूप ज्ञान है, फिर भी वे स्वयं को सदा श्रीराम का दास मानते हैं। यह विनम्रता और सेवा-भाव का सर्वोच्च उदाहरण है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki highest wisdom aur capability ke baad bhi humility aur service mindset ko maintain karna hi real greatness hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0032"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-033",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 33,
+"text": "तुम्हरे भजन राम को पावै। जनम जनम के दुख बिसरावै॥",
+"english_description": "This chaupai teaches that through devotion to Hanuman, one moves closer to the ideals represented by Shri Ram and gradually transcends accumulated suffering. It symbolizes transformational alignment, value-centered living, and liberation from recurring patterns of distress.",
+"hindi_description": "यह चौपाई बताती है कि हनुमान जी की भक्ति के माध्यम से व्यक्ति श्रीराम के आदर्शों के निकट पहुँचता है और जन्म-जन्मांतर के दुखों से मुक्ति प्राप्त करता है। यह आंतरिक परिवर्तन और मूल्य-आधारित जीवन का प्रतीक है।",
+"hinglish_description": "Yeh chaupai dikhati hai ki jab vyakti higher values ke saath consistently align hota hai, toh purane suffering patterns dheere-dheere dissolve hone lagte hain aur life mein deeper meaning aata hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0033"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-034",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 34,
+"text": "अंत काल रघुबर पुर जाई। जहाँ जन्म हरि भक्त कहाई॥",
+"english_description": "This chaupai teaches that a life aligned with devotion, values, and purposeful conduct ultimately leads to a higher destination and continued identity as a devotee of the Divine. It symbolizes legacy continuity, value persistence, and long-term identity formation.",
+"hindi_description": "यह चौपाई बताती है कि जो व्यक्ति जीवनभर भक्ति, सद्गुण और धर्ममय आचरण में स्थित रहता है, उसे श्रेष्ठ गंतव्य प्राप्त होता है और वह सदैव हरिभक्त के रूप में जाना जाता है।",
+"hinglish_description": "Yeh chaupai batati hai ki long-term identity humare daily choices aur values se build hoti hai. Jo values hum jeete hain, wahi hamari lasting legacy ban jaati hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0034"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-035",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 35,
+"text": "और देवता चित्त न धरई। हनुमत सेइ सर्व सुख करई॥",
+"english_description": "This chaupai teaches that focused devotion and attention toward Hanuman is sufficient for attaining wellbeing and fulfillment. It symbolizes the power of concentration, priority alignment, cognitive simplicity, and avoidance of unnecessary fragmentation.",
+"hindi_description": "यह चौपाई बताती है कि यदि व्यक्ति एकाग्र भाव से हनुमान जी की शरण में रहता है तो उसे सर्व प्रकार के सुख और कल्याण प्राप्त होते हैं। यह एकाग्रता और प्राथमिकता की स्पष्टता का प्रतीक है।",
+"hinglish_description": "Yeh chaupai batati hai ki scattered attention energy ko weak karti hai, jabki focused commitment aur clarity meaningful outcomes create karti hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0035"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-036",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 36,
+"text": "संकट कटै मिटै सब पीरा। जो सुमिरै हनुमत बलबीरा॥",
+"english_description": "This chaupai teaches that difficulties and suffering diminish when one remembers and internalizes the qualities represented by Hanuman—strength, courage, resilience, and unwavering determination. It symbolizes adaptive resilience and strength-based recovery.",
+"hindi_description": "यह चौपाई बताती है कि जो व्यक्ति बलवान, साहसी और धैर्यवान हनुमान जी का स्मरण करता है, उसके संकट और पीड़ाएँ कम होने लगती हैं। यह आंतरिक शक्ति और संकट-निवारण का प्रतीक है।",
+"hinglish_description": "Yeh chaupai batati hai ki jab insaan apni attention fear se hata kar strength, courage aur resilience par lagata hai, tab problems ko handle karne ki capacity badh jaati hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0036"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-037",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 37,
+"text": "जय जय जय हनुमान गोसाईं। कृपा करहु गुरुदेव की नाईं॥",
+"english_description": "This chaupai offers praise to Hanuman and seeks his grace in the manner of a revered teacher. It symbolizes the importance of guidance, mentorship, humility in learning, and the transformative role of compassionate instruction.",
+"hindi_description": "यह चौपाई हनुमान जी की स्तुति करते हुए उनसे गुरु के समान कृपा और मार्गदर्शन की प्रार्थना करती है। यह ज्ञान, मार्गदर्शन और गुरु-तत्त्व के महत्व को दर्शाती है।",
+"hinglish_description": "Yeh chaupai batati hai ki growth sirf effort se nahi hoti. Sahi guidance, mentorship aur learning mindset bhi transformation ke liye equally important hote hain.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0037"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-038",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 38,
+"text": "जो सत बार पाठ कर कोई। छूटहि बंदि महा सुख होई॥",
+"english_description": "This chaupai teaches that consistent repetition and disciplined practice lead to liberation from limitations and create deeper wellbeing. It symbolizes the power of repetition, habit formation, persistence, and cumulative transformation through disciplined effort.",
+"hindi_description": "यह चौपाई बताती है कि जो व्यक्ति नियमित और बार-बार पाठ करता है, वह बंधनों से मुक्त होकर सुख प्राप्त करता है। यह अनुशासन, निरंतरता और अभ्यास की शक्ति का प्रतीक है।",
+"hinglish_description": "Yeh chaupai batati hai ki transformation ek baar ke effort se nahi, balki repeated disciplined practice se aata hai. Consistency hi long-term change ka secret hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0038"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-039",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 39,
+"text": "जो यह पढ़ै हनुमान चालीसा। होय सिद्धि साखी गौरीसा॥",
+"english_description": "This chaupai teaches that sincere study, reflection, and internalization of the teachings contained within Hanuman Chalisa lead to meaningful accomplishment and realization. Lord Shiva is invoked as witness to this principle. It symbolizes the transformative power of applied wisdom and disciplined learning.",
+"hindi_description": "यह चौपाई बताती है कि जो व्यक्ति श्रद्धा और समझ के साथ हनुमान चालीसा का अध्ययन करता है, उसे सिद्धि और सफलता प्राप्त होती है। गौरीशंकर स्वयं इसके साक्षी माने गए हैं।",
+"hinglish_description": "Yeh chaupai batati hai ki sirf knowledge collect karna kaafi nahi hota. Jab wisdom ko samjha, apply kiya aur jeevan mein utara jaata hai, tab real transformation aur achievement hoti hai.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0039"
+]
+},
+{
+"evidence_id": "HC-EVIDENCE-CH-040",
+"source_work": "Hanuman Chalisa",
+"chaupai_number": 40,
+"text": "तुलसीदास सदा हरि चेरा। कीजै नाथ हृदय महँ डेरा॥",
+"english_description": "In the concluding chaupai, Tulsidas identifies himself as an eternal servant of the Divine and humbly requests Hanuman to reside within his heart. This chaupai symbolizes identity rooted in service, inner anchoring, humility, and the desire for enduring alignment with higher values.",
+"hindi_description": "इस अंतिम चौपाई में तुलसीदास स्वयं को सदा हरि का सेवक बताते हैं और हनुमान जी से हृदय में निवास करने की प्रार्थना करते हैं। यह विनम्रता, सेवा-भाव, आंतरिक स्थिरता और दिव्य मूल्यों से स्थायी जुड़ाव का प्रतीक है।",
+"hinglish_description": "Yeh chaupai batati hai ki ultimate growth sirf achievement nahi, balki ek aisi identity banana hai jo service, humility aur higher values ke saath permanently aligned rahe.",
+"supports_aku": [
+"HCAM-SPIRIT-HC-0040"
+]
+}
+]
+}
