@@ -1,0 +1,1289 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"registry_type": "Concept Registry",
+"source_work": "Hanuman Chalisa",
+"total_concepts": 160,
+"concepts": [
+{
+"concept_id": "HC-CONCEPT-0001",
+"concept_name": "Wisdom",
+"concept_type": "Core Concept",
+"definition": "Applied spiritual intelligence that supports right understanding, clarity, and ethical action.",
+"source_aku": "HCAM-SPIRIT-HC-0001",
+"source_evidence": "HC-EVIDENCE-CH-001"
+},
+{
+"concept_id": "HC-CONCEPT-0002",
+"concept_name": "Virtue",
+"concept_type": "Supporting Concept",
+"definition": "Noble qualities such as humility, discipline, devotion, truthfulness, courage, and selfless conduct.",
+"source_aku": "HCAM-SPIRIT-HC-0001",
+"source_evidence": "HC-EVIDENCE-CH-001"
+},
+{
+"concept_id": "HC-CONCEPT-0003",
+"concept_name": "Divine Recognition",
+"concept_type": "Hidden Concept",
+"definition": "Recognition of spiritual excellence across wider realms of awareness, respect, and sacred memory.",
+"source_aku": "HCAM-SPIRIT-HC-0001",
+"source_evidence": "HC-EVIDENCE-CH-001"
+},
+{
+"concept_id": "HC-CONCEPT-0004",
+"concept_name": "Devotional Leadership",
+"concept_type": "Practical Concept",
+"definition": "Leadership rooted in wisdom, service, humility, and alignment with a higher purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0001",
+"source_evidence": "HC-EVIDENCE-CH-001"
+},
+{
+"concept_id": "HC-CONCEPT-0005",
+"concept_name": "Strength",
+"concept_type": "Core Concept",
+"definition": "The capacity to act with courage, endurance, resilience, and power in alignment with dharma.",
+"source_aku": "HCAM-SPIRIT-HC-0002",
+"source_evidence": "HC-EVIDENCE-CH-002"
+},
+{
+"concept_id": "HC-CONCEPT-0006",
+"concept_name": "Service",
+"concept_type": "Supporting Concept",
+"definition": "Selfless action performed in support of a higher mission, purpose, or responsibility.",
+"source_aku": "HCAM-SPIRIT-HC-0002",
+"source_evidence": "HC-EVIDENCE-CH-002"
+},
+{
+"concept_id": "HC-CONCEPT-0007",
+"concept_name": "Mission Alignment",
+"concept_type": "Hidden Concept",
+"definition": "The state of aligning one's abilities and actions with a meaningful and righteous objective.",
+"source_aku": "HCAM-SPIRIT-HC-0002",
+"source_evidence": "HC-EVIDENCE-CH-002"
+},
+{
+"concept_id": "HC-CONCEPT-0008",
+"concept_name": "Duty-Centered Leadership",
+"concept_type": "Practical Concept",
+"definition": "Leading through responsibility, loyalty, and service rather than personal gain.",
+"source_aku": "HCAM-SPIRIT-HC-0002",
+"source_evidence": "HC-EVIDENCE-CH-002"
+},
+{
+"concept_id": "HC-CONCEPT-0009",
+"concept_name": "Courage",
+"concept_type": "Core Concept",
+"definition": "The inner capacity to face difficulty, fear, uncertainty, or opposition with steadiness and purposeful action.",
+"source_aku": "HCAM-SPIRIT-HC-0003",
+"source_evidence": "HC-EVIDENCE-CH-003"
+},
+{
+"concept_id": "HC-CONCEPT-0010",
+"concept_name": "Right Intellect",
+"concept_type": "Supporting Concept",
+"definition": "A refined faculty of understanding that supports noble choices, clarity, and wise action.",
+"source_aku": "HCAM-SPIRIT-HC-0003",
+"source_evidence": "HC-EVIDENCE-CH-003"
+},
+{
+"concept_id": "HC-CONCEPT-0011",
+"concept_name": "Removal of Wrong Thinking",
+"concept_type": "Hidden Concept",
+"definition": "The process of clearing destructive, confused, ego-driven, or harmful mental tendencies.",
+"source_aku": "HCAM-SPIRIT-HC-0003",
+"source_evidence": "HC-EVIDENCE-CH-003"
+},
+{
+"concept_id": "HC-CONCEPT-0012",
+"concept_name": "Mental Strength",
+"concept_type": "Practical Concept",
+"definition": "The practical ability to stay firm, clear, and constructive when the mind is challenged by negativity, fear, or confusion.",
+"source_aku": "HCAM-SPIRIT-HC-0003",
+"source_evidence": "HC-EVIDENCE-CH-003"
+},
+{
+"concept_id": "HC-CONCEPT-0013",
+"concept_name": "Inner Excellence",
+"concept_type": "Core Concept",
+"definition": "The cultivation of noble qualities, character, discipline, and virtue that elevate a person's being.",
+"source_aku": "HCAM-SPIRIT-HC-0004",
+"source_evidence": "HC-EVIDENCE-CH-004"
+},
+{
+"concept_id": "HC-CONCEPT-0014",
+"concept_name": "Radiant Presence",
+"concept_type": "Supporting Concept",
+"definition": "The natural influence created when inner qualities are reflected through behavior, expression, and demeanor.",
+"source_aku": "HCAM-SPIRIT-HC-0004",
+"source_evidence": "HC-EVIDENCE-CH-004"
+},
+{
+"concept_id": "HC-CONCEPT-0015",
+"concept_name": "Alignment of Inner and Outer Self",
+"concept_type": "Hidden Concept",
+"definition": "Consistency between internal values and external expression.",
+"source_aku": "HCAM-SPIRIT-HC-0004",
+"source_evidence": "HC-EVIDENCE-CH-004"
+},
+{
+"concept_id": "HC-CONCEPT-0016",
+"concept_name": "Personal Presentation",
+"concept_type": "Practical Concept",
+"definition": "The disciplined expression of respect, dignity, and self-awareness through appearance and conduct.",
+"source_aku": "HCAM-SPIRIT-HC-0004",
+"source_evidence": "HC-EVIDENCE-CH-004"
+},
+{
+"concept_id": "HC-CONCEPT-0017",
+"concept_name": "Disciplined Strength",
+"concept_type": "Core Concept",
+"definition": "The ability to use power with restraint, responsibility, and conscious control.",
+"source_aku": "HCAM-SPIRIT-HC-0005",
+"source_evidence": "HC-EVIDENCE-CH-005"
+},
+{
+"concept_id": "HC-CONCEPT-0018",
+"concept_name": "Duty",
+"concept_type": "Supporting Concept",
+"definition": "Commitment toward righteous responsibility and meaningful obligations.",
+"source_aku": "HCAM-SPIRIT-HC-0005",
+"source_evidence": "HC-EVIDENCE-CH-005"
+},
+{
+"concept_id": "HC-CONCEPT-0019",
+"concept_name": "Sacred Commitment",
+"concept_type": "Hidden Concept",
+"definition": "Alignment with values, principles, and responsibilities that transcend personal convenience.",
+"source_aku": "HCAM-SPIRIT-HC-0005",
+"source_evidence": "HC-EVIDENCE-CH-005"
+},
+{
+"concept_id": "HC-CONCEPT-0020",
+"concept_name": "Symbolic Leadership",
+"concept_type": "Practical Concept",
+"definition": "Leading through visible commitment to values, discipline, and accountability.",
+"source_aku": "HCAM-SPIRIT-HC-0005",
+"source_evidence": "HC-EVIDENCE-CH-005"
+},
+{
+"concept_id": "HC-CONCEPT-0021",
+"concept_name": "Radiance",
+"concept_type": "Core Concept",
+"definition": "The visible expression of inner excellence, purity, strength, and noble qualities.",
+"source_aku": "HCAM-SPIRIT-HC-0006",
+"source_evidence": "HC-EVIDENCE-CH-006"
+},
+{
+"concept_id": "HC-CONCEPT-0022",
+"concept_name": "Noble Reputation",
+"concept_type": "Supporting Concept",
+"definition": "Respect earned through character, service, integrity, and meaningful actions.",
+"source_aku": "HCAM-SPIRIT-HC-0006",
+"source_evidence": "HC-EVIDENCE-CH-006"
+},
+{
+"concept_id": "HC-CONCEPT-0023",
+"concept_name": "Inherited Virtue",
+"concept_type": "Hidden Concept",
+"definition": "The responsibility to honor and elevate the values, traditions, and strengths received from one's lineage, mentors, or influences.",
+"source_aku": "HCAM-SPIRIT-HC-0006",
+"source_evidence": "HC-EVIDENCE-CH-006"
+},
+{
+"concept_id": "HC-CONCEPT-0024",
+"concept_name": "Influence Through Character",
+"concept_type": "Practical Concept",
+"definition": "Building lasting impact through integrity, competence, and noble conduct rather than status or authority alone.",
+"source_aku": "HCAM-SPIRIT-HC-0006",
+"source_evidence": "HC-EVIDENCE-CH-006"
+},
+{
+"concept_id": "HC-CONCEPT-0025",
+"concept_name": "Knowledge",
+"concept_type": "Core Concept",
+"definition": "The acquisition and understanding of information, principles, and wisdom that enable effective action.",
+"source_aku": "HCAM-SPIRIT-HC-0007",
+"source_evidence": "HC-EVIDENCE-CH-007"
+},
+{
+"concept_id": "HC-CONCEPT-0026",
+"concept_name": "Virtuous Competence",
+"concept_type": "Supporting Concept",
+"definition": "The integration of skill, intelligence, and noble character into practical capability.",
+"source_aku": "HCAM-SPIRIT-HC-0007",
+"source_evidence": "HC-EVIDENCE-CH-007"
+},
+{
+"concept_id": "HC-CONCEPT-0027",
+"concept_name": "Mission Readiness",
+"concept_type": "Hidden Concept",
+"definition": "A state of preparedness where abilities are continuously aligned toward meaningful contribution.",
+"source_aku": "HCAM-SPIRIT-HC-0007",
+"source_evidence": "HC-EVIDENCE-CH-007"
+},
+{
+"concept_id": "HC-CONCEPT-0028",
+"concept_name": "Purposeful Execution",
+"concept_type": "Practical Concept",
+"definition": "The habit of converting knowledge and intention into timely, disciplined action.",
+"source_aku": "HCAM-SPIRIT-HC-0007",
+"source_evidence": "HC-EVIDENCE-CH-007"
+},
+{
+"concept_id": "HC-CONCEPT-0029",
+"concept_name": "Noble Attention",
+"concept_type": "Core Concept",
+"definition": "The intentional focus of awareness toward uplifting, meaningful, and value-driven subjects.",
+"source_aku": "HCAM-SPIRIT-HC-0008",
+"source_evidence": "HC-EVIDENCE-CH-008"
+},
+{
+"concept_id": "HC-CONCEPT-0030",
+"concept_name": "Character Learning",
+"concept_type": "Supporting Concept",
+"definition": "Learning through reflection on exemplary lives, virtues, and actions.",
+"source_aku": "HCAM-SPIRIT-HC-0008",
+"source_evidence": "HC-EVIDENCE-CH-008"
+},
+{
+"concept_id": "HC-CONCEPT-0031",
+"concept_name": "Internalized Values",
+"concept_type": "Hidden Concept",
+"definition": "The process through which ideals become embedded in thought, emotion, and behavior.",
+"source_aku": "HCAM-SPIRIT-HC-0008",
+"source_evidence": "HC-EVIDENCE-CH-008"
+},
+{
+"concept_id": "HC-CONCEPT-0032",
+"concept_name": "Identity Anchoring",
+"concept_type": "Practical Concept",
+"definition": "Maintaining a stable inner identity through continuous connection with guiding principles and role models.",
+"source_aku": "HCAM-SPIRIT-HC-0008",
+"source_evidence": "HC-EVIDENCE-CH-008"
+},
+{
+"concept_id": "HC-CONCEPT-0033",
+"concept_name": "Adaptability",
+"concept_type": "Core Concept",
+"definition": "The ability to modify one's approach according to changing situations without losing direction or purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0009",
+"source_evidence": "HC-EVIDENCE-CH-009"
+},
+{
+"concept_id": "HC-CONCEPT-0034",
+"concept_name": "Situational Intelligence",
+"concept_type": "Supporting Concept",
+"definition": "The capacity to understand context and respond appropriately to achieve the desired outcome.",
+"source_aku": "HCAM-SPIRIT-HC-0009",
+"source_evidence": "HC-EVIDENCE-CH-009"
+},
+{
+"concept_id": "HC-CONCEPT-0035",
+"concept_name": "Purpose Alignment",
+"concept_type": "Hidden Concept",
+"definition": "Maintaining fidelity to the mission while adjusting methods and tactics.",
+"source_aku": "HCAM-SPIRIT-HC-0009",
+"source_evidence": "HC-EVIDENCE-CH-009"
+},
+{
+"concept_id": "HC-CONCEPT-0036",
+"concept_name": "Strategic Flexibility",
+"concept_type": "Practical Concept",
+"definition": "The practical ability to choose the most effective response for a situation without compromising values or objectives.",
+"source_aku": "HCAM-SPIRIT-HC-0009",
+"source_evidence": "HC-EVIDENCE-CH-009"
+},
+{
+"concept_id": "HC-CONCEPT-0037",
+"concept_name": "Decisive Action",
+"concept_type": "Core Concept",
+"definition": "The ability to act firmly and effectively when circumstances demand action.",
+"source_aku": "HCAM-SPIRIT-HC-0010",
+"source_evidence": "HC-EVIDENCE-CH-010"
+},
+{
+"concept_id": "HC-CONCEPT-0038",
+"concept_name": "Obstacle Removal",
+"concept_type": "Supporting Concept",
+"definition": "The process of identifying and eliminating barriers that prevent progress.",
+"source_aku": "HCAM-SPIRIT-HC-0010",
+"source_evidence": "HC-EVIDENCE-CH-010"
+},
+{
+"concept_id": "HC-CONCEPT-0039",
+"concept_name": "Protective Courage",
+"concept_type": "Hidden Concept",
+"definition": "The willingness to confront threats and challenges for the protection of a higher purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0010",
+"source_evidence": "HC-EVIDENCE-CH-010"
+},
+{
+"concept_id": "HC-CONCEPT-0040",
+"concept_name": "Mission Execution",
+"concept_type": "Practical Concept",
+"definition": "The disciplined completion of objectives through focused effort and decisive action.",
+"source_aku": "HCAM-SPIRIT-HC-0010",
+"source_evidence": "HC-EVIDENCE-CH-010"
+},
+{
+"concept_id": "HC-CONCEPT-0041",
+"concept_name": "Life Restoring Service",
+"concept_type": "Core Concept",
+"definition": "Service directed toward healing, recovery, preservation, or restoration of life and wellbeing.",
+"source_aku": "HCAM-SPIRIT-HC-0011",
+"source_evidence": "HC-EVIDENCE-CH-011"
+},
+{
+"concept_id": "HC-CONCEPT-0042",
+"concept_name": "Urgent Mission Execution",
+"concept_type": "Supporting Concept",
+"definition": "The ability to respond effectively under time-sensitive and high-pressure conditions.",
+"source_aku": "HCAM-SPIRIT-HC-0011",
+"source_evidence": "HC-EVIDENCE-CH-011"
+},
+{
+"concept_id": "HC-CONCEPT-0043",
+"concept_name": "Selfless Responsibility",
+"concept_type": "Hidden Concept",
+"definition": "Assuming responsibility for a larger cause without concern for personal recognition or reward.",
+"source_aku": "HCAM-SPIRIT-HC-0011",
+"source_evidence": "HC-EVIDENCE-CH-011"
+},
+{
+"concept_id": "HC-CONCEPT-0044",
+"concept_name": "Crisis Response Leadership",
+"concept_type": "Practical Concept",
+"definition": "Leading through action, initiative, and problem-solving during critical situations.",
+"source_aku": "HCAM-SPIRIT-HC-0011",
+"source_evidence": "HC-EVIDENCE-CH-011"
+},
+{
+"concept_id": "HC-CONCEPT-0045",
+"concept_name": "Earned Trust",
+"concept_type": "Core Concept",
+"definition": "Trust developed through repeated demonstration of integrity, reliability, and commitment.",
+"source_aku": "HCAM-SPIRIT-HC-0012",
+"source_evidence": "HC-EVIDENCE-CH-012"
+},
+{
+"concept_id": "HC-CONCEPT-0046",
+"concept_name": "Recognition Through Contribution",
+"concept_type": "Supporting Concept",
+"definition": "Respect and appreciation that arise from meaningful service and tangible contribution.",
+"source_aku": "HCAM-SPIRIT-HC-0012",
+"source_evidence": "HC-EVIDENCE-CH-012"
+},
+{
+"concept_id": "HC-CONCEPT-0047",
+"concept_name": "Relational Loyalty",
+"concept_type": "Hidden Concept",
+"definition": "The strength of a relationship built through unwavering support, trustworthiness, and shared purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0012",
+"source_evidence": "HC-EVIDENCE-CH-012"
+},
+{
+"concept_id": "HC-CONCEPT-0048",
+"concept_name": "Contribution-Based Influence",
+"concept_type": "Practical Concept",
+"definition": "Building influence through service, reliability, and value creation rather than authority or status.",
+"source_aku": "HCAM-SPIRIT-HC-0012",
+"source_evidence": "HC-EVIDENCE-CH-012"
+},
+{
+"concept_id": "HC-CONCEPT-0049",
+"concept_name": "Enduring Contribution",
+"concept_type": "Core Concept",
+"definition": "Contribution whose value remains meaningful across time, contexts, and generations.",
+"source_aku": "HCAM-SPIRIT-HC-0013",
+"source_evidence": "HC-EVIDENCE-CH-013"
+},
+{
+"concept_id": "HC-CONCEPT-0050",
+"concept_name": "Recognition Limitation",
+"concept_type": "Supporting Concept",
+"definition": "The understanding that some contributions exceed the ability of praise or measurement to fully capture their significance.",
+"source_aku": "HCAM-SPIRIT-HC-0013",
+"source_evidence": "HC-EVIDENCE-CH-013"
+},
+{
+"concept_id": "HC-CONCEPT-0051",
+"concept_name": "Intrinsic Worth",
+"concept_type": "Hidden Concept",
+"definition": "Value that exists independently of external recognition, popularity, or reward.",
+"source_aku": "HCAM-SPIRIT-HC-0013",
+"source_evidence": "HC-EVIDENCE-CH-013"
+},
+{
+"concept_id": "HC-CONCEPT-0052",
+"concept_name": "Legacy Through Service",
+"concept_type": "Practical Concept",
+"definition": "Creating a lasting impact through meaningful actions rather than seeking immediate recognition.",
+"source_aku": "HCAM-SPIRIT-HC-0013",
+"source_evidence": "HC-EVIDENCE-CH-013"
+},
+{
+"concept_id": "HC-CONCEPT-0053",
+"concept_name": "Authentic Excellence",
+"concept_type": "Core Concept",
+"definition": "Excellence rooted in genuine capability, virtue, wisdom, and contribution rather than appearance or status.",
+"source_aku": "HCAM-SPIRIT-HC-0014",
+"source_evidence": "HC-EVIDENCE-CH-014"
+},
+{
+"concept_id": "HC-CONCEPT-0054",
+"concept_name": "Cross-Domain Respect",
+"concept_type": "Supporting Concept",
+"definition": "Recognition that emerges from multiple groups, disciplines, or communities because of demonstrated value.",
+"source_aku": "HCAM-SPIRIT-HC-0014",
+"source_evidence": "HC-EVIDENCE-CH-014"
+},
+{
+"concept_id": "HC-CONCEPT-0055",
+"concept_name": "Wisdom Validation",
+"concept_type": "Hidden Concept",
+"definition": "The confirmation of true excellence by those who possess deep knowledge, experience, and discernment.",
+"source_aku": "HCAM-SPIRIT-HC-0014",
+"source_evidence": "HC-EVIDENCE-CH-014"
+},
+{
+"concept_id": "HC-CONCEPT-0056",
+"concept_name": "Credibility Across Communities",
+"concept_type": "Practical Concept",
+"definition": "The ability to earn trust and respect from different audiences through consistent excellence and integrity.",
+"source_aku": "HCAM-SPIRIT-HC-0014",
+"source_evidence": "HC-EVIDENCE-CH-014"
+},
+{
+"concept_id": "HC-CONCEPT-0057",
+"concept_name": "Intellectual Humility",
+"concept_type": "Core Concept",
+"definition": "The awareness that knowledge and understanding have limits and that reality may exceed current comprehension.",
+"source_aku": "HCAM-SPIRIT-HC-0015",
+"source_evidence": "HC-EVIDENCE-CH-015"
+},
+{
+"concept_id": "HC-CONCEPT-0058",
+"concept_name": "Limitations Of Description",
+"concept_type": "Supporting Concept",
+"definition": "Recognition that language and analysis cannot always fully capture profound value or excellence.",
+"source_aku": "HCAM-SPIRIT-HC-0015",
+"source_evidence": "HC-EVIDENCE-CH-015"
+},
+{
+"concept_id": "HC-CONCEPT-0059",
+"concept_name": "Respect For Greatness",
+"concept_type": "Hidden Concept",
+"definition": "The ability to appreciate excellence without assuming complete understanding of it.",
+"source_aku": "HCAM-SPIRIT-HC-0015",
+"source_evidence": "HC-EVIDENCE-CH-015"
+},
+{
+"concept_id": "HC-CONCEPT-0060",
+"concept_name": "Learning Beyond Ego",
+"concept_type": "Practical Concept",
+"definition": "Approaching knowledge, expertise, and achievement with curiosity rather than arrogance.",
+"source_aku": "HCAM-SPIRIT-HC-0015",
+"source_evidence": "HC-EVIDENCE-CH-015"
+},
+{
+"concept_id": "HC-CONCEPT-0061",
+"concept_name": "Meaningful Connection",
+"concept_type": "Core Concept",
+"definition": "A relationship or introduction that creates mutual value, growth, opportunity, or transformation.",
+"source_aku": "HCAM-SPIRIT-HC-0016",
+"source_evidence": "HC-EVIDENCE-CH-016"
+},
+{
+"concept_id": "HC-CONCEPT-0062",
+"concept_name": "Opportunity Facilitation",
+"concept_type": "Supporting Concept",
+"definition": "Helping others access opportunities, resources, or relationships that improve their circumstances.",
+"source_aku": "HCAM-SPIRIT-HC-0016",
+"source_evidence": "HC-EVIDENCE-CH-016"
+},
+{
+"concept_id": "HC-CONCEPT-0063",
+"concept_name": "Catalytic Service",
+"concept_type": "Hidden Concept",
+"definition": "Service that creates a chain reaction of positive outcomes far beyond the initial action.",
+"source_aku": "HCAM-SPIRIT-HC-0016",
+"source_evidence": "HC-EVIDENCE-CH-016"
+},
+{
+"concept_id": "HC-CONCEPT-0064",
+"concept_name": "Bridge Building",
+"concept_type": "Practical Concept",
+"definition": "Connecting individuals, groups, or resources to create beneficial outcomes and collaboration.",
+"source_aku": "HCAM-SPIRIT-HC-0016",
+"source_evidence": "HC-EVIDENCE-CH-016"
+},
+{
+"concept_id": "HC-CONCEPT-0065",
+"concept_name": "Wise Counsel",
+"concept_type": "Core Concept",
+"definition": "Guidance rooted in wisdom, experience, ethics, and long-term wellbeing.",
+"source_aku": "HCAM-SPIRIT-HC-0017",
+"source_evidence": "HC-EVIDENCE-CH-017"
+},
+{
+"concept_id": "HC-CONCEPT-0066",
+"concept_name": "Advice Acceptance",
+"concept_type": "Supporting Concept",
+"definition": "The ability to recognize, trust, and apply valuable guidance from credible sources.",
+"source_aku": "HCAM-SPIRIT-HC-0017",
+"source_evidence": "HC-EVIDENCE-CH-017"
+},
+{
+"concept_id": "HC-CONCEPT-0067",
+"concept_name": "Guided Transformation",
+"concept_type": "Hidden Concept",
+"definition": "Positive change that occurs when wisdom is translated into action and decision making.",
+"source_aku": "HCAM-SPIRIT-HC-0017",
+"source_evidence": "HC-EVIDENCE-CH-017"
+},
+{
+"concept_id": "HC-CONCEPT-0068",
+"concept_name": "Mentor Leverage",
+"concept_type": "Practical Concept",
+"definition": "Using the insight and experience of trusted advisors to avoid mistakes and accelerate growth.",
+"source_aku": "HCAM-SPIRIT-HC-0017",
+"source_evidence": "HC-EVIDENCE-CH-017"
+},
+{
+"concept_id": "HC-CONCEPT-0069",
+"concept_name": "Fearless Aspiration",
+"concept_type": "Core Concept",
+"definition": "The willingness to pursue extraordinary goals without being constrained by perceived limitations.",
+"source_aku": "HCAM-SPIRIT-HC-0018",
+"source_evidence": "HC-EVIDENCE-CH-018"
+},
+{
+"concept_id": "HC-CONCEPT-0070",
+"concept_name": "Boundless Curiosity",
+"concept_type": "Supporting Concept",
+"definition": "A natural drive to explore, learn, and discover possibilities beyond current understanding.",
+"source_aku": "HCAM-SPIRIT-HC-0018",
+"source_evidence": "HC-EVIDENCE-CH-018"
+},
+{
+"concept_id": "HC-CONCEPT-0071",
+"concept_name": "Limitless Potential Mindset",
+"concept_type": "Hidden Concept",
+"definition": "The belief that potential often extends beyond assumed boundaries and conventional expectations.",
+"source_aku": "HCAM-SPIRIT-HC-0018",
+"source_evidence": "HC-EVIDENCE-CH-018"
+},
+{
+"concept_id": "HC-CONCEPT-0072",
+"concept_name": "Ambitious Exploration",
+"concept_type": "Practical Concept",
+"definition": "Actively investigating opportunities and goals that appear challenging or extraordinary.",
+"source_aku": "HCAM-SPIRIT-HC-0018",
+"source_evidence": "HC-EVIDENCE-CH-018"
+},
+{
+"concept_id": "HC-CONCEPT-0073",
+"concept_name": "Trusted Responsibility",
+"concept_type": "Core Concept",
+"definition": "The assignment of important responsibilities based on trust, reliability, and demonstrated capability.",
+"source_aku": "HCAM-SPIRIT-HC-0019",
+"source_evidence": "HC-EVIDENCE-CH-019"
+},
+{
+"concept_id": "HC-CONCEPT-0074",
+"concept_name": "Mission Authority",
+"concept_type": "Supporting Concept",
+"definition": "Legitimate authority granted to accomplish a meaningful objective on behalf of a larger purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0019",
+"source_evidence": "HC-EVIDENCE-CH-019"
+},
+{
+"concept_id": "HC-CONCEPT-0075",
+"concept_name": "Purpose Amplification",
+"concept_type": "Hidden Concept",
+"definition": "The increase in capability and determination that occurs when actions are aligned with a meaningful mission.",
+"source_aku": "HCAM-SPIRIT-HC-0019",
+"source_evidence": "HC-EVIDENCE-CH-019"
+},
+{
+"concept_id": "HC-CONCEPT-0076",
+"concept_name": "Obstacle Transcendence",
+"concept_type": "Practical Concept",
+"definition": "The ability to overcome major barriers through commitment, trust, and mission alignment.",
+"source_aku": "HCAM-SPIRIT-HC-0019",
+"source_evidence": "HC-EVIDENCE-CH-019"
+},
+{
+"concept_id": "HC-CONCEPT-0077",
+"concept_name": "Obstacle Transformation",
+"concept_type": "Core Concept",
+"definition": "The process through which a challenge changes from overwhelming to manageable through capability, support, and insight.",
+"source_aku": "HCAM-SPIRIT-HC-0020",
+"source_evidence": "HC-EVIDENCE-CH-020"
+},
+{
+"concept_id": "HC-CONCEPT-0078",
+"concept_name": "Empowered Support",
+"concept_type": "Supporting Concept",
+"definition": "Access to guidance, encouragement, knowledge, resources, or assistance that increases effectiveness.",
+"source_aku": "HCAM-SPIRIT-HC-0020",
+"source_evidence": "HC-EVIDENCE-CH-020"
+},
+{
+"concept_id": "HC-CONCEPT-0079",
+"concept_name": "Capability Amplification",
+"concept_type": "Hidden Concept",
+"definition": "The expansion of personal effectiveness through support systems, mentorship, wisdom, and disciplined effort.",
+"source_aku": "HCAM-SPIRIT-HC-0020",
+"source_evidence": "HC-EVIDENCE-CH-020"
+},
+{
+"concept_id": "HC-CONCEPT-0080",
+"concept_name": "Challenge Navigation",
+"concept_type": "Practical Concept",
+"definition": "The ability to successfully move through difficult situations using the right tools, mindset, and support.",
+"source_aku": "HCAM-SPIRIT-HC-0020",
+"source_evidence": "HC-EVIDENCE-CH-020"
+},
+{
+"concept_id": "HC-CONCEPT-0081",
+"concept_name": "Stewardship",
+"concept_type": "Core Concept",
+"definition": "The responsible protection, management, and preservation of something valuable on behalf of a larger purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0021",
+"source_evidence": "HC-EVIDENCE-CH-021"
+},
+{
+"concept_id": "HC-CONCEPT-0082",
+"concept_name": "Trusted Gatekeeping",
+"concept_type": "Supporting Concept",
+"definition": "The process of ensuring that access is granted responsibly based on readiness, qualification, and trust.",
+"source_aku": "HCAM-SPIRIT-HC-0021",
+"source_evidence": "HC-EVIDENCE-CH-021"
+},
+{
+"concept_id": "HC-CONCEPT-0083",
+"concept_name": "Readiness Qualification",
+"concept_type": "Hidden Concept",
+"definition": "The requirement that individuals develop the capability, integrity, and preparedness necessary before accessing greater opportunities.",
+"source_aku": "HCAM-SPIRIT-HC-0021",
+"source_evidence": "HC-EVIDENCE-CH-021"
+},
+{
+"concept_id": "HC-CONCEPT-0084",
+"concept_name": "Access Governance",
+"concept_type": "Practical Concept",
+"definition": "Managing entry, permissions, responsibilities, and opportunities through clear standards and accountability.",
+"source_aku": "HCAM-SPIRIT-HC-0021",
+"source_evidence": "HC-EVIDENCE-CH-021"
+},
+{
+"concept_id": "HC-CONCEPT-0085",
+"concept_name": "Trusted Protection",
+"concept_type": "Core Concept",
+"definition": "Reliable safeguarding that creates security, confidence, and psychological stability.",
+"source_aku": "HCAM-SPIRIT-HC-0022",
+"source_evidence": "HC-EVIDENCE-CH-022"
+},
+{
+"concept_id": "HC-CONCEPT-0086",
+"concept_name": "Fear Reduction",
+"concept_type": "Supporting Concept",
+"definition": "The process of decreasing anxiety and insecurity through trust, support, and preparedness.",
+"source_aku": "HCAM-SPIRIT-HC-0022",
+"source_evidence": "HC-EVIDENCE-CH-022"
+},
+{
+"concept_id": "HC-CONCEPT-0087",
+"concept_name": "Protective Confidence",
+"concept_type": "Hidden Concept",
+"definition": "The confidence that emerges when an individual feels supported, protected, and guided.",
+"source_aku": "HCAM-SPIRIT-HC-0022",
+"source_evidence": "HC-EVIDENCE-CH-022"
+},
+{
+"concept_id": "HC-CONCEPT-0088",
+"concept_name": "Wellbeing Stability",
+"concept_type": "Practical Concept",
+"definition": "Maintaining emotional, mental, and behavioral balance through trusted support systems and inner resilience.",
+"source_aku": "HCAM-SPIRIT-HC-0022",
+"source_evidence": "HC-EVIDENCE-CH-022"
+},
+{
+"concept_id": "HC-CONCEPT-0089",
+"concept_name": "Self Mastery",
+"concept_type": "Core Concept",
+"definition": "The ability to govern one's own thoughts, emotions, abilities, impulses, and actions with awareness and discipline.",
+"source_aku": "HCAM-SPIRIT-HC-0023",
+"source_evidence": "HC-EVIDENCE-CH-023"
+},
+{
+"concept_id": "HC-CONCEPT-0090",
+"concept_name": "Controlled Strength",
+"concept_type": "Supporting Concept",
+"definition": "The disciplined use of capability and influence only when necessary and appropriate.",
+"source_aku": "HCAM-SPIRIT-HC-0023",
+"source_evidence": "HC-EVIDENCE-CH-023"
+},
+{
+"concept_id": "HC-CONCEPT-0091",
+"concept_name": "Power Restraint",
+"concept_type": "Hidden Concept",
+"definition": "The conscious decision not to misuse power, authority, or capability despite having the ability to do so.",
+"source_aku": "HCAM-SPIRIT-HC-0023",
+"source_evidence": "HC-EVIDENCE-CH-023"
+},
+{
+"concept_id": "HC-CONCEPT-0092",
+"concept_name": "Responsible Influence",
+"concept_type": "Practical Concept",
+"definition": "Using influence, authority, or capability for constructive purposes while avoiding excess and misuse.",
+"source_aku": "HCAM-SPIRIT-HC-0023",
+"source_evidence": "HC-EVIDENCE-CH-023"
+},
+{
+"concept_id": "HC-CONCEPT-0093",
+"concept_name": "Psychological Protection",
+"concept_type": "Core Concept",
+"definition": "The ability to maintain mental stability and resilience against fear, negativity, and harmful influences.",
+"source_aku": "HCAM-SPIRIT-HC-0024",
+"source_evidence": "HC-EVIDENCE-CH-024"
+},
+{
+"concept_id": "HC-CONCEPT-0094",
+"concept_name": "Courageous Awareness",
+"concept_type": "Supporting Concept",
+"definition": "Remaining conscious, alert, and courageous in the presence of uncertainty or fear.",
+"source_aku": "HCAM-SPIRIT-HC-0024",
+"source_evidence": "HC-EVIDENCE-CH-024"
+},
+{
+"concept_id": "HC-CONCEPT-0095",
+"concept_name": "Fear Dissolution",
+"concept_type": "Hidden Concept",
+"definition": "The reduction of fear through confidence, preparedness, and inner strength.",
+"source_aku": "HCAM-SPIRIT-HC-0024",
+"source_evidence": "HC-EVIDENCE-CH-024"
+},
+{
+"concept_id": "HC-CONCEPT-0096",
+"concept_name": "Mental Boundary Defense",
+"concept_type": "Practical Concept",
+"definition": "Protecting one's thoughts, emotions, and attention from destructive influences and negative patterns.",
+"source_aku": "HCAM-SPIRIT-HC-0024",
+"source_evidence": "HC-EVIDENCE-CH-024"
+},
+{
+"concept_id": "HC-CONCEPT-0097",
+"concept_name": "Restorative Wellbeing",
+"concept_type": "Core Concept",
+"definition": "The process of restoring physical, emotional, mental, or spiritual balance through constructive practices and habits.",
+"source_aku": "HCAM-SPIRIT-HC-0025",
+"source_evidence": "HC-EVIDENCE-CH-025"
+},
+{
+"concept_id": "HC-CONCEPT-0098",
+"concept_name": "Consistent Practice",
+"concept_type": "Supporting Concept",
+"definition": "Repeated and disciplined engagement in beneficial actions over time.",
+"source_aku": "HCAM-SPIRIT-HC-0025",
+"source_evidence": "HC-EVIDENCE-CH-025"
+},
+{
+"concept_id": "HC-CONCEPT-0099",
+"concept_name": "Resilience Recovery Cycle",
+"concept_type": "Hidden Concept",
+"definition": "The strengthening of recovery capacity through repeated positive reinforcement and disciplined effort.",
+"source_aku": "HCAM-SPIRIT-HC-0025",
+"source_evidence": "HC-EVIDENCE-CH-025"
+},
+{
+"concept_id": "HC-CONCEPT-0100",
+"concept_name": "Habit-Based Healing",
+"concept_type": "Practical Concept",
+"definition": "Improving wellbeing through sustained positive routines rather than isolated actions.",
+"source_aku": "HCAM-SPIRIT-HC-0025",
+"source_evidence": "HC-EVIDENCE-CH-025"
+},
+{
+"concept_id": "HC-CONCEPT-0101",
+"concept_name": "Total Alignment",
+"concept_type": "Core Concept",
+"definition": "The state in which thoughts, words, actions, and intentions work together toward the same objective.",
+"source_aku": "HCAM-SPIRIT-HC-0026",
+"source_evidence": "HC-EVIDENCE-CH-026"
+},
+{
+"concept_id": "HC-CONCEPT-0102",
+"concept_name": "Integrated Action",
+"concept_type": "Supporting Concept",
+"definition": "Coordinating internal beliefs and external actions to maximize effectiveness.",
+"source_aku": "HCAM-SPIRIT-HC-0026",
+"source_evidence": "HC-EVIDENCE-CH-026"
+},
+{
+"concept_id": "HC-CONCEPT-0103",
+"concept_name": "Focused Commitment",
+"concept_type": "Hidden Concept",
+"definition": "Sustained dedication toward a purpose without fragmentation of effort.",
+"source_aku": "HCAM-SPIRIT-HC-0026",
+"source_evidence": "HC-EVIDENCE-CH-026"
+},
+{
+"concept_id": "HC-CONCEPT-0104",
+"concept_name": "Alignment Based Problem Solving",
+"concept_type": "Practical Concept",
+"definition": "Resolving challenges by reducing internal conflict and increasing consistency between intention and action.",
+"source_aku": "HCAM-SPIRIT-HC-0026",
+"source_evidence": "HC-EVIDENCE-CH-026"
+},
+{
+"concept_id": "HC-CONCEPT-0105",
+"concept_name": "Purpose Driven Execution",
+"concept_type": "Core Concept",
+"definition": "The disciplined conversion of vision, goals, or mission into completed outcomes through consistent action.",
+"source_aku": "HCAM-SPIRIT-HC-0027",
+"source_evidence": "HC-EVIDENCE-CH-027"
+},
+{
+"concept_id": "HC-CONCEPT-0106",
+"concept_name": "Mission Loyalty",
+"concept_type": "Supporting Concept",
+"definition": "Commitment to a meaningful purpose regardless of difficulty or distraction.",
+"source_aku": "HCAM-SPIRIT-HC-0027",
+"source_evidence": "HC-EVIDENCE-CH-027"
+},
+{
+"concept_id": "HC-CONCEPT-0107",
+"concept_name": "Execution Reliability",
+"concept_type": "Hidden Concept",
+"definition": "The ability to consistently deliver results and fulfill responsibilities effectively.",
+"source_aku": "HCAM-SPIRIT-HC-0027",
+"source_evidence": "HC-EVIDENCE-CH-027"
+},
+{
+"concept_id": "HC-CONCEPT-0108",
+"concept_name": "Outcome Realization",
+"concept_type": "Practical Concept",
+"definition": "Transforming plans, intentions, and objectives into tangible achievements.",
+"source_aku": "HCAM-SPIRIT-HC-0027",
+"source_evidence": "HC-EVIDENCE-CH-027"
+},
+{
+"concept_id": "HC-CONCEPT-0109",
+"concept_name": "Purpose Aligned Aspiration",
+"concept_type": "Core Concept",
+"definition": "A meaningful desire or goal that is connected to deeper values, purpose, and constructive growth.",
+"source_aku": "HCAM-SPIRIT-HC-0028",
+"source_evidence": "HC-EVIDENCE-CH-028"
+},
+{
+"concept_id": "HC-CONCEPT-0110",
+"concept_name": "Intentional Living",
+"concept_type": "Supporting Concept",
+"definition": "Making choices and pursuing goals consciously rather than acting without direction.",
+"source_aku": "HCAM-SPIRIT-HC-0028",
+"source_evidence": "HC-EVIDENCE-CH-028"
+},
+{
+"concept_id": "HC-CONCEPT-0111",
+"concept_name": "Meaningful Fulfillment",
+"concept_type": "Hidden Concept",
+"definition": "Achievement that produces lasting satisfaction because it aligns with purpose and values.",
+"source_aku": "HCAM-SPIRIT-HC-0028",
+"source_evidence": "HC-EVIDENCE-CH-028"
+},
+{
+"concept_id": "HC-CONCEPT-0112",
+"concept_name": "Goal Clarification",
+"concept_type": "Practical Concept",
+"definition": "The process of identifying and refining aspirations so they align with meaningful outcomes.",
+"source_aku": "HCAM-SPIRIT-HC-0028",
+"source_evidence": "HC-EVIDENCE-CH-028"
+},
+{
+"concept_id": "HC-CONCEPT-0113",
+"concept_name": "Timeless Influence",
+"concept_type": "Core Concept",
+"definition": "Impact that remains relevant and valuable across long periods of time and changing circumstances.",
+"source_aku": "HCAM-SPIRIT-HC-0029",
+"source_evidence": "HC-EVIDENCE-CH-029"
+},
+{
+"concept_id": "HC-CONCEPT-0114",
+"concept_name": "Enduring Contribution",
+"concept_type": "Supporting Concept",
+"definition": "Value created through actions, ideas, service, or achievements that continue benefiting others over time.",
+"source_aku": "HCAM-SPIRIT-HC-0029",
+"source_evidence": "HC-EVIDENCE-CH-029"
+},
+{
+"concept_id": "HC-CONCEPT-0115",
+"concept_name": "Legacy Through Service",
+"concept_type": "Hidden Concept",
+"definition": "A reputation built through sustained contribution rather than short-term recognition.",
+"source_aku": "HCAM-SPIRIT-HC-0029",
+"source_evidence": "HC-EVIDENCE-CH-029"
+},
+{
+"concept_id": "HC-CONCEPT-0116",
+"concept_name": "Long-Term Value Creation",
+"concept_type": "Practical Concept",
+"definition": "Creating work, systems, or contributions that remain useful beyond immediate circumstances.",
+"source_aku": "HCAM-SPIRIT-HC-0029",
+"source_evidence": "HC-EVIDENCE-CH-029"
+},
+{
+"concept_id": "HC-CONCEPT-0117",
+"concept_name": "Protective Stewardship",
+"concept_type": "Core Concept",
+"definition": "The responsibility of preserving and protecting what is beneficial, ethical, and valuable.",
+"source_aku": "HCAM-SPIRIT-HC-0030",
+"source_evidence": "HC-EVIDENCE-CH-030"
+},
+{
+"concept_id": "HC-CONCEPT-0118",
+"concept_name": "Defense Of Goodness",
+"concept_type": "Supporting Concept",
+"definition": "Actively supporting and safeguarding constructive individuals, values, and systems.",
+"source_aku": "HCAM-SPIRIT-HC-0030",
+"source_evidence": "HC-EVIDENCE-CH-030"
+},
+{
+"concept_id": "HC-CONCEPT-0119",
+"concept_name": "Resistance To Harm",
+"concept_type": "Hidden Concept",
+"definition": "The willingness to confront and reduce destructive influences rather than passively accepting them.",
+"source_aku": "HCAM-SPIRIT-HC-0030",
+"source_evidence": "HC-EVIDENCE-CH-030"
+},
+{
+"concept_id": "HC-CONCEPT-0120",
+"concept_name": "Ethical Protection",
+"concept_type": "Practical Concept",
+"definition": "Using strength, influence, or authority to preserve integrity, fairness, and wellbeing.",
+"source_aku": "HCAM-SPIRIT-HC-0030",
+"source_evidence": "HC-EVIDENCE-CH-030"
+},
+{
+"concept_id": "HC-CONCEPT-0121",
+"concept_name": "Capability Stewardship",
+"concept_type": "Core Concept",
+"definition": "The responsible management and application of talents, skills, strengths, and capabilities.",
+"source_aku": "HCAM-SPIRIT-HC-0031",
+"source_evidence": "HC-EVIDENCE-CH-031"
+},
+{
+"concept_id": "HC-CONCEPT-0122",
+"concept_name": "Abundance Responsibility",
+"concept_type": "Supporting Concept",
+"definition": "The ethical use of resources, opportunities, and advantages for constructive outcomes.",
+"source_aku": "HCAM-SPIRIT-HC-0031",
+"source_evidence": "HC-EVIDENCE-CH-031"
+},
+{
+"concept_id": "HC-CONCEPT-0123",
+"concept_name": "Empowerment Multiplication",
+"concept_type": "Hidden Concept",
+"definition": "Creating greater impact by helping others access capability, opportunity, and growth.",
+"source_aku": "HCAM-SPIRIT-HC-0031",
+"source_evidence": "HC-EVIDENCE-CH-031"
+},
+{
+"concept_id": "HC-CONCEPT-0124",
+"concept_name": "Resource Distribution Wisdom",
+"concept_type": "Practical Concept",
+"definition": "Allocating resources, knowledge, or opportunities where they create the greatest long-term value.",
+"source_aku": "HCAM-SPIRIT-HC-0031",
+"source_evidence": "HC-EVIDENCE-CH-031"
+},
+{
+"concept_id": "HC-CONCEPT-0125",
+"concept_name": "Humble Mastery",
+"concept_type": "Core Concept",
+"definition": "The ability to possess significant knowledge, capability, or achievement while remaining grounded and humble.",
+"source_aku": "HCAM-SPIRIT-HC-0032",
+"source_evidence": "HC-EVIDENCE-CH-032"
+},
+{
+"concept_id": "HC-CONCEPT-0126",
+"concept_name": "Service Centered Excellence",
+"concept_type": "Supporting Concept",
+"definition": "Using expertise and capability in service of a larger purpose rather than personal glorification.",
+"source_aku": "HCAM-SPIRIT-HC-0032",
+"source_evidence": "HC-EVIDENCE-CH-032"
+},
+{
+"concept_id": "HC-CONCEPT-0127",
+"concept_name": "Ego Transcendence",
+"concept_type": "Hidden Concept",
+"definition": "The ability to separate personal worth from status, recognition, or achievement.",
+"source_aku": "HCAM-SPIRIT-HC-0032",
+"source_evidence": "HC-EVIDENCE-CH-032"
+},
+{
+"concept_id": "HC-CONCEPT-0128",
+"concept_name": "Purpose Anchored Knowledge",
+"concept_type": "Practical Concept",
+"definition": "Applying knowledge and expertise in alignment with meaningful values and service.",
+"source_aku": "HCAM-SPIRIT-HC-0032",
+"source_evidence": "HC-EVIDENCE-CH-032"
+},
+{
+"concept_id": "HC-CONCEPT-0129",
+"concept_name": "Value Alignment",
+"concept_type": "Core Concept",
+"definition": "The process of aligning thoughts, decisions, and actions with higher principles and meaningful values.",
+"source_aku": "HCAM-SPIRIT-HC-0033",
+"source_evidence": "HC-EVIDENCE-CH-033"
+},
+{
+"concept_id": "HC-CONCEPT-0130",
+"concept_name": "Transformational Devotion",
+"concept_type": "Supporting Concept",
+"definition": "Sustained commitment to ideals that gradually reshape character and behavior.",
+"source_aku": "HCAM-SPIRIT-HC-0033",
+"source_evidence": "HC-EVIDENCE-CH-033"
+},
+{
+"concept_id": "HC-CONCEPT-0131",
+"concept_name": "Suffering Pattern Release",
+"concept_type": "Hidden Concept",
+"definition": "The gradual reduction of recurring mental, emotional, and behavioral patterns that create distress.",
+"source_aku": "HCAM-SPIRIT-HC-0033",
+"source_evidence": "HC-EVIDENCE-CH-033"
+},
+{
+"concept_id": "HC-CONCEPT-0132",
+"concept_name": "Purpose Anchored Living",
+"concept_type": "Practical Concept",
+"definition": "Living in a manner where actions consistently reflect meaningful values and aspirations.",
+"source_aku": "HCAM-SPIRIT-HC-0033",
+"source_evidence": "HC-EVIDENCE-CH-033"
+},
+{
+"concept_id": "HC-CONCEPT-0133",
+"concept_name": "Enduring Identity",
+"concept_type": "Core Concept",
+"definition": "A stable and lasting identity formed through consistent values, beliefs, and actions over time.",
+"source_aku": "HCAM-SPIRIT-HC-0034",
+"source_evidence": "HC-EVIDENCE-CH-034"
+},
+{
+"concept_id": "HC-CONCEPT-0134",
+"concept_name": "Legacy Continuity",
+"concept_type": "Supporting Concept",
+"definition": "The continuation of one's values, influence, and character beyond immediate circumstances.",
+"source_aku": "HCAM-SPIRIT-HC-0034",
+"source_evidence": "HC-EVIDENCE-CH-034"
+},
+{
+"concept_id": "HC-CONCEPT-0135",
+"concept_name": "Identity Reinforcement",
+"concept_type": "Hidden Concept",
+"definition": "The strengthening of personal identity through repeated value-aligned choices and behaviors.",
+"source_aku": "HCAM-SPIRIT-HC-0034",
+"source_evidence": "HC-EVIDENCE-CH-034"
+},
+{
+"concept_id": "HC-CONCEPT-0136",
+"concept_name": "Long-Term Character Formation",
+"concept_type": "Practical Concept",
+"definition": "The gradual shaping of character through consistent actions and adherence to meaningful principles.",
+"source_aku": "HCAM-SPIRIT-HC-0034",
+"source_evidence": "HC-EVIDENCE-CH-034"
+},
+{
+"concept_id": "HC-CONCEPT-0137",
+"concept_name": "Priority Alignment",
+"concept_type": "Core Concept",
+"definition": "Directing attention, energy, and resources toward what is most meaningful and important.",
+"source_aku": "HCAM-SPIRIT-HC-0035",
+"source_evidence": "HC-EVIDENCE-CH-035"
+},
+{
+"concept_id": "HC-CONCEPT-0138",
+"concept_name": "Focused Commitment",
+"concept_type": "Supporting Concept",
+"definition": "Maintaining sustained dedication toward a selected objective, value, or purpose.",
+"source_aku": "HCAM-SPIRIT-HC-0035",
+"source_evidence": "HC-EVIDENCE-CH-035"
+},
+{
+"concept_id": "HC-CONCEPT-0139",
+"concept_name": "Cognitive Simplicity",
+"concept_type": "Hidden Concept",
+"definition": "Reducing unnecessary complexity and mental fragmentation by concentrating on essential priorities.",
+"source_aku": "HCAM-SPIRIT-HC-0035",
+"source_evidence": "HC-EVIDENCE-CH-035"
+},
+{
+"concept_id": "HC-CONCEPT-0140",
+"concept_name": "Attention Stewardship",
+"concept_type": "Practical Concept",
+"definition": "Managing attention deliberately to maximize effectiveness and meaningful outcomes.",
+"source_aku": "HCAM-SPIRIT-HC-0035",
+"source_evidence": "HC-EVIDENCE-CH-035"
+},
+{
+"concept_id": "HC-CONCEPT-0141",
+"concept_name": "Strength Anchoring",
+"concept_type": "Core Concept",
+"definition": "The practice of consciously focusing on personal strengths, capabilities, and resilience during adversity.",
+"source_aku": "HCAM-SPIRIT-HC-0036",
+"source_evidence": "HC-EVIDENCE-CH-036"
+},
+{
+"concept_id": "HC-CONCEPT-0142",
+"concept_name": "Adaptive Resilience",
+"concept_type": "Supporting Concept",
+"definition": "The ability to recover, adapt, and continue progressing despite challenges or setbacks.",
+"source_aku": "HCAM-SPIRIT-HC-0036",
+"source_evidence": "HC-EVIDENCE-CH-036"
+},
+{
+"concept_id": "HC-CONCEPT-0143",
+"concept_name": "Courage Based Recovery",
+"concept_type": "Hidden Concept",
+"definition": "The process of reducing suffering by responding to difficulties with courage rather than avoidance.",
+"source_aku": "HCAM-SPIRIT-HC-0036",
+"source_evidence": "HC-EVIDENCE-CH-036"
+},
+{
+"concept_id": "HC-CONCEPT-0144",
+"concept_name": "Strength Focused Problem Solving",
+"concept_type": "Practical Concept",
+"definition": "Approaching challenges by leveraging existing strengths, resources, and capabilities.",
+"source_aku": "HCAM-SPIRIT-HC-0036",
+"source_evidence": "HC-EVIDENCE-CH-036"
+},
+{
+"concept_id": "HC-CONCEPT-0145",
+"concept_name": "Guided Learning",
+"concept_type": "Core Concept",
+"definition": "Learning that is accelerated through the support of mentors, teachers, guides, or trusted sources of wisdom.",
+"source_aku": "HCAM-SPIRIT-HC-0037",
+"source_evidence": "HC-EVIDENCE-CH-037"
+},
+{
+"concept_id": "HC-CONCEPT-0146",
+"concept_name": "Mentorship Influence",
+"concept_type": "Supporting Concept",
+"definition": "The positive impact created when experienced individuals help others navigate growth and development.",
+"source_aku": "HCAM-SPIRIT-HC-0037",
+"source_evidence": "HC-EVIDENCE-CH-037"
+},
+{
+"concept_id": "HC-CONCEPT-0147",
+"concept_name": "Learning Humility",
+"concept_type": "Hidden Concept",
+"definition": "The willingness to remain teachable regardless of current knowledge, status, or achievement.",
+"source_aku": "HCAM-SPIRIT-HC-0037",
+"source_evidence": "HC-EVIDENCE-CH-037"
+},
+{
+"concept_id": "HC-CONCEPT-0148",
+"concept_name": "Wisdom Transmission",
+"concept_type": "Practical Concept",
+"definition": "The transfer of insight, knowledge, experience, and judgment from one individual to another.",
+"source_aku": "HCAM-SPIRIT-HC-0037",
+"source_evidence": "HC-EVIDENCE-CH-037"
+},
+{
+"concept_id": "HC-CONCEPT-0149",
+"concept_name": "Disciplined Repetition",
+"concept_type": "Core Concept",
+"definition": "The intentional and consistent repetition of beneficial actions over time.",
+"source_aku": "HCAM-SPIRIT-HC-0038",
+"source_evidence": "HC-EVIDENCE-CH-038"
+},
+{
+"concept_id": "HC-CONCEPT-0150",
+"concept_name": "Habit Driven Transformation",
+"concept_type": "Supporting Concept",
+"definition": "Positive change created through sustained habits rather than isolated efforts.",
+"source_aku": "HCAM-SPIRIT-HC-0038",
+"source_evidence": "HC-EVIDENCE-CH-038"
+},
+{
+"concept_id": "HC-CONCEPT-0151",
+"concept_name": "Cumulative Growth",
+"concept_type": "Hidden Concept",
+"definition": "The gradual accumulation of benefits through repeated constructive actions.",
+"source_aku": "HCAM-SPIRIT-HC-0038",
+"source_evidence": "HC-EVIDENCE-CH-038"
+},
+{
+"concept_id": "HC-CONCEPT-0152",
+"concept_name": "Practice Based Mastery",
+"concept_type": "Practical Concept",
+"definition": "Developing capability and freedom through continuous practice and refinement.",
+"source_aku": "HCAM-SPIRIT-HC-0038",
+"source_evidence": "HC-EVIDENCE-CH-038"
+},
+{
+"concept_id": "HC-CONCEPT-0153",
+"concept_name": "Applied Wisdom",
+"concept_type": "Core Concept",
+"definition": "The process of converting knowledge into action, behavior, and lived experience.",
+"source_aku": "HCAM-SPIRIT-HC-0039",
+"source_evidence": "HC-EVIDENCE-CH-039"
+},
+{
+"concept_id": "HC-CONCEPT-0154",
+"concept_name": "Embodied Learning",
+"concept_type": "Supporting Concept",
+"definition": "Learning that becomes integrated into daily thinking, decisions, and conduct.",
+"source_aku": "HCAM-SPIRIT-HC-0039",
+"source_evidence": "HC-EVIDENCE-CH-039"
+},
+{
+"concept_id": "HC-CONCEPT-0155",
+"concept_name": "Knowledge Realization",
+"concept_type": "Hidden Concept",
+"definition": "The transformation that occurs when understanding evolves into direct experience and practical capability.",
+"source_aku": "HCAM-SPIRIT-HC-0039",
+"source_evidence": "HC-EVIDENCE-CH-039"
+},
+{
+"concept_id": "HC-CONCEPT-0156",
+"concept_name": "Practice Driven Mastery",
+"concept_type": "Practical Concept",
+"definition": "Achieving competence and results through repeated application of learned principles.",
+"source_aku": "HCAM-SPIRIT-HC-0039",
+"source_evidence": "HC-EVIDENCE-CH-039"
+},
+{
+"concept_id": "HC-CONCEPT-0157",
+"concept_name": "Service Based Identity",
+"concept_type": "Core Concept",
+"definition": "An identity defined by contribution, responsibility, and service rather than status, ego, or external recognition.",
+"source_aku": "HCAM-SPIRIT-HC-0040",
+"source_evidence": "HC-EVIDENCE-CH-040"
+},
+{
+"concept_id": "HC-CONCEPT-0158",
+"concept_name": "Inner Anchoring",
+"concept_type": "Supporting Concept",
+"definition": "Maintaining psychological and spiritual stability through connection to enduring values and principles.",
+"source_aku": "HCAM-SPIRIT-HC-0040",
+"source_evidence": "HC-EVIDENCE-CH-040"
+},
+{
+"concept_id": "HC-CONCEPT-0159",
+"concept_name": "Humble Self Positioning",
+"concept_type": "Hidden Concept",
+"definition": "Choosing humility and service over self-importance as a foundation for personal identity.",
+"source_aku": "HCAM-SPIRIT-HC-0040",
+"source_evidence": "HC-EVIDENCE-CH-040"
+},
+{
+"concept_id": "HC-CONCEPT-0160",
+"concept_name": "Heart Centered Alignment",
+"concept_type": "Practical Concept",
+"definition": "Keeping thoughts, emotions, decisions, and actions aligned with deeply held values.",
+"source_aku": "HCAM-SPIRIT-HC-0040",
+"source_evidence": "HC-EVIDENCE-CH-040"
+}
+]
+}
