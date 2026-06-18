@@ -79,6 +79,12 @@
 "registry_type": "AKU Registry",
 "description": "Contains 40 primary HCAM-AKU knowledge objects supported by evidence units."
 },
+  {
+  "file_name": "aku-index.json",
+  "file_path": "corpus/aku-index.json",
+  "registry_type": "AKU Index",
+  "description": "Lightweight lookup index for AKU discovery, evidence linkage, graph traversal, retrieval routing, and corpus navigation."
+},
 {
 "file_name": "concepts.json",
 "file_path": "corpus/concepts.json",
