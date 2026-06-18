@@ -1,0 +1,431 @@
+{
+"schema_version": "HCAM-AKU-SPIRITUAL-CORPUS-V1.0",
+"index_type": "AKU Index",
+"index_id": "HCAM-AKU-INDEX-SPIRIT-HANUMAN-CHALISA-V1",
+"corpus_id": "HCAM-SPIRIT-HANUMAN-CHALISA-V1",
+"corpus_name": "Hanuman Chalisa HCAM-AKU Spiritual Corpus",
+"source_work": "Hanuman Chalisa",
+"parent_graph": {
+"graph_name": "HCAM™ Spiritual Knowledge Graph",
+"graph_abbreviation": "HCAM-SKG™"
+},
+"source_registry": {
+"file_name": "aku.json",
+"file_path": "corpus/aku.json",
+"registry_type": "AKU Registry"
+},
+"total_akus": 40,
+"id_pattern": "HCAM-SPIRIT-HC-XXXX",
+"index_purpose": "Lightweight lookup index for AKU discovery, evidence linkage, graph traversal, retrieval routing, and corpus navigation.",
+"aku_index": [
+{
+"serial_number": 1,
+"aku_id": "HCAM-SPIRIT-HC-0001",
+"aku_name": "Wisdom And Virtue As Foundational Excellence",
+"supported_by": ["HC-EVIDENCE-CH-001"],
+"source_chaupai_number": 1,
+"primary_theme": "Wisdom and virtue"
+},
+{
+"serial_number": 2,
+"aku_id": "HCAM-SPIRIT-HC-0002",
+"aku_name": "Strength Through Service And Mission Alignment",
+"supported_by": ["HC-EVIDENCE-CH-002"],
+"source_chaupai_number": 2,
+"primary_theme": "Strength through service"
+},
+{
+"serial_number": 3,
+"aku_id": "HCAM-SPIRIT-HC-0003",
+"aku_name": "Courageous Clarity Against Wrong Thinking",
+"supported_by": ["HC-EVIDENCE-CH-003"],
+"source_chaupai_number": 3,
+"primary_theme": "Right thinking and courage"
+},
+{
+"serial_number": 4,
+"aku_id": "HCAM-SPIRIT-HC-0004",
+"aku_name": "Inner Excellence Reflected Through Presence",
+"supported_by": ["HC-EVIDENCE-CH-004"],
+"source_chaupai_number": 4,
+"primary_theme": "Presence and dignity"
+},
+{
+"serial_number": 5,
+"aku_id": "HCAM-SPIRIT-HC-0005",
+"aku_name": "Disciplined Strength With Sacred Responsibility",
+"supported_by": ["HC-EVIDENCE-CH-005"],
+"source_chaupai_number": 5,
+"primary_theme": "Disciplined responsibility"
+},
+{
+"serial_number": 6,
+"aku_id": "HCAM-SPIRIT-HC-0006",
+"aku_name": "Influence Through Character And Radiance",
+"supported_by": ["HC-EVIDENCE-CH-006"],
+"source_chaupai_number": 6,
+"primary_theme": "Character and radiance"
+},
+{
+"serial_number": 7,
+"aku_id": "HCAM-SPIRIT-HC-0007",
+"aku_name": "Knowledge Activated By Purposeful Action",
+"supported_by": ["HC-EVIDENCE-CH-007"],
+"source_chaupai_number": 7,
+"primary_theme": "Purposeful action"
+},
+{
+"serial_number": 8,
+"aku_id": "HCAM-SPIRIT-HC-0008",
+"aku_name": "Noble Attention As Identity Formation",
+"supported_by": ["HC-EVIDENCE-CH-008"],
+"source_chaupai_number": 8,
+"primary_theme": "Attention and identity"
+},
+{
+"serial_number": 9,
+"aku_id": "HCAM-SPIRIT-HC-0009",
+"aku_name": "Adaptive Intelligence In Mission Execution",
+"supported_by": ["HC-EVIDENCE-CH-009"],
+"source_chaupai_number": 9,
+"primary_theme": "Adaptive intelligence"
+},
+{
+"serial_number": 10,
+"aku_id": "HCAM-SPIRIT-HC-0010",
+"aku_name": "Decisive Courage For Obstacle Removal",
+"supported_by": ["HC-EVIDENCE-CH-010"],
+"source_chaupai_number": 10,
+"primary_theme": "Obstacle removal"
+},
+{
+"serial_number": 11,
+"aku_id": "HCAM-SPIRIT-HC-0011",
+"aku_name": "Life Restoring Service In Crisis",
+"supported_by": ["HC-EVIDENCE-CH-011"],
+"source_chaupai_number": 11,
+"primary_theme": "Crisis service"
+},
+{
+"serial_number": 12,
+"aku_id": "HCAM-SPIRIT-HC-0012",
+"aku_name": "Earned Trust Through Loyal Contribution",
+"supported_by": ["HC-EVIDENCE-CH-012"],
+"source_chaupai_number": 12,
+"primary_theme": "Loyal contribution"
+},
+{
+"serial_number": 13,
+"aku_id": "HCAM-SPIRIT-HC-0013",
+"aku_name": "Enduring Contribution Beyond Recognition",
+"supported_by": ["HC-EVIDENCE-CH-013"],
+"source_chaupai_number": 13,
+"primary_theme": "Contribution beyond praise"
+},
+{
+"serial_number": 14,
+"aku_id": "HCAM-SPIRIT-HC-0014",
+"aku_name": "Authentic Excellence Recognized Across Wisdom Systems",
+"supported_by": ["HC-EVIDENCE-CH-014"],
+"source_chaupai_number": 14,
+"primary_theme": "Recognized excellence"
+},
+{
+"serial_number": 15,
+"aku_id": "HCAM-SPIRIT-HC-0015",
+"aku_name": "Intellectual Humility Before Vast Greatness",
+"supported_by": ["HC-EVIDENCE-CH-015"],
+"source_chaupai_number": 15,
+"primary_theme": "Intellectual humility"
+},
+{
+"serial_number": 16,
+"aku_id": "HCAM-SPIRIT-HC-0016",
+"aku_name": "Transformational Opportunity Through Meaningful Connection",
+"supported_by": ["HC-EVIDENCE-CH-016"],
+"source_chaupai_number": 16,
+"primary_theme": "Meaningful connection"
+},
+{
+"serial_number": 17,
+"aku_id": "HCAM-SPIRIT-HC-0017",
+"aku_name": "Wise Counsel Accepted For Transformation",
+"supported_by": ["HC-EVIDENCE-CH-017"],
+"source_chaupai_number": 17,
+"primary_theme": "Wise counsel"
+},
+{
+"serial_number": 18,
+"aku_id": "HCAM-SPIRIT-HC-0018",
+"aku_name": "Fearless Aspiration Beyond Perceived Limits",
+"supported_by": ["HC-EVIDENCE-CH-018"],
+"source_chaupai_number": 18,
+"primary_theme": "Fearless aspiration"
+},
+{
+"serial_number": 19,
+"aku_id": "HCAM-SPIRIT-HC-0019",
+"aku_name": "Trusted Responsibility Enables Extraordinary Achievement",
+"supported_by": ["HC-EVIDENCE-CH-019"],
+"source_chaupai_number": 19,
+"primary_theme": "Trusted responsibility"
+},
+{
+"serial_number": 20,
+"aku_id": "HCAM-SPIRIT-HC-0020",
+"aku_name": "Obstacle Transformation Through Support And Grace",
+"supported_by": ["HC-EVIDENCE-CH-020"],
+"source_chaupai_number": 20,
+"primary_theme": "Support and grace"
+},
+{
+"serial_number": 21,
+"aku_id": "HCAM-SPIRIT-HC-0021",
+"aku_name": "Responsible Gatekeeping For Higher Access",
+"supported_by": ["HC-EVIDENCE-CH-021"],
+"source_chaupai_number": 21,
+"primary_theme": "Responsible access"
+},
+{
+"serial_number": 22,
+"aku_id": "HCAM-SPIRIT-HC-0022",
+"aku_name": "Fearless Wellbeing Through Trusted Protection",
+"supported_by": ["HC-EVIDENCE-CH-022"],
+"source_chaupai_number": 22,
+"primary_theme": "Trusted protection"
+},
+{
+"serial_number": 23,
+"aku_id": "HCAM-SPIRIT-HC-0023",
+"aku_name": "Self Mastery As The Highest Strength",
+"supported_by": ["HC-EVIDENCE-CH-023"],
+"source_chaupai_number": 23,
+"primary_theme": "Self mastery"
+},
+{
+"serial_number": 24,
+"aku_id": "HCAM-SPIRIT-HC-0024",
+"aku_name": "Psychological Protection Through Courageous Awareness",
+"supported_by": ["HC-EVIDENCE-CH-024"],
+"source_chaupai_number": 24,
+"primary_theme": "Psychological protection"
+},
+{
+"serial_number": 25,
+"aku_id": "HCAM-SPIRIT-HC-0025",
+"aku_name": "Restorative Wellbeing Through Consistent Practice",
+"supported_by": ["HC-EVIDENCE-CH-025"],
+"source_chaupai_number": 25,
+"primary_theme": "Consistent practice"
+},
+{
+"serial_number": 26,
+"aku_id": "HCAM-SPIRIT-HC-0026",
+"aku_name": "Crisis Resolution Through Total Alignment",
+"supported_by": ["HC-EVIDENCE-CH-026"],
+"source_chaupai_number": 26,
+"primary_theme": "Total alignment"
+},
+{
+"serial_number": 27,
+"aku_id": "HCAM-SPIRIT-HC-0027",
+"aku_name": "Purpose Driven Execution Of Higher Work",
+"supported_by": ["HC-EVIDENCE-CH-027"],
+"source_chaupai_number": 27,
+"primary_theme": "Higher work execution"
+},
+{
+"serial_number": 28,
+"aku_id": "HCAM-SPIRIT-HC-0028",
+"aku_name": "Purpose Aligned Aspiration For Meaningful Fulfillment",
+"supported_by": ["HC-EVIDENCE-CH-028"],
+"source_chaupai_number": 28,
+"primary_theme": "Meaningful aspiration"
+},
+{
+"serial_number": 29,
+"aku_id": "HCAM-SPIRIT-HC-0029",
+"aku_name": "Timeless Influence Through Enduring Contribution",
+"supported_by": ["HC-EVIDENCE-CH-029"],
+"source_chaupai_number": 29,
+"primary_theme": "Timeless influence"
+},
+{
+"serial_number": 30,
+"aku_id": "HCAM-SPIRIT-HC-0030",
+"aku_name": "Protective Stewardship Of Goodness",
+"supported_by": ["HC-EVIDENCE-CH-030"],
+"source_chaupai_number": 30,
+"primary_theme": "Protective stewardship"
+},
+{
+"serial_number": 31,
+"aku_id": "HCAM-SPIRIT-HC-0031",
+"aku_name": "Responsible Stewardship Of Capability And Abundance",
+"supported_by": ["HC-EVIDENCE-CH-031"],
+"source_chaupai_number": 31,
+"primary_theme": "Responsible abundance"
+},
+{
+"serial_number": 32,
+"aku_id": "HCAM-SPIRIT-HC-0032",
+"aku_name": "Mastery Anchored In Humble Service",
+"supported_by": ["HC-EVIDENCE-CH-032"],
+"source_chaupai_number": 32,
+"primary_theme": "Humble mastery"
+},
+{
+"serial_number": 33,
+"aku_id": "HCAM-SPIRIT-HC-0033",
+"aku_name": "Transformational Alignment With Higher Values",
+"supported_by": ["HC-EVIDENCE-CH-033"],
+"source_chaupai_number": 33,
+"primary_theme": "Higher value alignment"
+},
+{
+"serial_number": 34,
+"aku_id": "HCAM-SPIRIT-HC-0034",
+"aku_name": "Enduring Identity Through Lifelong Value Alignment",
+"supported_by": ["HC-EVIDENCE-CH-034"],
+"source_chaupai_number": 34,
+"primary_theme": "Lifelong value alignment"
+},
+{
+"serial_number": 35,
+"aku_id": "HCAM-SPIRIT-HC-0035",
+"aku_name": "Focused Commitment Through Priority Alignment",
+"supported_by": ["HC-EVIDENCE-CH-035"],
+"source_chaupai_number": 35,
+"primary_theme": "Focused commitment"
+},
+{
+"serial_number": 36,
+"aku_id": "HCAM-SPIRIT-HC-0036",
+"aku_name": "Resilient Recovery Through Strength Anchoring",
+"supported_by": ["HC-EVIDENCE-CH-036"],
+"source_chaupai_number": 36,
+"primary_theme": "Resilient recovery"
+},
+{
+"serial_number": 37,
+"aku_id": "HCAM-SPIRIT-HC-0037",
+"aku_name": "Transformational Growth Through Guided Learning",
+"supported_by": ["HC-EVIDENCE-CH-037"],
+"source_chaupai_number": 37,
+"primary_theme": "Guided learning"
+},
+{
+"serial_number": 38,
+"aku_id": "HCAM-SPIRIT-HC-0038",
+"aku_name": "Liberation Through Disciplined Repetition",
+"supported_by": ["HC-EVIDENCE-CH-038"],
+"source_chaupai_number": 38,
+"primary_theme": "Disciplined repetition"
+},
+{
+"serial_number": 39,
+"aku_id": "HCAM-SPIRIT-HC-0039",
+"aku_name": "Applied Wisdom Creates Realization",
+"supported_by": ["HC-EVIDENCE-CH-039"],
+"source_chaupai_number": 39,
+"primary_theme": "Applied wisdom"
+},
+{
+"serial_number": 40,
+"aku_id": "HCAM-SPIRIT-HC-0040",
+"aku_name": "Identity Anchored In Humble Service",
+"supported_by": ["HC-EVIDENCE-CH-040"],
+"source_chaupai_number": 40,
+"primary_theme": "Humble service identity"
+}
+],
+"lookup": {
+"HCAM-SPIRIT-HC-0001": "Wisdom And Virtue As Foundational Excellence",
+"HCAM-SPIRIT-HC-0002": "Strength Through Service And Mission Alignment",
+"HCAM-SPIRIT-HC-0003": "Courageous Clarity Against Wrong Thinking",
+"HCAM-SPIRIT-HC-0004": "Inner Excellence Reflected Through Presence",
+"HCAM-SPIRIT-HC-0005": "Disciplined Strength With Sacred Responsibility",
+"HCAM-SPIRIT-HC-0006": "Influence Through Character And Radiance",
+"HCAM-SPIRIT-HC-0007": "Knowledge Activated By Purposeful Action",
+"HCAM-SPIRIT-HC-0008": "Noble Attention As Identity Formation",
+"HCAM-SPIRIT-HC-0009": "Adaptive Intelligence In Mission Execution",
+"HCAM-SPIRIT-HC-0010": "Decisive Courage For Obstacle Removal",
+"HCAM-SPIRIT-HC-0011": "Life Restoring Service In Crisis",
+"HCAM-SPIRIT-HC-0012": "Earned Trust Through Loyal Contribution",
+"HCAM-SPIRIT-HC-0013": "Enduring Contribution Beyond Recognition",
+"HCAM-SPIRIT-HC-0014": "Authentic Excellence Recognized Across Wisdom Systems",
+"HCAM-SPIRIT-HC-0015": "Intellectual Humility Before Vast Greatness",
+"HCAM-SPIRIT-HC-0016": "Transformational Opportunity Through Meaningful Connection",
+"HCAM-SPIRIT-HC-0017": "Wise Counsel Accepted For Transformation",
+"HCAM-SPIRIT-HC-0018": "Fearless Aspiration Beyond Perceived Limits",
+"HCAM-SPIRIT-HC-0019": "Trusted Responsibility Enables Extraordinary Achievement",
+"HCAM-SPIRIT-HC-0020": "Obstacle Transformation Through Support And Grace",
+"HCAM-SPIRIT-HC-0021": "Responsible Gatekeeping For Higher Access",
+"HCAM-SPIRIT-HC-0022": "Fearless Wellbeing Through Trusted Protection",
+"HCAM-SPIRIT-HC-0023": "Self Mastery As The Highest Strength",
+"HCAM-SPIRIT-HC-0024": "Psychological Protection Through Courageous Awareness",
+"HCAM-SPIRIT-HC-0025": "Restorative Wellbeing Through Consistent Practice",
+"HCAM-SPIRIT-HC-0026": "Crisis Resolution Through Total Alignment",
+"HCAM-SPIRIT-HC-0027": "Purpose Driven Execution Of Higher Work",
+"HCAM-SPIRIT-HC-0028": "Purpose Aligned Aspiration For Meaningful Fulfillment",
+"HCAM-SPIRIT-HC-0029": "Timeless Influence Through Enduring Contribution",
+"HCAM-SPIRIT-HC-0030": "Protective Stewardship Of Goodness",
+"HCAM-SPIRIT-HC-0031": "Responsible Stewardship Of Capability And Abundance",
+"HCAM-SPIRIT-HC-0032": "Mastery Anchored In Humble Service",
+"HCAM-SPIRIT-HC-0033": "Transformational Alignment With Higher Values",
+"HCAM-SPIRIT-HC-0034": "Enduring Identity Through Lifelong Value Alignment",
+"HCAM-SPIRIT-HC-0035": "Focused Commitment Through Priority Alignment",
+"HCAM-SPIRIT-HC-0036": "Resilient Recovery Through Strength Anchoring",
+"HCAM-SPIRIT-HC-0037": "Transformational Growth Through Guided Learning",
+"HCAM-SPIRIT-HC-0038": "Liberation Through Disciplined Repetition",
+"HCAM-SPIRIT-HC-0039": "Applied Wisdom Creates Realization",
+"HCAM-SPIRIT-HC-0040": "Identity Anchored In Humble Service"
+},
+"evidence_to_aku_lookup": {
+"HC-EVIDENCE-CH-001": "HCAM-SPIRIT-HC-0001",
+"HC-EVIDENCE-CH-002": "HCAM-SPIRIT-HC-0002",
+"HC-EVIDENCE-CH-003": "HCAM-SPIRIT-HC-0003",
+"HC-EVIDENCE-CH-004": "HCAM-SPIRIT-HC-0004",
+"HC-EVIDENCE-CH-005": "HCAM-SPIRIT-HC-0005",
+"HC-EVIDENCE-CH-006": "HCAM-SPIRIT-HC-0006",
+"HC-EVIDENCE-CH-007": "HCAM-SPIRIT-HC-0007",
+"HC-EVIDENCE-CH-008": "HCAM-SPIRIT-HC-0008",
+"HC-EVIDENCE-CH-009": "HCAM-SPIRIT-HC-0009",
+"HC-EVIDENCE-CH-010": "HCAM-SPIRIT-HC-0010",
+"HC-EVIDENCE-CH-011": "HCAM-SPIRIT-HC-0011",
+"HC-EVIDENCE-CH-012": "HCAM-SPIRIT-HC-0012",
+"HC-EVIDENCE-CH-013": "HCAM-SPIRIT-HC-0013",
+"HC-EVIDENCE-CH-014": "HCAM-SPIRIT-HC-0014",
+"HC-EVIDENCE-CH-015": "HCAM-SPIRIT-HC-0015",
+"HC-EVIDENCE-CH-016": "HCAM-SPIRIT-HC-0016",
+"HC-EVIDENCE-CH-017": "HCAM-SPIRIT-HC-0017",
+"HC-EVIDENCE-CH-018": "HCAM-SPIRIT-HC-0018",
+"HC-EVIDENCE-CH-019": "HCAM-SPIRIT-HC-0019",
+"HC-EVIDENCE-CH-020": "HCAM-SPIRIT-HC-0020",
+"HC-EVIDENCE-CH-021": "HCAM-SPIRIT-HC-0021",
+"HC-EVIDENCE-CH-022": "HCAM-SPIRIT-HC-0022",
+"HC-EVIDENCE-CH-023": "HCAM-SPIRIT-HC-0023",
+"HC-EVIDENCE-CH-024": "HCAM-SPIRIT-HC-0024",
+"HC-EVIDENCE-CH-025": "HCAM-SPIRIT-HC-0025",
+"HC-EVIDENCE-CH-026": "HCAM-SPIRIT-HC-0026",
+"HC-EVIDENCE-CH-027": "HCAM-SPIRIT-HC-0027",
+"HC-EVIDENCE-CH-028": "HCAM-SPIRIT-HC-0028",
+"HC-EVIDENCE-CH-029": "HCAM-SPIRIT-HC-0029",
+"HC-EVIDENCE-CH-030": "HCAM-SPIRIT-HC-0030",
+"HC-EVIDENCE-CH-031": "HCAM-SPIRIT-HC-0031",
+"HC-EVIDENCE-CH-032": "HCAM-SPIRIT-HC-0032",
+"HC-EVIDENCE-CH-033": "HCAM-SPIRIT-HC-0033",
+"HC-EVIDENCE-CH-034": "HCAM-SPIRIT-HC-0034",
+"HC-EVIDENCE-CH-035": "HCAM-SPIRIT-HC-0035",
+"HC-EVIDENCE-CH-036": "HCAM-SPIRIT-HC-0036",
+"HC-EVIDENCE-CH-037": "HCAM-SPIRIT-HC-0037",
+"HC-EVIDENCE-CH-038": "HCAM-SPIRIT-HC-0038",
+"HC-EVIDENCE-CH-039": "HCAM-SPIRIT-HC-0039",
+"HC-EVIDENCE-CH-040": "HCAM-SPIRIT-HC-0040"
+},
+"status": {
+"index_status": "Complete",
+"validation_note": "This index contains 40 AKU entries mapped one-to-one with 40 Hanuman Chalisa evidence units for the evaluation corpus.",
+"next_recommended_file": "hcam-skg/README.md"
+}
+}
