@@ -150,39 +150,63 @@ Knowledge Graph Demonstration
 
 # Current Folder Structure
 
-# Current Folder Structure
 
 
 hcam-skg/
+
 ├── README.md
+
 ├── future-corpora.md
+
 └── hanuman-chalisa/
+
     ├── README.md
+
     ├── LICENSE.md
+
     ├── manifest.json
+
     │
     ├── corpus/
+
     │   ├── evidence.json
+
     │   ├── aku.json
+
     │   ├── aku-index.json
+
     │   ├── concepts.json
+
     │   ├── life-situations.json
+
     │   ├── practices.json
+
     │   ├── retrieval.json
+
     │   ├── relationships.json
+
     │   └── anchors.json
     │
     ├── docs/
+
     │   ├── corpus-methodology.md
+
     │   ├── ontology.md
+
     │   ├── hcam-aku-definition.md
+
     │   ├── jsonld-alignment.md
+
     │   ├── relationship-vocabulary.md
+
     │   └── aku-governance.md
     │
     └── examples/
+
         ├── chaupai-01-complete.json
+
         ├── chaupai-20-complete.json
+
         └── chaupai-40-complete.json
 
 
